@@ -24,3 +24,9 @@ sortir
 suivre
 venir
 vivre
+oublier
+valoir
+cuire
+croire
+plaire
+clore
