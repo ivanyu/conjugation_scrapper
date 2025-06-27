@@ -30,3 +30,4 @@ cuire
 croire
 plaire
 clore
+ouvrir
