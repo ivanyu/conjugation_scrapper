@@ -31,3 +31,6 @@ croire
 plaire
 clore
 ouvrir
+envoyer
+recevoir
+courir
