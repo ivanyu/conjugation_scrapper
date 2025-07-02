@@ -9,6 +9,7 @@ from bs4 import BeautifulSoup
 import csv
 import sys
 import time
+import re
 from urllib.parse import quote
 
 class FrenchConjugationScraper:
@@ -60,7 +61,7 @@ class FrenchConjugationScraper:
         
         # Required tenses for each mood
         required_tenses = {
-            'indicatif': ['Présent', 'Imparfait', 'Passé simple', 'Futur simple'],
+            'indicatif': ['Présent', 'Imparfait', 'Passé simple', 'Passé composé', 'Futur simple'],
             'subjonctif': ['Présent', 'Imparfait'],
             'conditionnel': ['Présent']
         }
@@ -124,6 +125,27 @@ class FrenchConjugationScraper:
                     
                     if len(cells) >= 2:
                         conjugated_form = cells[1].get_text().strip()
+                    
+                    # For Passé composé, combine auxiliary from first column with participle from second
+                    if tense_text.lower() == 'passé composé' and len(cells) >= 2:
+                        # First column contains pronoun + auxiliary (e.g., "j'ai", "tu as")
+                        # Second column contains past participle (e.g., "dîné")
+                        pronoun_aux = cells[0].get_text().strip().replace('\u2019', "'")  # Replace Unicode apostrophe
+                        participle = cells[1].get_text().strip()
+                        
+                        # Extract just the auxiliary verb from pronoun + auxiliary
+                        auxiliary = None
+                        if pronoun_aux.startswith("j'") or pronoun_aux.startswith("J'"):
+                            # For "j'ai" -> extract "ai"
+                            aux_part = pronoun_aux.replace("j'", "").replace("J'", "").strip()
+                            auxiliary = aux_part if aux_part else "ai"  # Default to "ai" for first person
+                        elif " " in pronoun_aux:
+                            # For cases like "tu as", "il a", "nous avons", etc.
+                            auxiliary = pronoun_aux.split()[-1]  # Get the last word (auxiliary)
+                        
+                        # Combine auxiliary + participle
+                        if auxiliary and participle:
+                            conjugated_form = f"{auxiliary} {participle}"
                     
                     if len(cells) >= 4:
                         # Combine pronunciation parts, preserving spaces

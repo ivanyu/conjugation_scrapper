@@ -6,7 +6,10 @@
       "Bash(pip3 install:*)",
       "Bash(virtualenv:*)",
       "Bash(source:*)",
-      "Bash(python:*)"
+      "Bash(python:*)",
+      "Bash(grep:*)",
+      "Bash(./venv/bin/python3 conjugation_scraper.py:*)",
+      "WebFetch(domain:fr.m.wiktionary.org)"
     ],
     "deny": []
   }

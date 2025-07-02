@@ -4,6 +4,12 @@
 être - indicatif - présent - première_pluriel,être,sommes,\nu sɔm\,indicatif,présent,première_pluriel
 être - indicatif - présent - deuxième_pluriel,être,êtes,\vu.z‿ɛt\,indicatif,présent,deuxième_pluriel
 être - indicatif - présent - troisième_pluriel,être,sont,\[il/ɛl] sɔ̃\,indicatif,présent,troisième_pluriel
+être - indicatif - passé_composé - première_singulier,être,ai été,\ʒ‿e e.te\,indicatif,passé composé,première_singulier
+être - indicatif - passé_composé - deuxième_singulier,être,as été,\ty a.z‿e.te\,indicatif,passé composé,deuxième_singulier
+être - indicatif - passé_composé - troisième_singulier,être,a été,\[i.l/ɛ.l/ɔ̃.n]‿a.e.te\,indicatif,passé composé,troisième_singulier
+être - indicatif - passé_composé - première_pluriel,être,avons été,\nu.z‿a.vɔ̃.z‿e.te\,indicatif,passé composé,première_pluriel
+être - indicatif - passé_composé - deuxième_pluriel,être,avez été,\vu.z‿a.ve.z‿e.te\,indicatif,passé composé,deuxième_pluriel
+être - indicatif - passé_composé - troisième_pluriel,être,ont été,\[i/ɛ]l.z‿ɔ̃.t‿e.te\,indicatif,passé composé,troisième_pluriel
 être - indicatif - imparfait - première_singulier,être,étais,\ʒ‿e.tɛ\,indicatif,imparfait,première_singulier
 être - indicatif - imparfait - deuxième_singulier,être,étais,\ty e.tɛ\,indicatif,imparfait,deuxième_singulier
 être - indicatif - imparfait - troisième_singulier,être,était,\[i.l/ɛ.l/ɔ̃.n]‿e.tɛ\,indicatif,imparfait,troisième_singulier
@@ -46,6 +52,12 @@ avoir - indicatif - présent - troisième_singulier,avoir,a,\[i.l/ɛ.l/ɔ̃.n]�
 avoir - indicatif - présent - première_pluriel,avoir,avons,\nu.z‿a.vɔ̃\,indicatif,présent,première_pluriel
 avoir - indicatif - présent - deuxième_pluriel,avoir,avez,\vu.z‿a.ve\,indicatif,présent,deuxième_pluriel
 avoir - indicatif - présent - troisième_pluriel,avoir,ont,\[il/ɛl].z‿ɔ̃\,indicatif,présent,troisième_pluriel
+avoir - indicatif - passé_composé - première_singulier,avoir,ai eu,\ʒ‿e y\,indicatif,passé composé,première_singulier
+avoir - indicatif - passé_composé - deuxième_singulier,avoir,as eu,\ty a.z‿y\,indicatif,passé composé,deuxième_singulier
+avoir - indicatif - passé_composé - troisième_singulier,avoir,a eu,\[i.l/ɛ.l/ɔ̃.n]‿a.y\,indicatif,passé composé,troisième_singulier
+avoir - indicatif - passé_composé - première_pluriel,avoir,avons eu,\nu.z‿a.vɔ̃.z‿y\,indicatif,passé composé,première_pluriel
+avoir - indicatif - passé_composé - deuxième_pluriel,avoir,avez eu,\vu.z‿a.ve.z‿y\,indicatif,passé composé,deuxième_pluriel
+avoir - indicatif - passé_composé - troisième_pluriel,avoir,ont eu,\[i/ɛ]l.z‿ɔ̃.t‿y\,indicatif,passé composé,troisième_pluriel
 avoir - indicatif - imparfait - première_singulier,avoir,avais,\ʒ‿a.vɛ\,indicatif,imparfait,première_singulier
 avoir - indicatif - imparfait - deuxième_singulier,avoir,avais,\ty a.vɛ\,indicatif,imparfait,deuxième_singulier
 avoir - indicatif - imparfait - troisième_singulier,avoir,avait,\[i.l/ɛ.l/ɔ̃.n]‿a.vɛ\,indicatif,imparfait,troisième_singulier
@@ -88,6 +100,12 @@ dîner - indicatif - présent - troisième_singulier,dîner,dîne,\[il/ɛl/ɔ̃]
 dîner - indicatif - présent - première_pluriel,dîner,dînons,\nu di.nɔ̃\,indicatif,présent,première_pluriel
 dîner - indicatif - présent - deuxième_pluriel,dîner,dînez,\vu di.ne\,indicatif,présent,deuxième_pluriel
 dîner - indicatif - présent - troisième_pluriel,dîner,dînent,\[il/ɛl] din\,indicatif,présent,troisième_pluriel
+dîner - indicatif - passé_composé - première_singulier,dîner,ai dîné,\ʒ‿e di.ne\,indicatif,passé composé,première_singulier
+dîner - indicatif - passé_composé - deuxième_singulier,dîner,as dîné,\ty a di.ne\,indicatif,passé composé,deuxième_singulier
+dîner - indicatif - passé_composé - troisième_singulier,dîner,a dîné,\[i.l/ɛ.l/ɔ̃.n]‿a di.ne\,indicatif,passé composé,troisième_singulier
+dîner - indicatif - passé_composé - première_pluriel,dîner,avons dîné,\nu.z‿a.vɔ̃ di.ne\,indicatif,passé composé,première_pluriel
+dîner - indicatif - passé_composé - deuxième_pluriel,dîner,avez dîné,\vu.z‿a.ve di.ne\,indicatif,passé composé,deuxième_pluriel
+dîner - indicatif - passé_composé - troisième_pluriel,dîner,ont dîné,\[i/ɛ]l.z‿ɔ̃ di.ne\,indicatif,passé composé,troisième_pluriel
 dîner - indicatif - imparfait - première_singulier,dîner,dînais,\ʒə di.nɛ\,indicatif,imparfait,première_singulier
 dîner - indicatif - imparfait - deuxième_singulier,dîner,dînais,\ty di.nɛ\,indicatif,imparfait,deuxième_singulier
 dîner - indicatif - imparfait - troisième_singulier,dîner,dînait,\[il/ɛl/ɔ̃] di.nɛ\,indicatif,imparfait,troisième_singulier
@@ -130,6 +148,12 @@ aller - indicatif - présent - troisième_singulier,aller,va,\[il/ɛl/ɔ̃] va\
 aller - indicatif - présent - première_pluriel,aller,allons,\nu.z‿a.lɔ̃\,indicatif,présent,première_pluriel
 aller - indicatif - présent - deuxième_pluriel,aller,allez,\vu.z‿a.le\,indicatif,présent,deuxième_pluriel
 aller - indicatif - présent - troisième_pluriel,aller,vont,\[il/ɛl] vɔ̃\,indicatif,présent,troisième_pluriel
+aller - indicatif - passé_composé - première_singulier,aller,suis allé,\ʒə sɥi.z‿a.le\,indicatif,passé composé,première_singulier
+aller - indicatif - passé_composé - deuxième_singulier,aller,es allé,\ty ɛ.z‿a.le\,indicatif,passé composé,deuxième_singulier
+aller - indicatif - passé_composé - troisième_singulier,aller,est allé,\[i.l/ɛ.l/ɔ̃.n]‿ɛ.t‿a.le\,indicatif,passé composé,troisième_singulier
+aller - indicatif - passé_composé - première_pluriel,aller,sommes allés,\nu sɔm.z‿a.le\,indicatif,passé composé,première_pluriel
+aller - indicatif - passé_composé - deuxième_pluriel,aller,êtes allés,\vu.z‿ɛt.z‿a.le\,indicatif,passé composé,deuxième_pluriel
+aller - indicatif - passé_composé - troisième_pluriel,aller,sont allés,\[i/ɛ]l sɔ̃.t‿a.le\,indicatif,passé composé,troisième_pluriel
 aller - indicatif - imparfait - première_singulier,aller,allais,\ʒ‿a.lɛ\,indicatif,imparfait,première_singulier
 aller - indicatif - imparfait - deuxième_singulier,aller,allais,\ty a.lɛ\,indicatif,imparfait,deuxième_singulier
 aller - indicatif - imparfait - troisième_singulier,aller,allait,\[i.l/ɛ.l/ɔ̃.n]‿a.lɛ\,indicatif,imparfait,troisième_singulier
@@ -172,6 +196,12 @@ boire - indicatif - présent - troisième_singulier,boire,boit,\[il/ɛl/ɔ̃] b
 boire - indicatif - présent - première_pluriel,boire,buvons,\nu by.vɔ̃\,indicatif,présent,première_pluriel
 boire - indicatif - présent - deuxième_pluriel,boire,buvez,\vu by.ve\,indicatif,présent,deuxième_pluriel
 boire - indicatif - présent - troisième_pluriel,boire,boivent,\[il/ɛl] bwav\,indicatif,présent,troisième_pluriel
+boire - indicatif - passé_composé - première_singulier,boire,ai bu,\ʒ‿e by\,indicatif,passé composé,première_singulier
+boire - indicatif - passé_composé - deuxième_singulier,boire,as bu,\ty a by\,indicatif,passé composé,deuxième_singulier
+boire - indicatif - passé_composé - troisième_singulier,boire,a bu,\[i.l/ɛ.l/ɔ̃.n]‿a by\,indicatif,passé composé,troisième_singulier
+boire - indicatif - passé_composé - première_pluriel,boire,avons bu,\nu.z‿a.vɔ̃ by\,indicatif,passé composé,première_pluriel
+boire - indicatif - passé_composé - deuxième_pluriel,boire,avez bu,\vu.z‿a.ve by\,indicatif,passé composé,deuxième_pluriel
+boire - indicatif - passé_composé - troisième_pluriel,boire,ont bu,\[i/ɛ]l.z‿ɔ̃ by\,indicatif,passé composé,troisième_pluriel
 boire - indicatif - imparfait - première_singulier,boire,buvais,\ʒə by.vɛ\,indicatif,imparfait,première_singulier
 boire - indicatif - imparfait - deuxième_singulier,boire,buvais,\ty by.vɛ\,indicatif,imparfait,deuxième_singulier
 boire - indicatif - imparfait - troisième_singulier,boire,buvait,\[il/ɛl/ɔ̃] by.vɛ\,indicatif,imparfait,troisième_singulier
@@ -214,6 +244,12 @@ connaître - indicatif - présent - troisième_singulier,connaître,connaît,\[i
 connaître - indicatif - présent - première_pluriel,connaître,connaissons,\nu kɔ.nɛ.sɔ̃\,indicatif,présent,première_pluriel
 connaître - indicatif - présent - deuxième_pluriel,connaître,connaissez,\vu kɔ.nɛ.se\,indicatif,présent,deuxième_pluriel
 connaître - indicatif - présent - troisième_pluriel,connaître,connaissent,\[il/ɛl] kɔ.nɛs\,indicatif,présent,troisième_pluriel
+connaître - indicatif - passé_composé - première_singulier,connaître,ai connu,\ʒ‿e kɔ.ny\,indicatif,passé composé,première_singulier
+connaître - indicatif - passé_composé - deuxième_singulier,connaître,as connu,\ty a kɔ.ny\,indicatif,passé composé,deuxième_singulier
+connaître - indicatif - passé_composé - troisième_singulier,connaître,a connu,\[i.l/ɛ.l/ɔ̃.n]‿a kɔ.ny\,indicatif,passé composé,troisième_singulier
+connaître - indicatif - passé_composé - première_pluriel,connaître,avons connu,\nu.z‿a.vɔ̃ kɔ.ny\,indicatif,passé composé,première_pluriel
+connaître - indicatif - passé_composé - deuxième_pluriel,connaître,avez connu,\vu.z‿a.ve kɔ.ny\,indicatif,passé composé,deuxième_pluriel
+connaître - indicatif - passé_composé - troisième_pluriel,connaître,ont connu,\[i/ɛ]l.z‿ɔ̃ kɔ.ny\,indicatif,passé composé,troisième_pluriel
 connaître - indicatif - imparfait - première_singulier,connaître,connaissais,\ʒə kɔ.nɛ.sɛ\,indicatif,imparfait,première_singulier
 connaître - indicatif - imparfait - deuxième_singulier,connaître,connaissais,\ty kɔ.nɛ.sɛ\,indicatif,imparfait,deuxième_singulier
 connaître - indicatif - imparfait - troisième_singulier,connaître,connaissait,\[il/ɛl/ɔ̃] kɔ.nɛ.sɛ\,indicatif,imparfait,troisième_singulier
@@ -256,6 +292,12 @@ devoir - indicatif - présent - troisième_singulier,devoir,doit,\[il/ɛl/ɔ̃]�
 devoir - indicatif - présent - première_pluriel,devoir,devons,\nu də.vɔ̃\,indicatif,présent,première_pluriel
 devoir - indicatif - présent - deuxième_pluriel,devoir,devez,\vu də.ve\,indicatif,présent,deuxième_pluriel
 devoir - indicatif - présent - troisième_pluriel,devoir,doivent,\[il/ɛl] dwav\,indicatif,présent,troisième_pluriel
+devoir - indicatif - passé_composé - première_singulier,devoir,ai dû,\ʒ‿e dy\,indicatif,passé composé,première_singulier
+devoir - indicatif - passé_composé - deuxième_singulier,devoir,as dû,\ty a dy\,indicatif,passé composé,deuxième_singulier
+devoir - indicatif - passé_composé - troisième_singulier,devoir,a dû,\[i.l/ɛ.l/ɔ̃.n]‿a dy\,indicatif,passé composé,troisième_singulier
+devoir - indicatif - passé_composé - première_pluriel,devoir,avons dû,\nu.z‿a.vɔ̃ dy\,indicatif,passé composé,première_pluriel
+devoir - indicatif - passé_composé - deuxième_pluriel,devoir,avez dû,\vu.z‿a.ve dy\,indicatif,passé composé,deuxième_pluriel
+devoir - indicatif - passé_composé - troisième_pluriel,devoir,ont dû,\[i/ɛ]l.z‿ɔ̃ dy\,indicatif,passé composé,troisième_pluriel
 devoir - indicatif - imparfait - première_singulier,devoir,devais,\ʒə də.vɛ\,indicatif,imparfait,première_singulier
 devoir - indicatif - imparfait - deuxième_singulier,devoir,devais,\ty də.vɛ\,indicatif,imparfait,deuxième_singulier
 devoir - indicatif - imparfait - troisième_singulier,devoir,devait,\[il/ɛl/ɔ̃] də.vɛ\,indicatif,imparfait,troisième_singulier
@@ -298,6 +340,12 @@ dire - indicatif - présent - troisième_singulier,dire,dit,\[il/ɛl/ɔ̃] di\,
 dire - indicatif - présent - première_pluriel,dire,disons,\nu di.zɔ̃\,indicatif,présent,première_pluriel
 dire - indicatif - présent - deuxième_pluriel,dire,dites,\vu dit\,indicatif,présent,deuxième_pluriel
 dire - indicatif - présent - troisième_pluriel,dire,disent,\[il/ɛl] diz\,indicatif,présent,troisième_pluriel
+dire - indicatif - passé_composé - première_singulier,dire,ai dit,\ʒ‿e di\,indicatif,passé composé,première_singulier
+dire - indicatif - passé_composé - deuxième_singulier,dire,as dit,\ty a di\,indicatif,passé composé,deuxième_singulier
+dire - indicatif - passé_composé - troisième_singulier,dire,a dit,\[i.l/ɛ.l/ɔ̃.n]‿a di\,indicatif,passé composé,troisième_singulier
+dire - indicatif - passé_composé - première_pluriel,dire,avons dit,\nu.z‿a.vɔ̃ di\,indicatif,passé composé,première_pluriel
+dire - indicatif - passé_composé - deuxième_pluriel,dire,avez dit,\vu.z‿a.ve di\,indicatif,passé composé,deuxième_pluriel
+dire - indicatif - passé_composé - troisième_pluriel,dire,ont dit,\[i/ɛ]l.z‿ɔ̃ di\,indicatif,passé composé,troisième_pluriel
 dire - indicatif - imparfait - première_singulier,dire,disais,\ʒə di.zɛ\,indicatif,imparfait,première_singulier
 dire - indicatif - imparfait - deuxième_singulier,dire,disais,\ty di.zɛ\,indicatif,imparfait,deuxième_singulier
 dire - indicatif - imparfait - troisième_singulier,dire,disait,\[il/ɛl/ɔ̃] di.zɛ\,indicatif,imparfait,troisième_singulier
@@ -340,6 +388,12 @@ dire - conditionnel - présent - troisième_pluriel,dire,diraient,\[il/ɛl] di.
 écrire - indicatif - présent - première_pluriel,écrire,écrivons,\nu.z‿e.kʁi.vɔ̃\,indicatif,présent,première_pluriel
 écrire - indicatif - présent - deuxième_pluriel,écrire,écrivez,\vu.z‿e.kʁi.ve\,indicatif,présent,deuxième_pluriel
 écrire - indicatif - présent - troisième_pluriel,écrire,écrivent,\[il/ɛl].z‿e.kʁiv\,indicatif,présent,troisième_pluriel
+écrire - indicatif - passé_composé - première_singulier,écrire,ai écrit,\ʒ‿e e.kʁi\,indicatif,passé composé,première_singulier
+écrire - indicatif - passé_composé - deuxième_singulier,écrire,as écrit,\ty a.z‿e.kʁi\,indicatif,passé composé,deuxième_singulier
+écrire - indicatif - passé_composé - troisième_singulier,écrire,a écrit,\[i.l/ɛ.l/ɔ̃.n]‿a.e.kʁi\,indicatif,passé composé,troisième_singulier
+écrire - indicatif - passé_composé - première_pluriel,écrire,avons écrit,\nu.z‿a.vɔ̃.z‿e.kʁi\,indicatif,passé composé,première_pluriel
+écrire - indicatif - passé_composé - deuxième_pluriel,écrire,avez écrit,\vu.z‿a.ve.z‿e.kʁi\,indicatif,passé composé,deuxième_pluriel
+écrire - indicatif - passé_composé - troisième_pluriel,écrire,ont écrit,\[i/ɛ]l.z‿ɔ̃.t‿e.kʁi\,indicatif,passé composé,troisième_pluriel
 écrire - indicatif - imparfait - première_singulier,écrire,écrivais,\ʒ‿e.kʁi.vɛ\,indicatif,imparfait,première_singulier
 écrire - indicatif - imparfait - deuxième_singulier,écrire,écrivais,\ty e.kʁi.vɛ\,indicatif,imparfait,deuxième_singulier
 écrire - indicatif - imparfait - troisième_singulier,écrire,écrivait,\[i.l/ɛ.l/ɔ̃.n]‿e.kʁi.vɛ\,indicatif,imparfait,troisième_singulier
@@ -382,6 +436,12 @@ faire - indicatif - présent - troisième_singulier,faire,fait,\[il/ɛl/ɔ̃] f
 faire - indicatif - présent - première_pluriel,faire,faisons,\nu fə.zɔ̃\,indicatif,présent,première_pluriel
 faire - indicatif - présent - deuxième_pluriel,faire,faites,\vu fɛt\,indicatif,présent,deuxième_pluriel
 faire - indicatif - présent - troisième_pluriel,faire,font,\[il/ɛl] fɔ̃\,indicatif,présent,troisième_pluriel
+faire - indicatif - passé_composé - première_singulier,faire,ai fait,\ʒ‿e fɛ\,indicatif,passé composé,première_singulier
+faire - indicatif - passé_composé - deuxième_singulier,faire,as fait,\ty a fɛ\,indicatif,passé composé,deuxième_singulier
+faire - indicatif - passé_composé - troisième_singulier,faire,a fait,\[i.l/ɛ.l/ɔ̃.n]‿a fɛ\,indicatif,passé composé,troisième_singulier
+faire - indicatif - passé_composé - première_pluriel,faire,avons fait,\nu.z‿a.vɔ̃ fɛ\,indicatif,passé composé,première_pluriel
+faire - indicatif - passé_composé - deuxième_pluriel,faire,avez fait,\vu.z‿a.ve fɛ\,indicatif,passé composé,deuxième_pluriel
+faire - indicatif - passé_composé - troisième_pluriel,faire,ont fait,\[i/ɛ]l.z‿ɔ̃ fɛ\,indicatif,passé composé,troisième_pluriel
 faire - indicatif - imparfait - première_singulier,faire,faisais,\ʒə fə.zɛ\,indicatif,imparfait,première_singulier
 faire - indicatif - imparfait - deuxième_singulier,faire,faisais,\ty fə.zɛ\,indicatif,imparfait,deuxième_singulier
 faire - indicatif - imparfait - troisième_singulier,faire,faisait,\[il/ɛl/ɔ̃] fə.zɛ\,indicatif,imparfait,troisième_singulier
@@ -424,6 +484,12 @@ finir - indicatif - présent - troisième_singulier,finir,finit,\[il/ɛl/ɔ̃] 
 finir - indicatif - présent - première_pluriel,finir,finissons,\nu fi.ni.sɔ̃\,indicatif,présent,première_pluriel
 finir - indicatif - présent - deuxième_pluriel,finir,finissez,\vu fi.ni.se\,indicatif,présent,deuxième_pluriel
 finir - indicatif - présent - troisième_pluriel,finir,finissent,\[il/ɛl] fi.nis\,indicatif,présent,troisième_pluriel
+finir - indicatif - passé_composé - première_singulier,finir,ai fini,\ʒ‿e fi.ni\,indicatif,passé composé,première_singulier
+finir - indicatif - passé_composé - deuxième_singulier,finir,as fini,\ty a fi.ni\,indicatif,passé composé,deuxième_singulier
+finir - indicatif - passé_composé - troisième_singulier,finir,a fini,\[i.l/ɛ.l/ɔ̃.n]‿a fi.ni\,indicatif,passé composé,troisième_singulier
+finir - indicatif - passé_composé - première_pluriel,finir,avons fini,\nu.z‿a.vɔ̃ fi.ni\,indicatif,passé composé,première_pluriel
+finir - indicatif - passé_composé - deuxième_pluriel,finir,avez fini,\vu.z‿a.ve fi.ni\,indicatif,passé composé,deuxième_pluriel
+finir - indicatif - passé_composé - troisième_pluriel,finir,ont fini,\[i/ɛ]l.z‿ɔ̃ fi.ni\,indicatif,passé composé,troisième_pluriel
 finir - indicatif - imparfait - première_singulier,finir,finissais,\ʒə fi.ni.sɛ\,indicatif,imparfait,première_singulier
 finir - indicatif - imparfait - deuxième_singulier,finir,finissais,\ty fi.ni.sɛ\,indicatif,imparfait,deuxième_singulier
 finir - indicatif - imparfait - troisième_singulier,finir,finissait,\[il/ɛl/ɔ̃] fi.ni.sɛ\,indicatif,imparfait,troisième_singulier
@@ -466,6 +532,12 @@ mettre - indicatif - présent - troisième_singulier,mettre,met,\[il/ɛl/ɔ̃] 
 mettre - indicatif - présent - première_pluriel,mettre,mettons,\nu mɛ.tɔ̃\,indicatif,présent,première_pluriel
 mettre - indicatif - présent - deuxième_pluriel,mettre,mettez,\vu mɛ.te\,indicatif,présent,deuxième_pluriel
 mettre - indicatif - présent - troisième_pluriel,mettre,mettent,\[il/ɛl] mɛt\,indicatif,présent,troisième_pluriel
+mettre - indicatif - passé_composé - première_singulier,mettre,ai mis,\ʒ‿e mi\,indicatif,passé composé,première_singulier
+mettre - indicatif - passé_composé - deuxième_singulier,mettre,as mis,\ty a mi\,indicatif,passé composé,deuxième_singulier
+mettre - indicatif - passé_composé - troisième_singulier,mettre,a mis,\[i.l/ɛ.l/ɔ̃.n]‿a mi\,indicatif,passé composé,troisième_singulier
+mettre - indicatif - passé_composé - première_pluriel,mettre,avons mis,\nu.z‿a.vɔ̃ mi\,indicatif,passé composé,première_pluriel
+mettre - indicatif - passé_composé - deuxième_pluriel,mettre,avez mis,\vu.z‿a.ve mi\,indicatif,passé composé,deuxième_pluriel
+mettre - indicatif - passé_composé - troisième_pluriel,mettre,ont mis,\[i/ɛ]l.z‿ɔ̃ mi\,indicatif,passé composé,troisième_pluriel
 mettre - indicatif - imparfait - première_singulier,mettre,mettais,\ʒə mɛ.tɛ\,indicatif,imparfait,première_singulier
 mettre - indicatif - imparfait - deuxième_singulier,mettre,mettais,\ty mɛ.tɛ\,indicatif,imparfait,deuxième_singulier
 mettre - indicatif - imparfait - troisième_singulier,mettre,mettait,\[il/ɛl/ɔ̃] mɛ.tɛ\,indicatif,imparfait,troisième_singulier
@@ -508,6 +580,12 @@ partir - indicatif - présent - troisième_singulier,partir,part,\[il/ɛl/ɔ̃]�
 partir - indicatif - présent - première_pluriel,partir,partons,\nu paʁ.tɔ̃\,indicatif,présent,première_pluriel
 partir - indicatif - présent - deuxième_pluriel,partir,partez,\vu paʁ.te\,indicatif,présent,deuxième_pluriel
 partir - indicatif - présent - troisième_pluriel,partir,partent,\[il/ɛl] paʁt\,indicatif,présent,troisième_pluriel
+partir - indicatif - passé_composé - première_singulier,partir,suis parti,\ʒə sɥi paʁ.ti\,indicatif,passé composé,première_singulier
+partir - indicatif - passé_composé - deuxième_singulier,partir,es parti,\ty ɛ paʁ.ti\,indicatif,passé composé,deuxième_singulier
+partir - indicatif - passé_composé - troisième_singulier,partir,est parti,\[i.l/ɛ.l/ɔ̃.n]‿ɛ paʁ.ti\,indicatif,passé composé,troisième_singulier
+partir - indicatif - passé_composé - première_pluriel,partir,sommes partis,\nu sɔm paʁ.ti\,indicatif,passé composé,première_pluriel
+partir - indicatif - passé_composé - deuxième_pluriel,partir,êtes partis,\vu.z‿ɛt paʁ.ti\,indicatif,passé composé,deuxième_pluriel
+partir - indicatif - passé_composé - troisième_pluriel,partir,sont partis,\[i/ɛ]l sɔ̃ paʁ.ti\,indicatif,passé composé,troisième_pluriel
 partir - indicatif - imparfait - première_singulier,partir,partais,\ʒə paʁ.tɛ\,indicatif,imparfait,première_singulier
 partir - indicatif - imparfait - deuxième_singulier,partir,partais,\ty paʁ.tɛ\,indicatif,imparfait,deuxième_singulier
 partir - indicatif - imparfait - troisième_singulier,partir,partait,\[il/ɛl/ɔ̃] paʁ.tɛ\,indicatif,imparfait,troisième_singulier
@@ -550,6 +628,12 @@ pouvoir - indicatif - présent - troisième_singulier,pouvoir,peut,\[il/ɛl/ɔ̃
 pouvoir - indicatif - présent - première_pluriel,pouvoir,pouvons,\nu pu.vɔ̃\,indicatif,présent,première_pluriel
 pouvoir - indicatif - présent - deuxième_pluriel,pouvoir,pouvez,\vu pu.ve\,indicatif,présent,deuxième_pluriel
 pouvoir - indicatif - présent - troisième_pluriel,pouvoir,peuvent,\[il/ɛl] pœv\,indicatif,présent,troisième_pluriel
+pouvoir - indicatif - passé_composé - première_singulier,pouvoir,ai pu,\ʒ‿e py\,indicatif,passé composé,première_singulier
+pouvoir - indicatif - passé_composé - deuxième_singulier,pouvoir,as pu,\ty a py\,indicatif,passé composé,deuxième_singulier
+pouvoir - indicatif - passé_composé - troisième_singulier,pouvoir,a pu,\[i.l/ɛ.l/ɔ̃.n]‿a py\,indicatif,passé composé,troisième_singulier
+pouvoir - indicatif - passé_composé - première_pluriel,pouvoir,avons pu,\nu.z‿a.vɔ̃ py\,indicatif,passé composé,première_pluriel
+pouvoir - indicatif - passé_composé - deuxième_pluriel,pouvoir,avez pu,\vu.z‿a.ve py\,indicatif,passé composé,deuxième_pluriel
+pouvoir - indicatif - passé_composé - troisième_pluriel,pouvoir,ont pu,\[i/ɛ]l.z‿ɔ̃ py\,indicatif,passé composé,troisième_pluriel
 pouvoir - indicatif - imparfait - première_singulier,pouvoir,pouvais,\ʒə pu.vɛ\,indicatif,imparfait,première_singulier
 pouvoir - indicatif - imparfait - deuxième_singulier,pouvoir,pouvais,\ty pu.vɛ\,indicatif,imparfait,deuxième_singulier
 pouvoir - indicatif - imparfait - troisième_singulier,pouvoir,pouvait,\[il/ɛl/ɔ̃] pu.vɛ\,indicatif,imparfait,troisième_singulier
@@ -592,6 +676,12 @@ prendre - indicatif - présent - troisième_singulier,prendre,prend,\[il/ɛl/ɔ�
 prendre - indicatif - présent - première_pluriel,prendre,prenons,\nu pʁə.nɔ̃\,indicatif,présent,première_pluriel
 prendre - indicatif - présent - deuxième_pluriel,prendre,prenez,\vu pʁə.ne\,indicatif,présent,deuxième_pluriel
 prendre - indicatif - présent - troisième_pluriel,prendre,prennent,\[il/ɛl] pʁɛn\,indicatif,présent,troisième_pluriel
+prendre - indicatif - passé_composé - première_singulier,prendre,ai pris,\ʒ‿e pʁi\,indicatif,passé composé,première_singulier
+prendre - indicatif - passé_composé - deuxième_singulier,prendre,as pris,\ty a pʁi\,indicatif,passé composé,deuxième_singulier
+prendre - indicatif - passé_composé - troisième_singulier,prendre,a pris,\[i.l/ɛ.l/ɔ̃.n]‿a pʁi\,indicatif,passé composé,troisième_singulier
+prendre - indicatif - passé_composé - première_pluriel,prendre,avons pris,\nu.z‿a.vɔ̃ pʁi\,indicatif,passé composé,première_pluriel
+prendre - indicatif - passé_composé - deuxième_pluriel,prendre,avez pris,\vu.z‿a.ve pʁi\,indicatif,passé composé,deuxième_pluriel
+prendre - indicatif - passé_composé - troisième_pluriel,prendre,ont pris,\[i/ɛ]l.z‿ɔ̃ pʁi\,indicatif,passé composé,troisième_pluriel
 prendre - indicatif - imparfait - première_singulier,prendre,prenais,\ʒə pʁə.nɛ\,indicatif,imparfait,première_singulier
 prendre - indicatif - imparfait - deuxième_singulier,prendre,prenais,\ty pʁə.nɛ\,indicatif,imparfait,deuxième_singulier
 prendre - indicatif - imparfait - troisième_singulier,prendre,prenait,\[il/ɛl/ɔ̃] pʁə.nɛ\,indicatif,imparfait,troisième_singulier
@@ -634,6 +724,12 @@ savoir - indicatif - présent - troisième_singulier,savoir,sait,\[il/ɛl/ɔ̃]�
 savoir - indicatif - présent - première_pluriel,savoir,savons,\nu sa.vɔ̃\,indicatif,présent,première_pluriel
 savoir - indicatif - présent - deuxième_pluriel,savoir,savez,\vu sa.ve\,indicatif,présent,deuxième_pluriel
 savoir - indicatif - présent - troisième_pluriel,savoir,savent,\[il/ɛl] sav\,indicatif,présent,troisième_pluriel
+savoir - indicatif - passé_composé - première_singulier,savoir,ai su,\ʒ‿e sy\,indicatif,passé composé,première_singulier
+savoir - indicatif - passé_composé - deuxième_singulier,savoir,as su,\ty a sy\,indicatif,passé composé,deuxième_singulier
+savoir - indicatif - passé_composé - troisième_singulier,savoir,a su,\[i.l/ɛ.l/ɔ̃.n]‿a sy\,indicatif,passé composé,troisième_singulier
+savoir - indicatif - passé_composé - première_pluriel,savoir,avons su,\nu.z‿a.vɔ̃ sy\,indicatif,passé composé,première_pluriel
+savoir - indicatif - passé_composé - deuxième_pluriel,savoir,avez su,\vu.z‿a.ve sy\,indicatif,passé composé,deuxième_pluriel
+savoir - indicatif - passé_composé - troisième_pluriel,savoir,ont su,\[i/ɛ]l.z‿ɔ̃ sy\,indicatif,passé composé,troisième_pluriel
 savoir - indicatif - imparfait - première_singulier,savoir,savais,\ʒə sa.vɛ\,indicatif,imparfait,première_singulier
 savoir - indicatif - imparfait - deuxième_singulier,savoir,savais,\ty sa.vɛ\,indicatif,imparfait,deuxième_singulier
 savoir - indicatif - imparfait - troisième_singulier,savoir,savait,\[il/ɛl/ɔ̃] sa.vɛ\,indicatif,imparfait,troisième_singulier
@@ -676,6 +772,12 @@ voir - indicatif - présent - troisième_singulier,voir,voit,\[il/ɛl/ɔ̃] vwa
 voir - indicatif - présent - première_pluriel,voir,voyons,\nu vwa.jɔ̃\,indicatif,présent,première_pluriel
 voir - indicatif - présent - deuxième_pluriel,voir,voyez,\vu vwa.je\,indicatif,présent,deuxième_pluriel
 voir - indicatif - présent - troisième_pluriel,voir,voient,\[il/ɛl] vwa\,indicatif,présent,troisième_pluriel
+voir - indicatif - passé_composé - première_singulier,voir,ai vu,\ʒ‿e vy\,indicatif,passé composé,première_singulier
+voir - indicatif - passé_composé - deuxième_singulier,voir,as vu,\ty a vy\,indicatif,passé composé,deuxième_singulier
+voir - indicatif - passé_composé - troisième_singulier,voir,a vu,\[i.l/ɛ.l/ɔ̃.n]‿a vy\,indicatif,passé composé,troisième_singulier
+voir - indicatif - passé_composé - première_pluriel,voir,avons vu,\nu.z‿a.vɔ̃ vy\,indicatif,passé composé,première_pluriel
+voir - indicatif - passé_composé - deuxième_pluriel,voir,avez vu,\vu.z‿a.ve vy\,indicatif,passé composé,deuxième_pluriel
+voir - indicatif - passé_composé - troisième_pluriel,voir,ont vu,\[i/ɛ]l.z‿ɔ̃ vy\,indicatif,passé composé,troisième_pluriel
 voir - indicatif - imparfait - première_singulier,voir,voyais,\ʒə vwa.jɛ\,indicatif,imparfait,première_singulier
 voir - indicatif - imparfait - deuxième_singulier,voir,voyais,\ty vwa.jɛ\,indicatif,imparfait,deuxième_singulier
 voir - indicatif - imparfait - troisième_singulier,voir,voyait,\[il/ɛl/ɔ̃] vwa.jɛ\,indicatif,imparfait,troisième_singulier
@@ -718,6 +820,12 @@ vouloir - indicatif - présent - troisième_singulier,vouloir,veut,\[il/ɛl/ɔ̃
 vouloir - indicatif - présent - première_pluriel,vouloir,voulons,\nu vu.lɔ̃\,indicatif,présent,première_pluriel
 vouloir - indicatif - présent - deuxième_pluriel,vouloir,voulez,\vu vu.le\,indicatif,présent,deuxième_pluriel
 vouloir - indicatif - présent - troisième_pluriel,vouloir,veulent,\[il/ɛl] vœl\,indicatif,présent,troisième_pluriel
+vouloir - indicatif - passé_composé - première_singulier,vouloir,ai voulu,\ʒ‿e vu.ly\,indicatif,passé composé,première_singulier
+vouloir - indicatif - passé_composé - deuxième_singulier,vouloir,as voulu,\ty a vu.ly\,indicatif,passé composé,deuxième_singulier
+vouloir - indicatif - passé_composé - troisième_singulier,vouloir,a voulu,\[i.l/ɛ.l/ɔ̃.n]‿a vu.ly\,indicatif,passé composé,troisième_singulier
+vouloir - indicatif - passé_composé - première_pluriel,vouloir,avons voulu,\nu.z‿a.vɔ̃ vu.ly\,indicatif,passé composé,première_pluriel
+vouloir - indicatif - passé_composé - deuxième_pluriel,vouloir,avez voulu,\vu.z‿a.ve vu.ly\,indicatif,passé composé,deuxième_pluriel
+vouloir - indicatif - passé_composé - troisième_pluriel,vouloir,ont voulu,\[i/ɛ]l.z‿ɔ̃ vu.ly\,indicatif,passé composé,troisième_pluriel
 vouloir - indicatif - imparfait - première_singulier,vouloir,voulais,\ʒə vu.lɛ\,indicatif,imparfait,première_singulier
 vouloir - indicatif - imparfait - deuxième_singulier,vouloir,voulais,\ty vu.lɛ\,indicatif,imparfait,deuxième_singulier
 vouloir - indicatif - imparfait - troisième_singulier,vouloir,voulait,\[il/ɛl/ɔ̃] vu.lɛ\,indicatif,imparfait,troisième_singulier
@@ -760,6 +868,12 @@ lire - indicatif - présent - troisième_singulier,lire,lit,\[il/ɛl/ɔ̃] li\,
 lire - indicatif - présent - première_pluriel,lire,lisons,\nu li.zɔ̃\,indicatif,présent,première_pluriel
 lire - indicatif - présent - deuxième_pluriel,lire,lisez,\vu li.ze\,indicatif,présent,deuxième_pluriel
 lire - indicatif - présent - troisième_pluriel,lire,lisent,\[il/ɛl] liz\,indicatif,présent,troisième_pluriel
+lire - indicatif - passé_composé - première_singulier,lire,ai lu,\ʒ‿e ly\,indicatif,passé composé,première_singulier
+lire - indicatif - passé_composé - deuxième_singulier,lire,as lu,\ty a ly\,indicatif,passé composé,deuxième_singulier
+lire - indicatif - passé_composé - troisième_singulier,lire,a lu,\[i.l/ɛ.l/ɔ̃.n]‿a ly\,indicatif,passé composé,troisième_singulier
+lire - indicatif - passé_composé - première_pluriel,lire,avons lu,\nu.z‿a.vɔ̃ ly\,indicatif,passé composé,première_pluriel
+lire - indicatif - passé_composé - deuxième_pluriel,lire,avez lu,\vu.z‿a.ve ly\,indicatif,passé composé,deuxième_pluriel
+lire - indicatif - passé_composé - troisième_pluriel,lire,ont lu,\[i/ɛ]l.z‿ɔ̃ ly\,indicatif,passé composé,troisième_pluriel
 lire - indicatif - imparfait - première_singulier,lire,lisais,\ʒə li.zɛ\,indicatif,imparfait,première_singulier
 lire - indicatif - imparfait - deuxième_singulier,lire,lisais,\ty li.zɛ\,indicatif,imparfait,deuxième_singulier
 lire - indicatif - imparfait - troisième_singulier,lire,lisait,\[il/ɛl/ɔ̃] li.zɛ\,indicatif,imparfait,troisième_singulier
@@ -802,6 +916,12 @@ mourir - indicatif - présent - troisième_singulier,mourir,meurt,\[il/ɛl/ɔ̃]
 mourir - indicatif - présent - première_pluriel,mourir,mourons,\nu mu.ʁɔ̃\,indicatif,présent,première_pluriel
 mourir - indicatif - présent - deuxième_pluriel,mourir,mourez,\vu mu.ʁe\,indicatif,présent,deuxième_pluriel
 mourir - indicatif - présent - troisième_pluriel,mourir,meurent,\[il/ɛl] mœʁ\,indicatif,présent,troisième_pluriel
+mourir - indicatif - passé_composé - première_singulier,mourir,suis mort,\ʒə sɥi mɔʁ\,indicatif,passé composé,première_singulier
+mourir - indicatif - passé_composé - deuxième_singulier,mourir,es mort,\ty ɛ mɔʁ\,indicatif,passé composé,deuxième_singulier
+mourir - indicatif - passé_composé - troisième_singulier,mourir,est mort,\[i.l/ɛ.l/ɔ̃.n]‿ɛ mɔʁ\,indicatif,passé composé,troisième_singulier
+mourir - indicatif - passé_composé - première_pluriel,mourir,sommes morts,\nu sɔm mɔʁ\,indicatif,passé composé,première_pluriel
+mourir - indicatif - passé_composé - deuxième_pluriel,mourir,êtes morts,\vu.z‿ɛt mɔʁ\,indicatif,passé composé,deuxième_pluriel
+mourir - indicatif - passé_composé - troisième_pluriel,mourir,sont morts,\[i/ɛ]l sɔ̃ mɔʁ\,indicatif,passé composé,troisième_pluriel
 mourir - indicatif - imparfait - première_singulier,mourir,mourais,\ʒə mu.ʁɛ\,indicatif,imparfait,première_singulier
 mourir - indicatif - imparfait - deuxième_singulier,mourir,mourais,\ty mu.ʁɛ\,indicatif,imparfait,deuxième_singulier
 mourir - indicatif - imparfait - troisième_singulier,mourir,mourait,\[il/ɛl/ɔ̃] mu.ʁɛ\,indicatif,imparfait,troisième_singulier
@@ -844,6 +964,12 @@ perdre - indicatif - présent - troisième_singulier,perdre,perd,\[il/ɛl/ɔ̃]�
 perdre - indicatif - présent - première_pluriel,perdre,perdons,\nu pɛʁ.dɔ̃\,indicatif,présent,première_pluriel
 perdre - indicatif - présent - deuxième_pluriel,perdre,perdez,\vu pɛʁ.de\,indicatif,présent,deuxième_pluriel
 perdre - indicatif - présent - troisième_pluriel,perdre,perdent,\[il/ɛl] pɛʁd\,indicatif,présent,troisième_pluriel
+perdre - indicatif - passé_composé - première_singulier,perdre,ai perdu,\ʒ‿e pɛʁ.dy\,indicatif,passé composé,première_singulier
+perdre - indicatif - passé_composé - deuxième_singulier,perdre,as perdu,\ty a pɛʁ.dy\,indicatif,passé composé,deuxième_singulier
+perdre - indicatif - passé_composé - troisième_singulier,perdre,a perdu,\[i.l/ɛ.l/ɔ̃.n]‿a pɛʁ.dy\,indicatif,passé composé,troisième_singulier
+perdre - indicatif - passé_composé - première_pluriel,perdre,avons perdu,\nu.z‿a.vɔ̃ pɛʁ.dy\,indicatif,passé composé,première_pluriel
+perdre - indicatif - passé_composé - deuxième_pluriel,perdre,avez perdu,\vu.z‿a.ve pɛʁ.dy\,indicatif,passé composé,deuxième_pluriel
+perdre - indicatif - passé_composé - troisième_pluriel,perdre,ont perdu,\[i/ɛ]l.z‿ɔ̃ pɛʁ.dy\,indicatif,passé composé,troisième_pluriel
 perdre - indicatif - imparfait - première_singulier,perdre,perdais,\ʒə pɛʁ.dɛ\,indicatif,imparfait,première_singulier
 perdre - indicatif - imparfait - deuxième_singulier,perdre,perdais,\ty pɛʁ.dɛ\,indicatif,imparfait,deuxième_singulier
 perdre - indicatif - imparfait - troisième_singulier,perdre,perdait,\[il/ɛl/ɔ̃] pɛʁ.dɛ\,indicatif,imparfait,troisième_singulier
@@ -886,6 +1012,12 @@ répondre - indicatif - présent - troisième_singulier,répondre,répond,\[il/�
 répondre - indicatif - présent - première_pluriel,répondre,répondons,\nu ʁe.pɔ̃.dɔ̃\,indicatif,présent,première_pluriel
 répondre - indicatif - présent - deuxième_pluriel,répondre,répondez,\vu ʁe.pɔ̃.de\,indicatif,présent,deuxième_pluriel
 répondre - indicatif - présent - troisième_pluriel,répondre,répondent,\[il/ɛl] ʁe.pɔ̃d\,indicatif,présent,troisième_pluriel
+répondre - indicatif - passé_composé - première_singulier,répondre,ai répondu,\ʒ‿e ʁe.pɔ̃.dy\,indicatif,passé composé,première_singulier
+répondre - indicatif - passé_composé - deuxième_singulier,répondre,as répondu,\ty a ʁe.pɔ̃.dy\,indicatif,passé composé,deuxième_singulier
+répondre - indicatif - passé_composé - troisième_singulier,répondre,a répondu,\[i.l/ɛ.l/ɔ̃.n]‿a ʁe.pɔ̃.dy\,indicatif,passé composé,troisième_singulier
+répondre - indicatif - passé_composé - première_pluriel,répondre,avons répondu,\nu.z‿a.vɔ̃ ʁe.pɔ̃.dy\,indicatif,passé composé,première_pluriel
+répondre - indicatif - passé_composé - deuxième_pluriel,répondre,avez répondu,\vu.z‿a.ve ʁe.pɔ̃.dy\,indicatif,passé composé,deuxième_pluriel
+répondre - indicatif - passé_composé - troisième_pluriel,répondre,ont répondu,\[i/ɛ]l.z‿ɔ̃ ʁe.pɔ̃.dy\,indicatif,passé composé,troisième_pluriel
 répondre - indicatif - imparfait - première_singulier,répondre,répondais,\ʒə ʁe.pɔ̃.dɛ\,indicatif,imparfait,première_singulier
 répondre - indicatif - imparfait - deuxième_singulier,répondre,répondais,\ty ʁe.pɔ̃.dɛ\,indicatif,imparfait,deuxième_singulier
 répondre - indicatif - imparfait - troisième_singulier,répondre,répondait,\[il/ɛl/ɔ̃] ʁe.pɔ̃.dɛ\,indicatif,imparfait,troisième_singulier
@@ -928,6 +1060,12 @@ sortir - indicatif - présent - troisième_singulier,sortir,sort,\[il/ɛl/ɔ̃]�
 sortir - indicatif - présent - première_pluriel,sortir,sortons,\nu sɔʁ.tɔ̃\,indicatif,présent,première_pluriel
 sortir - indicatif - présent - deuxième_pluriel,sortir,sortez,\vu sɔʁ.te\,indicatif,présent,deuxième_pluriel
 sortir - indicatif - présent - troisième_pluriel,sortir,sortent,\[il/ɛl] sɔʁt\,indicatif,présent,troisième_pluriel
+sortir - indicatif - passé_composé - première_singulier,sortir,suis sorti,\ʒə sɥi sɔʁ.ti\,indicatif,passé composé,première_singulier
+sortir - indicatif - passé_composé - deuxième_singulier,sortir,es sorti,\ty ɛ sɔʁ.ti\,indicatif,passé composé,deuxième_singulier
+sortir - indicatif - passé_composé - troisième_singulier,sortir,est sorti,\[i.l/ɛ.l/ɔ̃.n]‿ɛ sɔʁ.ti\,indicatif,passé composé,troisième_singulier
+sortir - indicatif - passé_composé - première_pluriel,sortir,sommes sortis,\nu sɔm sɔʁ.ti\,indicatif,passé composé,première_pluriel
+sortir - indicatif - passé_composé - deuxième_pluriel,sortir,êtes sortis,\vu.z‿ɛt sɔʁ.ti\,indicatif,passé composé,deuxième_pluriel
+sortir - indicatif - passé_composé - troisième_pluriel,sortir,sont sortis,\[i/ɛ]l sɔ̃ sɔʁ.ti\,indicatif,passé composé,troisième_pluriel
 sortir - indicatif - imparfait - première_singulier,sortir,sortais,\ʒə sɔʁ.tɛ\,indicatif,imparfait,première_singulier
 sortir - indicatif - imparfait - deuxième_singulier,sortir,sortais,\ty sɔʁ.tɛ\,indicatif,imparfait,deuxième_singulier
 sortir - indicatif - imparfait - troisième_singulier,sortir,sortait,\[il/ɛl/ɔ̃] sɔʁ.tɛ\,indicatif,imparfait,troisième_singulier
@@ -970,6 +1108,12 @@ suivre - indicatif - présent - troisième_singulier,suivre,suit,\[il/ɛl/ɔ̃]�
 suivre - indicatif - présent - première_pluriel,suivre,suivons,\nu sɥi.vɔ̃\,indicatif,présent,première_pluriel
 suivre - indicatif - présent - deuxième_pluriel,suivre,suivez,\vu sɥi.ve\,indicatif,présent,deuxième_pluriel
 suivre - indicatif - présent - troisième_pluriel,suivre,suivent,\[il/ɛl] sɥiv\,indicatif,présent,troisième_pluriel
+suivre - indicatif - passé_composé - première_singulier,suivre,ai suivi,\ʒ‿e sɥi.vi\,indicatif,passé composé,première_singulier
+suivre - indicatif - passé_composé - deuxième_singulier,suivre,as suivi,\ty a sɥi.vi\,indicatif,passé composé,deuxième_singulier
+suivre - indicatif - passé_composé - troisième_singulier,suivre,a suivi,\[i.l/ɛ.l/ɔ̃.n]‿a sɥi.vi\,indicatif,passé composé,troisième_singulier
+suivre - indicatif - passé_composé - première_pluriel,suivre,avons suivi,\nu.z‿a.vɔ̃ sɥi.vi\,indicatif,passé composé,première_pluriel
+suivre - indicatif - passé_composé - deuxième_pluriel,suivre,avez suivi,\vu.z‿a.ve sɥi.vi\,indicatif,passé composé,deuxième_pluriel
+suivre - indicatif - passé_composé - troisième_pluriel,suivre,ont suivi,\[i/ɛ]l.z‿ɔ̃ sɥi.vi\,indicatif,passé composé,troisième_pluriel
 suivre - indicatif - imparfait - première_singulier,suivre,suivais,\ʒə sɥi.vɛ\,indicatif,imparfait,première_singulier
 suivre - indicatif - imparfait - deuxième_singulier,suivre,suivais,\ty sɥi.vɛ\,indicatif,imparfait,deuxième_singulier
 suivre - indicatif - imparfait - troisième_singulier,suivre,suivait,\[il/ɛl/ɔ̃] sɥi.vɛ\,indicatif,imparfait,troisième_singulier
@@ -1012,6 +1156,12 @@ venir - indicatif - présent - troisième_singulier,venir,vient,\[il/ɛl/ɔ̃] 
 venir - indicatif - présent - première_pluriel,venir,venons,\nu və.nɔ̃\,indicatif,présent,première_pluriel
 venir - indicatif - présent - deuxième_pluriel,venir,venez,\vu və.ne\,indicatif,présent,deuxième_pluriel
 venir - indicatif - présent - troisième_pluriel,venir,viennent,\[il/ɛl] vjɛn\,indicatif,présent,troisième_pluriel
+venir - indicatif - passé_composé - première_singulier,venir,suis venu,\ʒə sɥi və.ny\,indicatif,passé composé,première_singulier
+venir - indicatif - passé_composé - deuxième_singulier,venir,es venu,\ty ɛ və.ny\,indicatif,passé composé,deuxième_singulier
+venir - indicatif - passé_composé - troisième_singulier,venir,est venu,\[i.l/ɛ.l/ɔ̃.n]‿ɛ və.ny\,indicatif,passé composé,troisième_singulier
+venir - indicatif - passé_composé - première_pluriel,venir,sommes venus,\nu sɔm və.ny\,indicatif,passé composé,première_pluriel
+venir - indicatif - passé_composé - deuxième_pluriel,venir,êtes venus,\vu.z‿ɛt və.ny\,indicatif,passé composé,deuxième_pluriel
+venir - indicatif - passé_composé - troisième_pluriel,venir,sont venus,\[i/ɛ]l sɔ̃ və.ny\,indicatif,passé composé,troisième_pluriel
 venir - indicatif - imparfait - première_singulier,venir,venais,\ʒə və.nɛ\,indicatif,imparfait,première_singulier
 venir - indicatif - imparfait - deuxième_singulier,venir,venais,\ty və.nɛ\,indicatif,imparfait,deuxième_singulier
 venir - indicatif - imparfait - troisième_singulier,venir,venait,\[il/ɛl/ɔ̃] və.nɛ\,indicatif,imparfait,troisième_singulier
@@ -1054,6 +1204,12 @@ vivre - indicatif - présent - troisième_singulier,vivre,vit,\[il/ɛl/ɔ̃] vi
 vivre - indicatif - présent - première_pluriel,vivre,vivons,\nu vi.vɔ̃\,indicatif,présent,première_pluriel
 vivre - indicatif - présent - deuxième_pluriel,vivre,vivez,\vu vi.ve\,indicatif,présent,deuxième_pluriel
 vivre - indicatif - présent - troisième_pluriel,vivre,vivent,\[il/ɛl] viv\,indicatif,présent,troisième_pluriel
+vivre - indicatif - passé_composé - première_singulier,vivre,ai vécu,\ʒ‿e ve.ky\,indicatif,passé composé,première_singulier
+vivre - indicatif - passé_composé - deuxième_singulier,vivre,as vécu,\ty a ve.ky\,indicatif,passé composé,deuxième_singulier
+vivre - indicatif - passé_composé - troisième_singulier,vivre,a vécu,\[i.l/ɛ.l/ɔ̃.n]‿a ve.ky\,indicatif,passé composé,troisième_singulier
+vivre - indicatif - passé_composé - première_pluriel,vivre,avons vécu,\nu.z‿a.vɔ̃ ve.ky\,indicatif,passé composé,première_pluriel
+vivre - indicatif - passé_composé - deuxième_pluriel,vivre,avez vécu,\vu.z‿a.ve ve.ky\,indicatif,passé composé,deuxième_pluriel
+vivre - indicatif - passé_composé - troisième_pluriel,vivre,ont vécu,\[i/ɛ]l.z‿ɔ̃ ve.ky\,indicatif,passé composé,troisième_pluriel
 vivre - indicatif - imparfait - première_singulier,vivre,vivais,\ʒə vi.vɛ\,indicatif,imparfait,première_singulier
 vivre - indicatif - imparfait - deuxième_singulier,vivre,vivais,\ty vi.vɛ\,indicatif,imparfait,deuxième_singulier
 vivre - indicatif - imparfait - troisième_singulier,vivre,vivait,\[il/ɛl/ɔ̃] vi.vɛ\,indicatif,imparfait,troisième_singulier
@@ -1096,6 +1252,12 @@ oublier - indicatif - présent - troisième_singulier,oublier,oublie,\[i.l/ɛ.l/
 oublier - indicatif - présent - première_pluriel,oublier,oublions,\nu.z‿u.bli.jɔ̃\,indicatif,présent,première_pluriel
 oublier - indicatif - présent - deuxième_pluriel,oublier,oubliez,\vu.z‿u.bli.je\,indicatif,présent,deuxième_pluriel
 oublier - indicatif - présent - troisième_pluriel,oublier,oublient,\[il/ɛl].z‿u.bli\,indicatif,présent,troisième_pluriel
+oublier - indicatif - passé_composé - première_singulier,oublier,ai oublié,\ʒ‿e u.bli.je\,indicatif,passé composé,première_singulier
+oublier - indicatif - passé_composé - deuxième_singulier,oublier,as oublié,\ty a.z‿u.bli.je\,indicatif,passé composé,deuxième_singulier
+oublier - indicatif - passé_composé - troisième_singulier,oublier,a oublié,\[i.l/ɛ.l/ɔ̃.n]‿a.u.bli.je\,indicatif,passé composé,troisième_singulier
+oublier - indicatif - passé_composé - première_pluriel,oublier,avons oublié,\nu.z‿a.vɔ̃.z‿u.bli.je\,indicatif,passé composé,première_pluriel
+oublier - indicatif - passé_composé - deuxième_pluriel,oublier,avez oublié,\vu.z‿a.ve.z‿u.bli.je\,indicatif,passé composé,deuxième_pluriel
+oublier - indicatif - passé_composé - troisième_pluriel,oublier,ont oublié,\[i/ɛ]l.z‿ɔ̃.t‿u.bli.je\,indicatif,passé composé,troisième_pluriel
 oublier - indicatif - imparfait - première_singulier,oublier,oubliais,\ʒ‿u.bli.jɛ\,indicatif,imparfait,première_singulier
 oublier - indicatif - imparfait - deuxième_singulier,oublier,oubliais,\ty u.bli.jɛ\,indicatif,imparfait,deuxième_singulier
 oublier - indicatif - imparfait - troisième_singulier,oublier,oubliait,\[i.l/ɛ.l/ɔ̃.n]‿u.bli.jɛ\,indicatif,imparfait,troisième_singulier
@@ -1138,6 +1300,12 @@ valoir - indicatif - présent - troisième_singulier,valoir,vaut,\[il/ɛl/ɔ̃]�
 valoir - indicatif - présent - première_pluriel,valoir,valons,\nu va.lɔ̃\,indicatif,présent,première_pluriel
 valoir - indicatif - présent - deuxième_pluriel,valoir,valez,\vu va.le\,indicatif,présent,deuxième_pluriel
 valoir - indicatif - présent - troisième_pluriel,valoir,valent,\[il/ɛl] val\,indicatif,présent,troisième_pluriel
+valoir - indicatif - passé_composé - première_singulier,valoir,ai valu,\ʒ‿e va.ly\,indicatif,passé composé,première_singulier
+valoir - indicatif - passé_composé - deuxième_singulier,valoir,as valu,\ty a va.ly\,indicatif,passé composé,deuxième_singulier
+valoir - indicatif - passé_composé - troisième_singulier,valoir,a valu,\[i.l/ɛ.l/ɔ̃.n]‿a va.ly\,indicatif,passé composé,troisième_singulier
+valoir - indicatif - passé_composé - première_pluriel,valoir,avons valu,\nu.z‿a.vɔ̃ va.ly\,indicatif,passé composé,première_pluriel
+valoir - indicatif - passé_composé - deuxième_pluriel,valoir,avez valu,\vu.z‿a.ve va.ly\,indicatif,passé composé,deuxième_pluriel
+valoir - indicatif - passé_composé - troisième_pluriel,valoir,ont valu,\[i/ɛ]l.z‿ɔ̃ va.ly\,indicatif,passé composé,troisième_pluriel
 valoir - indicatif - imparfait - première_singulier,valoir,valais,\ʒə va.lɛ\,indicatif,imparfait,première_singulier
 valoir - indicatif - imparfait - deuxième_singulier,valoir,valais,\ty va.lɛ\,indicatif,imparfait,deuxième_singulier
 valoir - indicatif - imparfait - troisième_singulier,valoir,valait,\[il/ɛl/ɔ̃] va.lɛ\,indicatif,imparfait,troisième_singulier
@@ -1180,6 +1348,12 @@ cuire - indicatif - présent - troisième_singulier,cuire,cuit,\[il/ɛl/ɔ̃] k
 cuire - indicatif - présent - première_pluriel,cuire,cuisons,\nu kɥi.zɔ̃\,indicatif,présent,première_pluriel
 cuire - indicatif - présent - deuxième_pluriel,cuire,cuisez,\vu kɥi.ze\,indicatif,présent,deuxième_pluriel
 cuire - indicatif - présent - troisième_pluriel,cuire,cuisent,\[il/ɛl] kɥiz\,indicatif,présent,troisième_pluriel
+cuire - indicatif - passé_composé - première_singulier,cuire,ai cuit,\ʒ‿e kɥi\,indicatif,passé composé,première_singulier
+cuire - indicatif - passé_composé - deuxième_singulier,cuire,as cuit,\ty a kɥi\,indicatif,passé composé,deuxième_singulier
+cuire - indicatif - passé_composé - troisième_singulier,cuire,a cuit,\[i.l/ɛ.l/ɔ̃.n]‿a kɥi\,indicatif,passé composé,troisième_singulier
+cuire - indicatif - passé_composé - première_pluriel,cuire,avons cuit,\nu.z‿a.vɔ̃ kɥi\,indicatif,passé composé,première_pluriel
+cuire - indicatif - passé_composé - deuxième_pluriel,cuire,avez cuit,\vu.z‿a.ve kɥi\,indicatif,passé composé,deuxième_pluriel
+cuire - indicatif - passé_composé - troisième_pluriel,cuire,ont cuit,\[i/ɛ]l.z‿ɔ̃ kɥi\,indicatif,passé composé,troisième_pluriel
 cuire - indicatif - imparfait - première_singulier,cuire,cuisais,\ʒə kɥi.zɛ\,indicatif,imparfait,première_singulier
 cuire - indicatif - imparfait - deuxième_singulier,cuire,cuisais,\ty kɥi.zɛ\,indicatif,imparfait,deuxième_singulier
 cuire - indicatif - imparfait - troisième_singulier,cuire,cuisait,\[il/ɛl/ɔ̃] kɥi.zɛ\,indicatif,imparfait,troisième_singulier
@@ -1222,6 +1396,12 @@ croire - indicatif - présent - troisième_singulier,croire,croit,\[il/ɛl/ɔ̃]
 croire - indicatif - présent - première_pluriel,croire,croyons,\nu kʁwa.jɔ̃\,indicatif,présent,première_pluriel
 croire - indicatif - présent - deuxième_pluriel,croire,croyez,\vu kʁwa.je\,indicatif,présent,deuxième_pluriel
 croire - indicatif - présent - troisième_pluriel,croire,croient,\[il/ɛl] kʁwa\,indicatif,présent,troisième_pluriel
+croire - indicatif - passé_composé - première_singulier,croire,ai cru,\ʒ‿e kʁy\,indicatif,passé composé,première_singulier
+croire - indicatif - passé_composé - deuxième_singulier,croire,as cru,\ty a kʁy\,indicatif,passé composé,deuxième_singulier
+croire - indicatif - passé_composé - troisième_singulier,croire,a cru,\[i.l/ɛ.l/ɔ̃.n]‿a kʁy\,indicatif,passé composé,troisième_singulier
+croire - indicatif - passé_composé - première_pluriel,croire,avons cru,\nu.z‿a.vɔ̃ kʁy\,indicatif,passé composé,première_pluriel
+croire - indicatif - passé_composé - deuxième_pluriel,croire,avez cru,\vu.z‿a.ve kʁy\,indicatif,passé composé,deuxième_pluriel
+croire - indicatif - passé_composé - troisième_pluriel,croire,ont cru,\[i/ɛ]l.z‿ɔ̃ kʁy\,indicatif,passé composé,troisième_pluriel
 croire - indicatif - imparfait - première_singulier,croire,croyais,\ʒə kʁwa.jɛ\,indicatif,imparfait,première_singulier
 croire - indicatif - imparfait - deuxième_singulier,croire,croyais,\ty kʁwa.jɛ\,indicatif,imparfait,deuxième_singulier
 croire - indicatif - imparfait - troisième_singulier,croire,croyait,\[il/ɛl/ɔ̃] kʁwa.jɛ\,indicatif,imparfait,troisième_singulier
@@ -1264,6 +1444,12 @@ plaire - indicatif - présent - troisième_singulier,plaire,plaît ou plait,\[il
 plaire - indicatif - présent - première_pluriel,plaire,plaisons,\nu plɛ.zɔ̃\,indicatif,présent,première_pluriel
 plaire - indicatif - présent - deuxième_pluriel,plaire,plaisez,\vu plɛ.ze\,indicatif,présent,deuxième_pluriel
 plaire - indicatif - présent - troisième_pluriel,plaire,plaisent,\[il/ɛl] plɛz\,indicatif,présent,troisième_pluriel
+plaire - indicatif - passé_composé - première_singulier,plaire,ai plu,\ʒ‿e ply\,indicatif,passé composé,première_singulier
+plaire - indicatif - passé_composé - deuxième_singulier,plaire,as plu,\ty a ply\,indicatif,passé composé,deuxième_singulier
+plaire - indicatif - passé_composé - troisième_singulier,plaire,a plu,\[i.l/ɛ.l/ɔ̃.n]‿a ply\,indicatif,passé composé,troisième_singulier
+plaire - indicatif - passé_composé - première_pluriel,plaire,avons plu,\nu.z‿a.vɔ̃ ply\,indicatif,passé composé,première_pluriel
+plaire - indicatif - passé_composé - deuxième_pluriel,plaire,avez plu,\vu.z‿a.ve ply\,indicatif,passé composé,deuxième_pluriel
+plaire - indicatif - passé_composé - troisième_pluriel,plaire,ont plu,\[i/ɛ]l.z‿ɔ̃ ply\,indicatif,passé composé,troisième_pluriel
 plaire - indicatif - imparfait - première_singulier,plaire,plaisais,\ʒə plɛ.zɛ\,indicatif,imparfait,première_singulier
 plaire - indicatif - imparfait - deuxième_singulier,plaire,plaisais,\ty plɛ.zɛ\,indicatif,imparfait,deuxième_singulier
 plaire - indicatif - imparfait - troisième_singulier,plaire,plaisait,\[il/ɛl/ɔ̃] plɛ.zɛ\,indicatif,imparfait,troisième_singulier
@@ -1306,6 +1492,12 @@ clore - indicatif - présent - troisième_singulier,clore,clot ou clôt,\[il/ɛl
 clore - indicatif - présent - première_pluriel,clore,closons,\nu klo.zõ\,indicatif,présent,première_pluriel
 clore - indicatif - présent - deuxième_pluriel,clore,closez,\vu klo.ze\,indicatif,présent,deuxième_pluriel
 clore - indicatif - présent - troisième_pluriel,clore,closent,\[il/ɛl] kloz\,indicatif,présent,troisième_pluriel
+clore - indicatif - passé_composé - première_singulier,clore,ai clos,\ʒ‿e klo\,indicatif,passé composé,première_singulier
+clore - indicatif - passé_composé - deuxième_singulier,clore,as clos,\ty a klo\,indicatif,passé composé,deuxième_singulier
+clore - indicatif - passé_composé - troisième_singulier,clore,a clos,\[i.l/ɛ.l/ɔ̃.n]‿a klo\,indicatif,passé composé,troisième_singulier
+clore - indicatif - passé_composé - première_pluriel,clore,avons clos,\nu.z‿a.vɔ̃ klo\,indicatif,passé composé,première_pluriel
+clore - indicatif - passé_composé - deuxième_pluriel,clore,avez clos,\vu.z‿a.ve klo\,indicatif,passé composé,deuxième_pluriel
+clore - indicatif - passé_composé - troisième_pluriel,clore,ont clos,\[i/ɛ]l.z‿ɔ̃ klo\,indicatif,passé composé,troisième_pluriel
 clore - indicatif - futur_simple - première_singulier,clore,clorai,\ʒə klo.ʁe\,indicatif,futur simple,première_singulier
 clore - indicatif - futur_simple - deuxième_singulier,clore,cloras,\ty klo.ʁa\,indicatif,futur simple,deuxième_singulier
 clore - indicatif - futur_simple - troisième_singulier,clore,clora,\[il/ɛl/ɔ̃] klo.ʁa\,indicatif,futur simple,troisième_singulier
@@ -1330,6 +1522,12 @@ ouvrir - indicatif - présent - troisième_singulier,ouvrir,ouvre,\[i.l/ɛ.l/ɔ�
 ouvrir - indicatif - présent - première_pluriel,ouvrir,ouvrons,\nu.z‿u.vʁɔ̃\,indicatif,présent,première_pluriel
 ouvrir - indicatif - présent - deuxième_pluriel,ouvrir,ouvrez,\vu.z‿u.vʁe\,indicatif,présent,deuxième_pluriel
 ouvrir - indicatif - présent - troisième_pluriel,ouvrir,ouvrent,\[il/ɛl].z‿uvʁ\,indicatif,présent,troisième_pluriel
+ouvrir - indicatif - passé_composé - première_singulier,ouvrir,ai ouvert,\ʒ‿e u.vɛʁ\,indicatif,passé composé,première_singulier
+ouvrir - indicatif - passé_composé - deuxième_singulier,ouvrir,as ouvert,\ty a.z‿u.vɛʁ\,indicatif,passé composé,deuxième_singulier
+ouvrir - indicatif - passé_composé - troisième_singulier,ouvrir,a ouvert,\[i.l/ɛ.l/ɔ̃.n]‿a.u.vɛʁ\,indicatif,passé composé,troisième_singulier
+ouvrir - indicatif - passé_composé - première_pluriel,ouvrir,avons ouvert,\nu.z‿a.vɔ̃.z‿u.vɛʁ\,indicatif,passé composé,première_pluriel
+ouvrir - indicatif - passé_composé - deuxième_pluriel,ouvrir,avez ouvert,\vu.z‿a.ve.z‿u.vɛʁ\,indicatif,passé composé,deuxième_pluriel
+ouvrir - indicatif - passé_composé - troisième_pluriel,ouvrir,ont ouvert,\[i/ɛ]l.z‿ɔ̃.t‿u.vɛʁ\,indicatif,passé composé,troisième_pluriel
 ouvrir - indicatif - imparfait - première_singulier,ouvrir,ouvrais,\ʒ‿u.vʁɛ\,indicatif,imparfait,première_singulier
 ouvrir - indicatif - imparfait - deuxième_singulier,ouvrir,ouvrais,\ty u.vʁɛ\,indicatif,imparfait,deuxième_singulier
 ouvrir - indicatif - imparfait - troisième_singulier,ouvrir,ouvrait,\[i.l/ɛ.l/ɔ̃.n]‿u.vʁɛ\,indicatif,imparfait,troisième_singulier
@@ -1372,6 +1570,12 @@ envoyer - indicatif - présent - troisième_singulier,envoyer,envoie,\[i.l/ɛ.l/
 envoyer - indicatif - présent - première_pluriel,envoyer,envoyons,\nu.z‿ɑ̃.vwa.jɔ̃\,indicatif,présent,première_pluriel
 envoyer - indicatif - présent - deuxième_pluriel,envoyer,envoyez,\vu.z‿ɑ̃.vwa.je\,indicatif,présent,deuxième_pluriel
 envoyer - indicatif - présent - troisième_pluriel,envoyer,envoient,\[il/ɛl].z‿ɑ̃.vwa\,indicatif,présent,troisième_pluriel
+envoyer - indicatif - passé_composé - première_singulier,envoyer,ai envoyé,\ʒ‿e ɑ̃.vwa.je\,indicatif,passé composé,première_singulier
+envoyer - indicatif - passé_composé - deuxième_singulier,envoyer,as envoyé,\ty a.z‿ɑ̃.vwa.je\,indicatif,passé composé,deuxième_singulier
+envoyer - indicatif - passé_composé - troisième_singulier,envoyer,a envoyé,\[i.l/ɛ.l/ɔ̃.n]‿a.ɑ̃.vwa.je\,indicatif,passé composé,troisième_singulier
+envoyer - indicatif - passé_composé - première_pluriel,envoyer,avons envoyé,\nu.z‿a.vɔ̃.z‿ɑ̃.vwa.je\,indicatif,passé composé,première_pluriel
+envoyer - indicatif - passé_composé - deuxième_pluriel,envoyer,avez envoyé,\vu.z‿a.ve.z‿ɑ̃.vwa.je\,indicatif,passé composé,deuxième_pluriel
+envoyer - indicatif - passé_composé - troisième_pluriel,envoyer,ont envoyé,\[i/ɛ]l.z‿ɔ̃.t‿ɑ̃.vwa.je\,indicatif,passé composé,troisième_pluriel
 envoyer - indicatif - imparfait - première_singulier,envoyer,envoyais,\ʒ‿ɑ̃.vwa.jɛ\,indicatif,imparfait,première_singulier
 envoyer - indicatif - imparfait - deuxième_singulier,envoyer,envoyais,\ty ɑ̃.vwa.jɛ\,indicatif,imparfait,deuxième_singulier
 envoyer - indicatif - imparfait - troisième_singulier,envoyer,envoyait,\[i.l/ɛ.l/ɔ̃.n]‿ɑ̃.vwa.jɛ\,indicatif,imparfait,troisième_singulier
@@ -1414,6 +1618,12 @@ recevoir - indicatif - présent - troisième_singulier,recevoir,reçoit,\[il/ɛl
 recevoir - indicatif - présent - première_pluriel,recevoir,recevons,\nu ʁə.s(ə.)vɔ̃\,indicatif,présent,première_pluriel
 recevoir - indicatif - présent - deuxième_pluriel,recevoir,recevez,\vu ʁə.s(ə.)ve\,indicatif,présent,deuxième_pluriel
 recevoir - indicatif - présent - troisième_pluriel,recevoir,reçoivent,\[il/ɛl] ʁə.swav\,indicatif,présent,troisième_pluriel
+recevoir - indicatif - passé_composé - première_singulier,recevoir,ai reçu,\ʒ‿e ʁə.sy\,indicatif,passé composé,première_singulier
+recevoir - indicatif - passé_composé - deuxième_singulier,recevoir,as reçu,\ty a ʁə.sy\,indicatif,passé composé,deuxième_singulier
+recevoir - indicatif - passé_composé - troisième_singulier,recevoir,a reçu,\[i.l/ɛ.l/ɔ̃.n]‿a ʁə.sy\,indicatif,passé composé,troisième_singulier
+recevoir - indicatif - passé_composé - première_pluriel,recevoir,avons reçu,\nu.z‿a.vɔ̃ ʁə.sy\,indicatif,passé composé,première_pluriel
+recevoir - indicatif - passé_composé - deuxième_pluriel,recevoir,avez reçu,\vu.z‿a.ve ʁə.sy\,indicatif,passé composé,deuxième_pluriel
+recevoir - indicatif - passé_composé - troisième_pluriel,recevoir,ont reçu,\[i/ɛ]l.z‿ɔ̃ ʁə.sy\,indicatif,passé composé,troisième_pluriel
 recevoir - indicatif - imparfait - première_singulier,recevoir,recevais,\ʒə ʁə.s(ə.)vɛ\,indicatif,imparfait,première_singulier
 recevoir - indicatif - imparfait - deuxième_singulier,recevoir,recevais,\ty ʁə.s(ə.)vɛ\,indicatif,imparfait,deuxième_singulier
 recevoir - indicatif - imparfait - troisième_singulier,recevoir,recevait,\[il/ɛl/ɔ̃] ʁə.s(ə.)vɛ\,indicatif,imparfait,troisième_singulier
@@ -1456,6 +1666,12 @@ courir - indicatif - présent - troisième_singulier,courir,court,\[il/ɛl/ɔ̃]
 courir - indicatif - présent - première_pluriel,courir,courons,\nu ku.ʁɔ̃\,indicatif,présent,première_pluriel
 courir - indicatif - présent - deuxième_pluriel,courir,courez,\vu ku.ʁe\,indicatif,présent,deuxième_pluriel
 courir - indicatif - présent - troisième_pluriel,courir,courent,\[il/ɛl] kuʁ\,indicatif,présent,troisième_pluriel
+courir - indicatif - passé_composé - première_singulier,courir,ai couru,\ʒ‿e ku.ʁy\,indicatif,passé composé,première_singulier
+courir - indicatif - passé_composé - deuxième_singulier,courir,as couru,\ty a ku.ʁy\,indicatif,passé composé,deuxième_singulier
+courir - indicatif - passé_composé - troisième_singulier,courir,a couru,\[i.l/ɛ.l/ɔ̃.n]‿a ku.ʁy\,indicatif,passé composé,troisième_singulier
+courir - indicatif - passé_composé - première_pluriel,courir,avons couru,\nu.z‿a.vɔ̃ ku.ʁy\,indicatif,passé composé,première_pluriel
+courir - indicatif - passé_composé - deuxième_pluriel,courir,avez couru,\vu.z‿a.ve ku.ʁy\,indicatif,passé composé,deuxième_pluriel
+courir - indicatif - passé_composé - troisième_pluriel,courir,ont couru,\[i/ɛ]l.z‿ɔ̃ ku.ʁy\,indicatif,passé composé,troisième_pluriel
 courir - indicatif - imparfait - première_singulier,courir,courais,\ʒə ku.ʁɛ\,indicatif,imparfait,première_singulier
 courir - indicatif - imparfait - deuxième_singulier,courir,courais,\ty ku.ʁɛ\,indicatif,imparfait,deuxième_singulier
 courir - indicatif - imparfait - troisième_singulier,courir,courait,\[il/ɛl/ɔ̃] ku.ʁɛ\,indicatif,imparfait,troisième_singulier
