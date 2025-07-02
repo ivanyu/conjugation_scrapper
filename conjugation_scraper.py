@@ -138,7 +138,9 @@ class FrenchConjugationScraper:
                         if pronoun_aux.startswith("j'") or pronoun_aux.startswith("J'"):
                             # For "j'ai" -> extract "ai"
                             aux_part = pronoun_aux.replace("j'", "").replace("J'", "").strip()
-                            auxiliary = aux_part if aux_part else "ai"  # Default to "ai" for first person
+                            if not aux_part:
+                                raise ValueError(f"Failed to extract auxiliary verb from '{pronoun_aux}' for verb '{verb}'")
+                            auxiliary = aux_part
                         elif " " in pronoun_aux:
                             # For cases like "tu as", "il a", "nous avons", etc.
                             auxiliary = pronoun_aux.split()[-1]  # Get the last word (auxiliary)
@@ -146,6 +148,8 @@ class FrenchConjugationScraper:
                         # Combine auxiliary + participle
                         if auxiliary and participle:
                             conjugated_form = f"{auxiliary} {participle}"
+                        else:
+                            raise ValueError(f"Failed to extract auxiliary ('{auxiliary}') or participle ('{participle}') for verb '{verb}' from pronoun_aux='{pronoun_aux}'")
                     
                     if len(cells) >= 4:
                         # Combine pronunciation parts, preserving spaces
