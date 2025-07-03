@@ -34,3 +34,14 @@ ouvrir
 envoyer
 recevoir
 courir
+retourner
+venir
+entrer
+arriver
+rester
+partir
+monter
+descendre
+tomber
+naître
+passer

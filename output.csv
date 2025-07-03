@@ -1708,3 +1708,435 @@ courir - conditionnel - présent - troisième_singulier,courir,courrait,\[il/ɛl
 courir - conditionnel - présent - première_pluriel,courir,courrions,\nu kuʁ.ʁjɔ̃\,conditionnel,présent,première_pluriel
 courir - conditionnel - présent - deuxième_pluriel,courir,courriez,\vu kuʁ.ʁje\,conditionnel,présent,deuxième_pluriel
 courir - conditionnel - présent - troisième_pluriel,courir,courraient,\[il/ɛl] kuʁ.ʁɛ\,conditionnel,présent,troisième_pluriel
+retourner - indicatif - présent - première_singulier,retourner,retourne,\ʒə ʁǝ.tuʁn\,indicatif,présent,première_singulier
+retourner - indicatif - présent - deuxième_singulier,retourner,retournes,\ty ʁǝ.tuʁn\,indicatif,présent,deuxième_singulier
+retourner - indicatif - présent - troisième_singulier,retourner,retourne,\[il/ɛl/ɔ̃] ʁǝ.tuʁn\,indicatif,présent,troisième_singulier
+retourner - indicatif - présent - première_pluriel,retourner,retournons,\nu ʁǝ.tuʁ.nɔ̃\,indicatif,présent,première_pluriel
+retourner - indicatif - présent - deuxième_pluriel,retourner,retournez,\vu ʁǝ.tuʁ.ne\,indicatif,présent,deuxième_pluriel
+retourner - indicatif - présent - troisième_pluriel,retourner,retournent,\[il/ɛl] ʁǝ.tuʁn\,indicatif,présent,troisième_pluriel
+retourner - indicatif - passé_composé - première_singulier,retourner,ai retourné,\ʒ‿e ʁǝ.tuʁ.ne\,indicatif,passé composé,première_singulier
+retourner - indicatif - passé_composé - deuxième_singulier,retourner,as retourné,\ty a ʁǝ.tuʁ.ne\,indicatif,passé composé,deuxième_singulier
+retourner - indicatif - passé_composé - troisième_singulier,retourner,a retourné,\[i.l/ɛ.l/ɔ̃.n]‿a ʁǝ.tuʁ.ne\,indicatif,passé composé,troisième_singulier
+retourner - indicatif - passé_composé - première_pluriel,retourner,avons retourné,\nu.z‿a.vɔ̃ ʁǝ.tuʁ.ne\,indicatif,passé composé,première_pluriel
+retourner - indicatif - passé_composé - deuxième_pluriel,retourner,avez retourné,\vu.z‿a.ve ʁǝ.tuʁ.ne\,indicatif,passé composé,deuxième_pluriel
+retourner - indicatif - passé_composé - troisième_pluriel,retourner,ont retourné,\[i/ɛ]l.z‿ɔ̃ ʁǝ.tuʁ.ne\,indicatif,passé composé,troisième_pluriel
+retourner - indicatif - imparfait - première_singulier,retourner,retournais,\ʒə ʁǝ.tuʁ.nɛ\,indicatif,imparfait,première_singulier
+retourner - indicatif - imparfait - deuxième_singulier,retourner,retournais,\ty ʁǝ.tuʁ.nɛ\,indicatif,imparfait,deuxième_singulier
+retourner - indicatif - imparfait - troisième_singulier,retourner,retournait,\[il/ɛl/ɔ̃] ʁǝ.tuʁ.nɛ\,indicatif,imparfait,troisième_singulier
+retourner - indicatif - imparfait - première_pluriel,retourner,retournions,\nu ʁǝ.tuʁ.njɔ̃\,indicatif,imparfait,première_pluriel
+retourner - indicatif - imparfait - deuxième_pluriel,retourner,retourniez,\vu ʁǝ.tuʁ.nje\,indicatif,imparfait,deuxième_pluriel
+retourner - indicatif - imparfait - troisième_pluriel,retourner,retournaient,\[il/ɛl] ʁǝ.tuʁ.nɛ\,indicatif,imparfait,troisième_pluriel
+retourner - indicatif - passé_simple - première_singulier,retourner,retournai,\ʒə ʁǝ.tuʁ.ne\,indicatif,passé simple,première_singulier
+retourner - indicatif - passé_simple - deuxième_singulier,retourner,retournas,\ty ʁǝ.tuʁ.na\,indicatif,passé simple,deuxième_singulier
+retourner - indicatif - passé_simple - troisième_singulier,retourner,retourna,\[il/ɛl/ɔ̃] ʁǝ.tuʁ.na\,indicatif,passé simple,troisième_singulier
+retourner - indicatif - passé_simple - première_pluriel,retourner,retournâmes,\nu ʁǝ.tuʁ.nam\,indicatif,passé simple,première_pluriel
+retourner - indicatif - passé_simple - deuxième_pluriel,retourner,retournâtes,\vu ʁǝ.tuʁ.nat\,indicatif,passé simple,deuxième_pluriel
+retourner - indicatif - passé_simple - troisième_pluriel,retourner,retournèrent,\[il/ɛl] ʁǝ.tuʁ.nɛʁ\,indicatif,passé simple,troisième_pluriel
+retourner - indicatif - futur_simple - première_singulier,retourner,retournerai,\ʒə ʁǝ.tuʁ.n(ə.)ʁe\,indicatif,futur simple,première_singulier
+retourner - indicatif - futur_simple - deuxième_singulier,retourner,retourneras,\ty ʁǝ.tuʁ.n(ə.)ʁa\,indicatif,futur simple,deuxième_singulier
+retourner - indicatif - futur_simple - troisième_singulier,retourner,retournera,\[il/ɛl/ɔ̃] ʁǝ.tuʁ.n(ə.)ʁa\,indicatif,futur simple,troisième_singulier
+retourner - indicatif - futur_simple - première_pluriel,retourner,retournerons,\nu ʁǝ.tuʁ.n(ə.)ʁɔ̃\,indicatif,futur simple,première_pluriel
+retourner - indicatif - futur_simple - deuxième_pluriel,retourner,retournerez,\vu ʁǝ.tuʁ.n(ə.)ʁe\,indicatif,futur simple,deuxième_pluriel
+retourner - indicatif - futur_simple - troisième_pluriel,retourner,retourneront,\[il/ɛl] ʁǝ.tuʁ.n(ə.)ʁɔ̃\,indicatif,futur simple,troisième_pluriel
+retourner - subjonctif - présent - première_singulier,retourner,retourne,\kə ʒə ʁǝ.tuʁn\,subjonctif,présent,première_singulier
+retourner - subjonctif - présent - deuxième_singulier,retourner,retournes,\kə ty ʁǝ.tuʁn\,subjonctif,présent,deuxième_singulier
+retourner - subjonctif - présent - troisième_singulier,retourner,retourne,\k‿[il/ɛl/ɔ̃] ʁǝ.tuʁn\,subjonctif,présent,troisième_singulier
+retourner - subjonctif - présent - première_pluriel,retourner,retournions,\kə nu ʁǝ.tuʁ.njɔ̃\,subjonctif,présent,première_pluriel
+retourner - subjonctif - présent - deuxième_pluriel,retourner,retourniez,\kə vu ʁǝ.tuʁ.nje\,subjonctif,présent,deuxième_pluriel
+retourner - subjonctif - présent - troisième_pluriel,retourner,retournent,\k‿[il/ɛl] ʁǝ.tuʁn\,subjonctif,présent,troisième_pluriel
+retourner - subjonctif - imparfait - première_singulier,retourner,retournasse,\kə ʒə ʁǝ.tuʁ.nas\,subjonctif,imparfait,première_singulier
+retourner - subjonctif - imparfait - deuxième_singulier,retourner,retournasses,\kə ty ʁǝ.tuʁ.nas\,subjonctif,imparfait,deuxième_singulier
+retourner - subjonctif - imparfait - troisième_singulier,retourner,retournât,\k‿[il/ɛl/ɔ̃] ʁǝ.tuʁ.na\,subjonctif,imparfait,troisième_singulier
+retourner - subjonctif - imparfait - première_pluriel,retourner,retournassions,\kə nu ʁǝ.tuʁ.na.sjɔ̃\,subjonctif,imparfait,première_pluriel
+retourner - subjonctif - imparfait - deuxième_pluriel,retourner,retournassiez,\kə vu ʁǝ.tuʁ.na.sje\,subjonctif,imparfait,deuxième_pluriel
+retourner - subjonctif - imparfait - troisième_pluriel,retourner,retournassent,\k‿[il/ɛl] ʁǝ.tuʁ.nas\,subjonctif,imparfait,troisième_pluriel
+retourner - conditionnel - présent - première_singulier,retourner,retournerais,\ʒə ʁǝ.tuʁ.n(ə.)ʁɛ\,conditionnel,présent,première_singulier
+retourner - conditionnel - présent - deuxième_singulier,retourner,retournerais,\ty ʁǝ.tuʁ.n(ə.)ʁɛ\,conditionnel,présent,deuxième_singulier
+retourner - conditionnel - présent - troisième_singulier,retourner,retournerait,\[il/ɛl/ɔ̃] ʁǝ.tuʁ.n(ə.)ʁɛ\,conditionnel,présent,troisième_singulier
+retourner - conditionnel - présent - première_pluriel,retourner,retournerions,\nu ʁǝ.tuʁ.nə.ʁjɔ̃\,conditionnel,présent,première_pluriel
+retourner - conditionnel - présent - deuxième_pluriel,retourner,retourneriez,\vu ʁǝ.tuʁ.nə.ʁje\,conditionnel,présent,deuxième_pluriel
+retourner - conditionnel - présent - troisième_pluriel,retourner,retourneraient,\[il/ɛl] ʁǝ.tuʁ.n(ə.)ʁɛ\,conditionnel,présent,troisième_pluriel
+entrer - indicatif - présent - première_singulier,entrer,entre,\ʒ‿ɑ̃tʁ\,indicatif,présent,première_singulier
+entrer - indicatif - présent - deuxième_singulier,entrer,entres,\ty ɑ̃tʁ\,indicatif,présent,deuxième_singulier
+entrer - indicatif - présent - troisième_singulier,entrer,entre,\[i.l/ɛ.l/ɔ̃.n]‿ɑ̃tʁ\,indicatif,présent,troisième_singulier
+entrer - indicatif - présent - première_pluriel,entrer,entrons,\nu.z‿ɑ̃.tʁɔ̃\,indicatif,présent,première_pluriel
+entrer - indicatif - présent - deuxième_pluriel,entrer,entrez,\vu.z‿ɑ̃.tʁe\,indicatif,présent,deuxième_pluriel
+entrer - indicatif - présent - troisième_pluriel,entrer,entrent,\[il/ɛl].z‿ɑ̃tʁ\,indicatif,présent,troisième_pluriel
+entrer - indicatif - passé_composé - première_singulier,entrer,suis entré,\ʒə sɥi.z‿ɑ̃.tʁe\,indicatif,passé composé,première_singulier
+entrer - indicatif - passé_composé - deuxième_singulier,entrer,es entré,\ty ɛ.z‿ɑ̃.tʁe\,indicatif,passé composé,deuxième_singulier
+entrer - indicatif - passé_composé - troisième_singulier,entrer,est entré,\[i.l/ɛ.l/ɔ̃.n]‿ɛ.t‿ɑ̃.tʁe\,indicatif,passé composé,troisième_singulier
+entrer - indicatif - passé_composé - première_pluriel,entrer,sommes entrés,\nu sɔm.z‿ɑ̃.tʁe\,indicatif,passé composé,première_pluriel
+entrer - indicatif - passé_composé - deuxième_pluriel,entrer,êtes entrés,\vu.z‿ɛt.z‿ɑ̃.tʁe\,indicatif,passé composé,deuxième_pluriel
+entrer - indicatif - passé_composé - troisième_pluriel,entrer,sont entrés,\[i/ɛ]l sɔ̃.t‿ɑ̃.tʁe\,indicatif,passé composé,troisième_pluriel
+entrer - indicatif - imparfait - première_singulier,entrer,entrais,\ʒ‿ɑ̃.tʁɛ\,indicatif,imparfait,première_singulier
+entrer - indicatif - imparfait - deuxième_singulier,entrer,entrais,\ty ɑ̃.tʁɛ\,indicatif,imparfait,deuxième_singulier
+entrer - indicatif - imparfait - troisième_singulier,entrer,entrait,\[i.l/ɛ.l/ɔ̃.n]‿ɑ̃.tʁɛ\,indicatif,imparfait,troisième_singulier
+entrer - indicatif - imparfait - première_pluriel,entrer,entrions,\nu.z‿ɑ̃.tʁi.jɔ̃\,indicatif,imparfait,première_pluriel
+entrer - indicatif - imparfait - deuxième_pluriel,entrer,entriez,\vu.z‿ɑ̃.tʁi.je\,indicatif,imparfait,deuxième_pluriel
+entrer - indicatif - imparfait - troisième_pluriel,entrer,entraient,\[il/ɛl].z‿ɑ̃.tʁɛ\,indicatif,imparfait,troisième_pluriel
+entrer - indicatif - passé_simple - première_singulier,entrer,entrai,\ʒ‿ɑ̃.tʁe\,indicatif,passé simple,première_singulier
+entrer - indicatif - passé_simple - deuxième_singulier,entrer,entras,\ty ɑ̃.tʁa\,indicatif,passé simple,deuxième_singulier
+entrer - indicatif - passé_simple - troisième_singulier,entrer,entra,\[i.l/ɛ.l/ɔ̃.n]‿ɑ̃.tʁa\,indicatif,passé simple,troisième_singulier
+entrer - indicatif - passé_simple - première_pluriel,entrer,entrâmes,\nu.z‿ɑ̃.tʁam\,indicatif,passé simple,première_pluriel
+entrer - indicatif - passé_simple - deuxième_pluriel,entrer,entrâtes,\vu.z‿ɑ̃.tʁat\,indicatif,passé simple,deuxième_pluriel
+entrer - indicatif - passé_simple - troisième_pluriel,entrer,entrèrent,\[il/ɛl].z‿ɑ̃.tʁɛʁ\,indicatif,passé simple,troisième_pluriel
+entrer - indicatif - futur_simple - première_singulier,entrer,entrerai,\ʒ‿ɑ̃.tʁə.ʁe\,indicatif,futur simple,première_singulier
+entrer - indicatif - futur_simple - deuxième_singulier,entrer,entreras,\ty ɑ̃.tʁə.ʁa\,indicatif,futur simple,deuxième_singulier
+entrer - indicatif - futur_simple - troisième_singulier,entrer,entrera,\[i.l/ɛ.l/ɔ̃.n]‿ɑ̃.tʁə.ʁa\,indicatif,futur simple,troisième_singulier
+entrer - indicatif - futur_simple - première_pluriel,entrer,entrerons,\nu.z‿ɑ̃.tʁə.ʁɔ̃\,indicatif,futur simple,première_pluriel
+entrer - indicatif - futur_simple - deuxième_pluriel,entrer,entrerez,\vu.z‿ɑ̃.tʁə.ʁe\,indicatif,futur simple,deuxième_pluriel
+entrer - indicatif - futur_simple - troisième_pluriel,entrer,entreront,\[il/ɛl].z‿ɑ̃.tʁə.ʁɔ̃\,indicatif,futur simple,troisième_pluriel
+entrer - subjonctif - présent - première_singulier,entrer,entre,\kə ʒ‿ɑ̃tʁ\,subjonctif,présent,première_singulier
+entrer - subjonctif - présent - deuxième_singulier,entrer,entres,\kə ty ɑ̃tʁ\,subjonctif,présent,deuxième_singulier
+entrer - subjonctif - présent - troisième_singulier,entrer,entre,\k‿[i.l/ɛ.l/ɔ̃.n]‿ɑ̃tʁ\,subjonctif,présent,troisième_singulier
+entrer - subjonctif - présent - première_pluriel,entrer,entrions,\kə nu.z‿ɑ̃.tʁi.jɔ̃\,subjonctif,présent,première_pluriel
+entrer - subjonctif - présent - deuxième_pluriel,entrer,entriez,\kə vu.z‿ɑ̃.tʁi.je\,subjonctif,présent,deuxième_pluriel
+entrer - subjonctif - présent - troisième_pluriel,entrer,entrent,\k‿[il/ɛl].z‿ɑ̃tʁ\,subjonctif,présent,troisième_pluriel
+entrer - subjonctif - imparfait - première_singulier,entrer,entrasse,\kə ʒ‿ɑ̃.tʁas\,subjonctif,imparfait,première_singulier
+entrer - subjonctif - imparfait - deuxième_singulier,entrer,entrasses,\kə ty ɑ̃.tʁas\,subjonctif,imparfait,deuxième_singulier
+entrer - subjonctif - imparfait - troisième_singulier,entrer,entrât,\k‿[i.l/ɛ.l/ɔ̃.n]‿ɑ̃.tʁa\,subjonctif,imparfait,troisième_singulier
+entrer - subjonctif - imparfait - première_pluriel,entrer,entrassions,\kə nu.z‿ɑ̃.tʁa.sjɔ̃\,subjonctif,imparfait,première_pluriel
+entrer - subjonctif - imparfait - deuxième_pluriel,entrer,entrassiez,\kə vu.z‿ɑ̃.tʁa.sje\,subjonctif,imparfait,deuxième_pluriel
+entrer - subjonctif - imparfait - troisième_pluriel,entrer,entrassent,\k‿[il/ɛl].z‿ɑ̃.tʁas\,subjonctif,imparfait,troisième_pluriel
+entrer - conditionnel - présent - première_singulier,entrer,entrerais,\ʒ‿ɑ̃.tʁə.ʁɛ\,conditionnel,présent,première_singulier
+entrer - conditionnel - présent - deuxième_singulier,entrer,entrerais,\ty ɑ̃.tʁə.ʁɛ\,conditionnel,présent,deuxième_singulier
+entrer - conditionnel - présent - troisième_singulier,entrer,entrerait,\[i.l/ɛ.l/ɔ̃.n]‿ɑ̃.tʁə.ʁɛ\,conditionnel,présent,troisième_singulier
+entrer - conditionnel - présent - première_pluriel,entrer,entrerions,\nu.z‿ɑ̃.tʁə.ʁjɔ̃\,conditionnel,présent,première_pluriel
+entrer - conditionnel - présent - deuxième_pluriel,entrer,entreriez,\vu.z‿ɑ̃.tʁə.ʁje\,conditionnel,présent,deuxième_pluriel
+entrer - conditionnel - présent - troisième_pluriel,entrer,entreraient,\[il/ɛl].z‿ɑ̃.tʁə.ʁɛ\,conditionnel,présent,troisième_pluriel
+arriver - indicatif - présent - première_singulier,arriver,arrive,\ʒ‿a.ʁiv\,indicatif,présent,première_singulier
+arriver - indicatif - présent - deuxième_singulier,arriver,arrives,\ty a.ʁiv\,indicatif,présent,deuxième_singulier
+arriver - indicatif - présent - troisième_singulier,arriver,arrive,\[i.l/ɛ.l/ɔ̃.n]‿a.ʁiv\,indicatif,présent,troisième_singulier
+arriver - indicatif - présent - première_pluriel,arriver,arrivons,\nu.z‿a.ʁi.vɔ̃\,indicatif,présent,première_pluriel
+arriver - indicatif - présent - deuxième_pluriel,arriver,arrivez,\vu.z‿a.ʁi.ve\,indicatif,présent,deuxième_pluriel
+arriver - indicatif - présent - troisième_pluriel,arriver,arrivent,\[il/ɛl].z‿a.ʁiv\,indicatif,présent,troisième_pluriel
+arriver - indicatif - passé_composé - première_singulier,arriver,suis arrivé,\ʒə sɥi.z‿a.ʁi.ve\,indicatif,passé composé,première_singulier
+arriver - indicatif - passé_composé - deuxième_singulier,arriver,es arrivé,\ty ɛ.z‿a.ʁi.ve\,indicatif,passé composé,deuxième_singulier
+arriver - indicatif - passé_composé - troisième_singulier,arriver,est arrivé,\[i.l/ɛ.l/ɔ̃.n]‿ɛ.t‿a.ʁi.ve\,indicatif,passé composé,troisième_singulier
+arriver - indicatif - passé_composé - première_pluriel,arriver,sommes arrivés,\nu sɔm.z‿a.ʁi.ve\,indicatif,passé composé,première_pluriel
+arriver - indicatif - passé_composé - deuxième_pluriel,arriver,êtes arrivés,\vu.z‿ɛt.z‿a.ʁi.ve\,indicatif,passé composé,deuxième_pluriel
+arriver - indicatif - passé_composé - troisième_pluriel,arriver,sont arrivés,\[i/ɛ]l sɔ̃.t‿a.ʁi.ve\,indicatif,passé composé,troisième_pluriel
+arriver - indicatif - imparfait - première_singulier,arriver,arrivais,\ʒ‿a.ʁi.vɛ\,indicatif,imparfait,première_singulier
+arriver - indicatif - imparfait - deuxième_singulier,arriver,arrivais,\ty a.ʁi.vɛ\,indicatif,imparfait,deuxième_singulier
+arriver - indicatif - imparfait - troisième_singulier,arriver,arrivait,\[i.l/ɛ.l/ɔ̃.n]‿a.ʁi.vɛ\,indicatif,imparfait,troisième_singulier
+arriver - indicatif - imparfait - première_pluriel,arriver,arrivions,\nu.z‿a.ʁi.vjɔ̃\,indicatif,imparfait,première_pluriel
+arriver - indicatif - imparfait - deuxième_pluriel,arriver,arriviez,\vu.z‿a.ʁi.vje\,indicatif,imparfait,deuxième_pluriel
+arriver - indicatif - imparfait - troisième_pluriel,arriver,arrivaient,\[il/ɛl].z‿a.ʁi.vɛ\,indicatif,imparfait,troisième_pluriel
+arriver - indicatif - passé_simple - première_singulier,arriver,arrivai,\ʒ‿a.ʁi.ve\,indicatif,passé simple,première_singulier
+arriver - indicatif - passé_simple - deuxième_singulier,arriver,arrivas,\ty a.ʁi.va\,indicatif,passé simple,deuxième_singulier
+arriver - indicatif - passé_simple - troisième_singulier,arriver,arriva,\[i.l/ɛ.l/ɔ̃.n]‿a.ʁi.va\,indicatif,passé simple,troisième_singulier
+arriver - indicatif - passé_simple - première_pluriel,arriver,arrivâmes,\nu.z‿a.ʁi.vam\,indicatif,passé simple,première_pluriel
+arriver - indicatif - passé_simple - deuxième_pluriel,arriver,arrivâtes,\vu.z‿a.ʁi.vat\,indicatif,passé simple,deuxième_pluriel
+arriver - indicatif - passé_simple - troisième_pluriel,arriver,arrivèrent,\[il/ɛl].z‿a.ʁi.vɛʁ\,indicatif,passé simple,troisième_pluriel
+arriver - indicatif - futur_simple - première_singulier,arriver,arriverai,\ʒ‿a.ʁi.v(ə.)ʁe\,indicatif,futur simple,première_singulier
+arriver - indicatif - futur_simple - deuxième_singulier,arriver,arriveras,\ty a.ʁi.v(ə.)ʁa\,indicatif,futur simple,deuxième_singulier
+arriver - indicatif - futur_simple - troisième_singulier,arriver,arrivera,\[i.l/ɛ.l/ɔ̃.n]‿a.ʁi.v(ə.)ʁa\,indicatif,futur simple,troisième_singulier
+arriver - indicatif - futur_simple - première_pluriel,arriver,arriverons,\nu.z‿a.ʁi.v(ə.)ʁɔ̃\,indicatif,futur simple,première_pluriel
+arriver - indicatif - futur_simple - deuxième_pluriel,arriver,arriverez,\vu.z‿a.ʁi.v(ə.)ʁe\,indicatif,futur simple,deuxième_pluriel
+arriver - indicatif - futur_simple - troisième_pluriel,arriver,arriveront,\[il/ɛl].z‿a.ʁi.v(ə.)ʁɔ̃\,indicatif,futur simple,troisième_pluriel
+arriver - subjonctif - présent - première_singulier,arriver,arrive,\kə ʒ‿a.ʁiv\,subjonctif,présent,première_singulier
+arriver - subjonctif - présent - deuxième_singulier,arriver,arrives,\kə ty a.ʁiv\,subjonctif,présent,deuxième_singulier
+arriver - subjonctif - présent - troisième_singulier,arriver,arrive,\k‿[i.l/ɛ.l/ɔ̃.n]‿a.ʁiv\,subjonctif,présent,troisième_singulier
+arriver - subjonctif - présent - première_pluriel,arriver,arrivions,\kə nu.z‿a.ʁi.vjɔ̃\,subjonctif,présent,première_pluriel
+arriver - subjonctif - présent - deuxième_pluriel,arriver,arriviez,\kə vu.z‿a.ʁi.vje\,subjonctif,présent,deuxième_pluriel
+arriver - subjonctif - présent - troisième_pluriel,arriver,arrivent,\k‿[il/ɛl].z‿a.ʁiv\,subjonctif,présent,troisième_pluriel
+arriver - subjonctif - imparfait - première_singulier,arriver,arrivasse,\kə ʒ‿a.ʁi.vas\,subjonctif,imparfait,première_singulier
+arriver - subjonctif - imparfait - deuxième_singulier,arriver,arrivasses,\kə ty a.ʁi.vas\,subjonctif,imparfait,deuxième_singulier
+arriver - subjonctif - imparfait - troisième_singulier,arriver,arrivât,\k‿[i.l/ɛ.l/ɔ̃.n]‿a.ʁi.va\,subjonctif,imparfait,troisième_singulier
+arriver - subjonctif - imparfait - première_pluriel,arriver,arrivassions,\kə nu.z‿a.ʁi.va.sjɔ̃\,subjonctif,imparfait,première_pluriel
+arriver - subjonctif - imparfait - deuxième_pluriel,arriver,arrivassiez,\kə vu.z‿a.ʁi.va.sje\,subjonctif,imparfait,deuxième_pluriel
+arriver - subjonctif - imparfait - troisième_pluriel,arriver,arrivassent,\k‿[il/ɛl].z‿a.ʁi.vas\,subjonctif,imparfait,troisième_pluriel
+arriver - conditionnel - présent - première_singulier,arriver,arriverais,\ʒ‿a.ʁi.v(ə.)ʁɛ\,conditionnel,présent,première_singulier
+arriver - conditionnel - présent - deuxième_singulier,arriver,arriverais,\ty a.ʁi.v(ə.)ʁɛ\,conditionnel,présent,deuxième_singulier
+arriver - conditionnel - présent - troisième_singulier,arriver,arriverait,\[i.l/ɛ.l/ɔ̃.n]‿a.ʁi.v(ə.)ʁɛ\,conditionnel,présent,troisième_singulier
+arriver - conditionnel - présent - première_pluriel,arriver,arriverions,\nu.z‿a.ʁi.və.ʁjɔ̃\,conditionnel,présent,première_pluriel
+arriver - conditionnel - présent - deuxième_pluriel,arriver,arriveriez,\vu.z‿a.ʁi.və.ʁje\,conditionnel,présent,deuxième_pluriel
+arriver - conditionnel - présent - troisième_pluriel,arriver,arriveraient,\[il/ɛl].z‿a.ʁi.v(ə.)ʁɛ\,conditionnel,présent,troisième_pluriel
+rester - indicatif - présent - première_singulier,rester,reste,\ʒə ʁɛst\,indicatif,présent,première_singulier
+rester - indicatif - présent - deuxième_singulier,rester,restes,\ty ʁɛst\,indicatif,présent,deuxième_singulier
+rester - indicatif - présent - troisième_singulier,rester,reste,\[il/ɛl/ɔ̃] ʁɛst\,indicatif,présent,troisième_singulier
+rester - indicatif - présent - première_pluriel,rester,restons,\nu ʁɛs.tɔ̃\,indicatif,présent,première_pluriel
+rester - indicatif - présent - deuxième_pluriel,rester,restez,\vu ʁɛs.te\,indicatif,présent,deuxième_pluriel
+rester - indicatif - présent - troisième_pluriel,rester,restent,\[il/ɛl] ʁɛst\,indicatif,présent,troisième_pluriel
+rester - indicatif - passé_composé - première_singulier,rester,suis resté,\ʒə sɥi ʁɛs.te\,indicatif,passé composé,première_singulier
+rester - indicatif - passé_composé - deuxième_singulier,rester,es resté,\ty ɛ ʁɛs.te\,indicatif,passé composé,deuxième_singulier
+rester - indicatif - passé_composé - troisième_singulier,rester,est resté,\[i.l/ɛ.l/ɔ̃.n]‿ɛ ʁɛs.te\,indicatif,passé composé,troisième_singulier
+rester - indicatif - passé_composé - première_pluriel,rester,sommes restés,\nu sɔm ʁɛs.te\,indicatif,passé composé,première_pluriel
+rester - indicatif - passé_composé - deuxième_pluriel,rester,êtes restés,\vu.z‿ɛt ʁɛs.te\,indicatif,passé composé,deuxième_pluriel
+rester - indicatif - passé_composé - troisième_pluriel,rester,sont restés,\[i/ɛ]l sɔ̃ ʁɛs.te\,indicatif,passé composé,troisième_pluriel
+rester - indicatif - imparfait - première_singulier,rester,restais,\ʒə ʁɛs.tɛ\,indicatif,imparfait,première_singulier
+rester - indicatif - imparfait - deuxième_singulier,rester,restais,\ty ʁɛs.tɛ\,indicatif,imparfait,deuxième_singulier
+rester - indicatif - imparfait - troisième_singulier,rester,restait,\[il/ɛl/ɔ̃] ʁɛs.tɛ\,indicatif,imparfait,troisième_singulier
+rester - indicatif - imparfait - première_pluriel,rester,restions,\nu ʁɛs.tjɔ̃\,indicatif,imparfait,première_pluriel
+rester - indicatif - imparfait - deuxième_pluriel,rester,restiez,\vu ʁɛs.tje\,indicatif,imparfait,deuxième_pluriel
+rester - indicatif - imparfait - troisième_pluriel,rester,restaient,\[il/ɛl] ʁɛs.tɛ\,indicatif,imparfait,troisième_pluriel
+rester - indicatif - passé_simple - première_singulier,rester,restai,\ʒə ʁɛs.te\,indicatif,passé simple,première_singulier
+rester - indicatif - passé_simple - deuxième_singulier,rester,restas,\ty ʁɛs.ta\,indicatif,passé simple,deuxième_singulier
+rester - indicatif - passé_simple - troisième_singulier,rester,resta,\[il/ɛl/ɔ̃] ʁɛs.ta\,indicatif,passé simple,troisième_singulier
+rester - indicatif - passé_simple - première_pluriel,rester,restâmes,\nu ʁɛs.tam\,indicatif,passé simple,première_pluriel
+rester - indicatif - passé_simple - deuxième_pluriel,rester,restâtes,\vu ʁɛs.tat\,indicatif,passé simple,deuxième_pluriel
+rester - indicatif - passé_simple - troisième_pluriel,rester,restèrent,\[il/ɛl] ʁɛs.tɛʁ\,indicatif,passé simple,troisième_pluriel
+rester - indicatif - futur_simple - première_singulier,rester,resterai,\ʒə ʁɛs.t(ə.)ʁe\,indicatif,futur simple,première_singulier
+rester - indicatif - futur_simple - deuxième_singulier,rester,resteras,\ty ʁɛs.t(ə.)ʁa\,indicatif,futur simple,deuxième_singulier
+rester - indicatif - futur_simple - troisième_singulier,rester,restera,\[il/ɛl/ɔ̃] ʁɛs.t(ə.)ʁa\,indicatif,futur simple,troisième_singulier
+rester - indicatif - futur_simple - première_pluriel,rester,resterons,\nu ʁɛs.t(ə.)ʁɔ̃\,indicatif,futur simple,première_pluriel
+rester - indicatif - futur_simple - deuxième_pluriel,rester,resterez,\vu ʁɛs.t(ə.)ʁe\,indicatif,futur simple,deuxième_pluriel
+rester - indicatif - futur_simple - troisième_pluriel,rester,resteront,\[il/ɛl] ʁɛs.t(ə.)ʁɔ̃\,indicatif,futur simple,troisième_pluriel
+rester - subjonctif - présent - première_singulier,rester,reste,\kə ʒə ʁɛst\,subjonctif,présent,première_singulier
+rester - subjonctif - présent - deuxième_singulier,rester,restes,\kə ty ʁɛst\,subjonctif,présent,deuxième_singulier
+rester - subjonctif - présent - troisième_singulier,rester,reste,\k‿[il/ɛl/ɔ̃] ʁɛst\,subjonctif,présent,troisième_singulier
+rester - subjonctif - présent - première_pluriel,rester,restions,\kə nu ʁɛs.tjɔ̃\,subjonctif,présent,première_pluriel
+rester - subjonctif - présent - deuxième_pluriel,rester,restiez,\kə vu ʁɛs.tje\,subjonctif,présent,deuxième_pluriel
+rester - subjonctif - présent - troisième_pluriel,rester,restent,\k‿[il/ɛl] ʁɛst\,subjonctif,présent,troisième_pluriel
+rester - subjonctif - imparfait - première_singulier,rester,restasse,\kə ʒə ʁɛs.tas\,subjonctif,imparfait,première_singulier
+rester - subjonctif - imparfait - deuxième_singulier,rester,restasses,\kə ty ʁɛs.tas\,subjonctif,imparfait,deuxième_singulier
+rester - subjonctif - imparfait - troisième_singulier,rester,restât,\k‿[il/ɛl/ɔ̃] ʁɛs.ta\,subjonctif,imparfait,troisième_singulier
+rester - subjonctif - imparfait - première_pluriel,rester,restassions,\kə nu ʁɛs.ta.sjɔ̃\,subjonctif,imparfait,première_pluriel
+rester - subjonctif - imparfait - deuxième_pluriel,rester,restassiez,\kə vu ʁɛs.ta.sje\,subjonctif,imparfait,deuxième_pluriel
+rester - subjonctif - imparfait - troisième_pluriel,rester,restassent,\k‿[il/ɛl] ʁɛs.tas\,subjonctif,imparfait,troisième_pluriel
+rester - conditionnel - présent - première_singulier,rester,resterais,\ʒə ʁɛs.t(ə.)ʁɛ\,conditionnel,présent,première_singulier
+rester - conditionnel - présent - deuxième_singulier,rester,resterais,\ty ʁɛs.t(ə.)ʁɛ\,conditionnel,présent,deuxième_singulier
+rester - conditionnel - présent - troisième_singulier,rester,resterait,\[il/ɛl/ɔ̃] ʁɛs.t(ə.)ʁɛ\,conditionnel,présent,troisième_singulier
+rester - conditionnel - présent - première_pluriel,rester,resterions,\nu ʁɛs.tə.ʁjɔ̃\,conditionnel,présent,première_pluriel
+rester - conditionnel - présent - deuxième_pluriel,rester,resteriez,\vu ʁɛs.tə.ʁje\,conditionnel,présent,deuxième_pluriel
+rester - conditionnel - présent - troisième_pluriel,rester,resteraient,\[il/ɛl] ʁɛs.t(ə.)ʁɛ\,conditionnel,présent,troisième_pluriel
+monter - indicatif - présent - première_singulier,monter,monte,\ʒə mɔ̃t\,indicatif,présent,première_singulier
+monter - indicatif - présent - deuxième_singulier,monter,montes,\ty mɔ̃t\,indicatif,présent,deuxième_singulier
+monter - indicatif - présent - troisième_singulier,monter,monte,\[il/ɛl/ɔ̃] mɔ̃t\,indicatif,présent,troisième_singulier
+monter - indicatif - présent - première_pluriel,monter,montons,\nu mɔ̃.tɔ̃\,indicatif,présent,première_pluriel
+monter - indicatif - présent - deuxième_pluriel,monter,montez,\vu mɔ̃.te\,indicatif,présent,deuxième_pluriel
+monter - indicatif - présent - troisième_pluriel,monter,montent,\[il/ɛl] mɔ̃t\,indicatif,présent,troisième_pluriel
+monter - indicatif - passé_composé - première_singulier,monter,suis monté,\ʒə sɥi mɔ̃.te\,indicatif,passé composé,première_singulier
+monter - indicatif - passé_composé - deuxième_singulier,monter,es monté,\ty ɛ mɔ̃.te\,indicatif,passé composé,deuxième_singulier
+monter - indicatif - passé_composé - troisième_singulier,monter,est monté,\[i.l/ɛ.l/ɔ̃.n]‿ɛ mɔ̃.te\,indicatif,passé composé,troisième_singulier
+monter - indicatif - passé_composé - première_pluriel,monter,sommes montés,\nu sɔm mɔ̃.te\,indicatif,passé composé,première_pluriel
+monter - indicatif - passé_composé - deuxième_pluriel,monter,êtes montés,\vu.z‿ɛt mɔ̃.te\,indicatif,passé composé,deuxième_pluriel
+monter - indicatif - passé_composé - troisième_pluriel,monter,sont montés,\[i/ɛ]l sɔ̃ mɔ̃.te\,indicatif,passé composé,troisième_pluriel
+monter - indicatif - imparfait - première_singulier,monter,montais,\ʒə mɔ̃.tɛ\,indicatif,imparfait,première_singulier
+monter - indicatif - imparfait - deuxième_singulier,monter,montais,\ty mɔ̃.tɛ\,indicatif,imparfait,deuxième_singulier
+monter - indicatif - imparfait - troisième_singulier,monter,montait,\[il/ɛl/ɔ̃] mɔ̃.tɛ\,indicatif,imparfait,troisième_singulier
+monter - indicatif - imparfait - première_pluriel,monter,montions,\nu mɔ̃.tjɔ̃\,indicatif,imparfait,première_pluriel
+monter - indicatif - imparfait - deuxième_pluriel,monter,montiez,\vu mɔ̃.tje\,indicatif,imparfait,deuxième_pluriel
+monter - indicatif - imparfait - troisième_pluriel,monter,montaient,\[il/ɛl] mɔ̃.tɛ\,indicatif,imparfait,troisième_pluriel
+monter - indicatif - passé_simple - première_singulier,monter,montai,\ʒə mɔ̃.te\,indicatif,passé simple,première_singulier
+monter - indicatif - passé_simple - deuxième_singulier,monter,montas,\ty mɔ̃.ta\,indicatif,passé simple,deuxième_singulier
+monter - indicatif - passé_simple - troisième_singulier,monter,monta,\[il/ɛl/ɔ̃] mɔ̃.ta\,indicatif,passé simple,troisième_singulier
+monter - indicatif - passé_simple - première_pluriel,monter,montâmes,\nu mɔ̃.tam\,indicatif,passé simple,première_pluriel
+monter - indicatif - passé_simple - deuxième_pluriel,monter,montâtes,\vu mɔ̃.tat\,indicatif,passé simple,deuxième_pluriel
+monter - indicatif - passé_simple - troisième_pluriel,monter,montèrent,\[il/ɛl] mɔ̃.tɛʁ\,indicatif,passé simple,troisième_pluriel
+monter - indicatif - futur_simple - première_singulier,monter,monterai,\ʒə mɔ̃.t(ə.)ʁe\,indicatif,futur simple,première_singulier
+monter - indicatif - futur_simple - deuxième_singulier,monter,monteras,\ty mɔ̃.t(ə.)ʁa\,indicatif,futur simple,deuxième_singulier
+monter - indicatif - futur_simple - troisième_singulier,monter,montera,\[il/ɛl/ɔ̃] mɔ̃.t(ə.)ʁa\,indicatif,futur simple,troisième_singulier
+monter - indicatif - futur_simple - première_pluriel,monter,monterons,\nu mɔ̃.t(ə.)ʁɔ̃\,indicatif,futur simple,première_pluriel
+monter - indicatif - futur_simple - deuxième_pluriel,monter,monterez,\vu mɔ̃.t(ə.)ʁe\,indicatif,futur simple,deuxième_pluriel
+monter - indicatif - futur_simple - troisième_pluriel,monter,monteront,\[il/ɛl] mɔ̃.t(ə.)ʁɔ̃\,indicatif,futur simple,troisième_pluriel
+monter - subjonctif - présent - première_singulier,monter,monte,\kə ʒə mɔ̃t\,subjonctif,présent,première_singulier
+monter - subjonctif - présent - deuxième_singulier,monter,montes,\kə ty mɔ̃t\,subjonctif,présent,deuxième_singulier
+monter - subjonctif - présent - troisième_singulier,monter,monte,\k‿[il/ɛl/ɔ̃] mɔ̃t\,subjonctif,présent,troisième_singulier
+monter - subjonctif - présent - première_pluriel,monter,montions,\kə nu mɔ̃.tjɔ̃\,subjonctif,présent,première_pluriel
+monter - subjonctif - présent - deuxième_pluriel,monter,montiez,\kə vu mɔ̃.tje\,subjonctif,présent,deuxième_pluriel
+monter - subjonctif - présent - troisième_pluriel,monter,montent,\k‿[il/ɛl] mɔ̃t\,subjonctif,présent,troisième_pluriel
+monter - subjonctif - imparfait - première_singulier,monter,montasse,\kə ʒə mɔ̃.tas\,subjonctif,imparfait,première_singulier
+monter - subjonctif - imparfait - deuxième_singulier,monter,montasses,\kə ty mɔ̃.tas\,subjonctif,imparfait,deuxième_singulier
+monter - subjonctif - imparfait - troisième_singulier,monter,montât,\k‿[il/ɛl/ɔ̃] mɔ̃.ta\,subjonctif,imparfait,troisième_singulier
+monter - subjonctif - imparfait - première_pluriel,monter,montassions,\kə nu mɔ̃.ta.sjɔ̃\,subjonctif,imparfait,première_pluriel
+monter - subjonctif - imparfait - deuxième_pluriel,monter,montassiez,\kə vu mɔ̃.ta.sje\,subjonctif,imparfait,deuxième_pluriel
+monter - subjonctif - imparfait - troisième_pluriel,monter,montassent,\k‿[il/ɛl] mɔ̃.tas\,subjonctif,imparfait,troisième_pluriel
+monter - conditionnel - présent - première_singulier,monter,monterais,\ʒə mɔ̃.t(ə.)ʁɛ\,conditionnel,présent,première_singulier
+monter - conditionnel - présent - deuxième_singulier,monter,monterais,\ty mɔ̃.t(ə.)ʁɛ\,conditionnel,présent,deuxième_singulier
+monter - conditionnel - présent - troisième_singulier,monter,monterait,\[il/ɛl/ɔ̃] mɔ̃.t(ə.)ʁɛ\,conditionnel,présent,troisième_singulier
+monter - conditionnel - présent - première_pluriel,monter,monterions,\nu mɔ̃.tə.ʁjɔ̃\,conditionnel,présent,première_pluriel
+monter - conditionnel - présent - deuxième_pluriel,monter,monteriez,\vu mɔ̃.tə.ʁje\,conditionnel,présent,deuxième_pluriel
+monter - conditionnel - présent - troisième_pluriel,monter,monteraient,\[il/ɛl] mɔ̃.t(ə.)ʁɛ\,conditionnel,présent,troisième_pluriel
+descendre - indicatif - présent - première_singulier,descendre,descends,\ʒə de.sɑ̃\,indicatif,présent,première_singulier
+descendre - indicatif - présent - deuxième_singulier,descendre,descends,\ty de.sɑ̃\,indicatif,présent,deuxième_singulier
+descendre - indicatif - présent - troisième_singulier,descendre,descend,\[il/ɛl/ɔ̃] de.sɑ̃\,indicatif,présent,troisième_singulier
+descendre - indicatif - présent - première_pluriel,descendre,descendons,\nu de.sɑ̃.dɔ̃\,indicatif,présent,première_pluriel
+descendre - indicatif - présent - deuxième_pluriel,descendre,descendez,\vu de.sɑ̃.de\,indicatif,présent,deuxième_pluriel
+descendre - indicatif - présent - troisième_pluriel,descendre,descendent,\[il/ɛl] de.sɑ̃d\,indicatif,présent,troisième_pluriel
+descendre - indicatif - passé_composé - première_singulier,descendre,suis descendu,\ʒə sɥi de.sɑ̃.dy\,indicatif,passé composé,première_singulier
+descendre - indicatif - passé_composé - deuxième_singulier,descendre,es descendu,\ty ɛ de.sɑ̃.dy\,indicatif,passé composé,deuxième_singulier
+descendre - indicatif - passé_composé - troisième_singulier,descendre,est descendu,\[i.l/ɛ.l/ɔ̃.n]‿ɛ de.sɑ̃.dy\,indicatif,passé composé,troisième_singulier
+descendre - indicatif - passé_composé - première_pluriel,descendre,sommes descendus,\nu sɔm de.sɑ̃.dy\,indicatif,passé composé,première_pluriel
+descendre - indicatif - passé_composé - deuxième_pluriel,descendre,êtes descendus,\vu.z‿ɛt de.sɑ̃.dy\,indicatif,passé composé,deuxième_pluriel
+descendre - indicatif - passé_composé - troisième_pluriel,descendre,sont descendus,\[i/ɛ]l sɔ̃ de.sɑ̃.dy\,indicatif,passé composé,troisième_pluriel
+descendre - indicatif - imparfait - première_singulier,descendre,descendais,\ʒə de.sɑ̃.dɛ\,indicatif,imparfait,première_singulier
+descendre - indicatif - imparfait - deuxième_singulier,descendre,descendais,\ty de.sɑ̃.dɛ\,indicatif,imparfait,deuxième_singulier
+descendre - indicatif - imparfait - troisième_singulier,descendre,descendait,\[il/ɛl/ɔ̃] de.sɑ̃.dɛ\,indicatif,imparfait,troisième_singulier
+descendre - indicatif - imparfait - première_pluriel,descendre,descendions,\nu de.sɑ̃.djɔ̃\,indicatif,imparfait,première_pluriel
+descendre - indicatif - imparfait - deuxième_pluriel,descendre,descendiez,\vu de.sɑ̃.dje\,indicatif,imparfait,deuxième_pluriel
+descendre - indicatif - imparfait - troisième_pluriel,descendre,descendaient,\[il/ɛl] de.sɑ̃.dɛ\,indicatif,imparfait,troisième_pluriel
+descendre - indicatif - passé_simple - première_singulier,descendre,descendis,\ʒə de.sɑ̃.di\,indicatif,passé simple,première_singulier
+descendre - indicatif - passé_simple - deuxième_singulier,descendre,descendis,\ty de.sɑ̃.di\,indicatif,passé simple,deuxième_singulier
+descendre - indicatif - passé_simple - troisième_singulier,descendre,descendit,\[il/ɛl/ɔ̃] de.sɑ̃.di\,indicatif,passé simple,troisième_singulier
+descendre - indicatif - passé_simple - première_pluriel,descendre,descendîmes,\nu de.sɑ̃.dim\,indicatif,passé simple,première_pluriel
+descendre - indicatif - passé_simple - deuxième_pluriel,descendre,descendîtes,\vu de.sɑ̃.dit\,indicatif,passé simple,deuxième_pluriel
+descendre - indicatif - passé_simple - troisième_pluriel,descendre,descendirent,\[il/ɛl] de.sɑ̃.diʁ\,indicatif,passé simple,troisième_pluriel
+descendre - indicatif - futur_simple - première_singulier,descendre,descendrai,\ʒə de.sɑ̃.dʁe\,indicatif,futur simple,première_singulier
+descendre - indicatif - futur_simple - deuxième_singulier,descendre,descendras,\ty de.sɑ̃.dʁa\,indicatif,futur simple,deuxième_singulier
+descendre - indicatif - futur_simple - troisième_singulier,descendre,descendra,\[il/ɛl/ɔ̃] de.sɑ̃.dʁa\,indicatif,futur simple,troisième_singulier
+descendre - indicatif - futur_simple - première_pluriel,descendre,descendrons,\nu de.sɑ̃.dʁɔ̃\,indicatif,futur simple,première_pluriel
+descendre - indicatif - futur_simple - deuxième_pluriel,descendre,descendrez,\vu de.sɑ̃.dʁe\,indicatif,futur simple,deuxième_pluriel
+descendre - indicatif - futur_simple - troisième_pluriel,descendre,descendront,\[il/ɛl] de.sɑ̃.dʁɔ̃\,indicatif,futur simple,troisième_pluriel
+descendre - subjonctif - présent - première_singulier,descendre,descende,\kə ʒə de.sɑ̃d\,subjonctif,présent,première_singulier
+descendre - subjonctif - présent - deuxième_singulier,descendre,descendes,\kə ty de.sɑ̃d\,subjonctif,présent,deuxième_singulier
+descendre - subjonctif - présent - troisième_singulier,descendre,descende,\k‿[il/ɛl/ɔ̃] de.sɑ̃d\,subjonctif,présent,troisième_singulier
+descendre - subjonctif - présent - première_pluriel,descendre,descendions,\kə nu de.sɑ̃.djɔ̃\,subjonctif,présent,première_pluriel
+descendre - subjonctif - présent - deuxième_pluriel,descendre,descendiez,\kə vu de.sɑ̃.dje\,subjonctif,présent,deuxième_pluriel
+descendre - subjonctif - présent - troisième_pluriel,descendre,descendent,\k‿[il/ɛl] de.sɑ̃d\,subjonctif,présent,troisième_pluriel
+descendre - subjonctif - imparfait - première_singulier,descendre,descendisse,\kə ʒə de.sɑ̃.dis\,subjonctif,imparfait,première_singulier
+descendre - subjonctif - imparfait - deuxième_singulier,descendre,descendisses,\kə ty de.sɑ̃.dis\,subjonctif,imparfait,deuxième_singulier
+descendre - subjonctif - imparfait - troisième_singulier,descendre,descendît,\k‿[il/ɛl/ɔ̃] de.sɑ̃.di\,subjonctif,imparfait,troisième_singulier
+descendre - subjonctif - imparfait - première_pluriel,descendre,descendissions,\kə nu de.sɑ̃.di.sjɔ̃\,subjonctif,imparfait,première_pluriel
+descendre - subjonctif - imparfait - deuxième_pluriel,descendre,descendissiez,\kə vu de.sɑ̃.di.sje\,subjonctif,imparfait,deuxième_pluriel
+descendre - subjonctif - imparfait - troisième_pluriel,descendre,descendissent,\k‿[il/ɛl] de.sɑ̃.dis\,subjonctif,imparfait,troisième_pluriel
+descendre - conditionnel - présent - première_singulier,descendre,descendrais,\ʒə de.sɑ̃.dʁɛ\,conditionnel,présent,première_singulier
+descendre - conditionnel - présent - deuxième_singulier,descendre,descendrais,\ty de.sɑ̃.dʁɛ\,conditionnel,présent,deuxième_singulier
+descendre - conditionnel - présent - troisième_singulier,descendre,descendrait,\[il/ɛl/ɔ̃] de.sɑ̃.dʁɛ\,conditionnel,présent,troisième_singulier
+descendre - conditionnel - présent - première_pluriel,descendre,descendrions,\nu de.sɑ̃.dʁi.jɔ̃\,conditionnel,présent,première_pluriel
+descendre - conditionnel - présent - deuxième_pluriel,descendre,descendriez,\vu de.sɑ̃.dʁi.je\,conditionnel,présent,deuxième_pluriel
+descendre - conditionnel - présent - troisième_pluriel,descendre,descendraient,\[il/ɛl] de.sɑ̃.dʁɛ\,conditionnel,présent,troisième_pluriel
+tomber - indicatif - présent - première_singulier,tomber,tombe,\ʒə tɔ̃b\,indicatif,présent,première_singulier
+tomber - indicatif - présent - deuxième_singulier,tomber,tombes,\ty tɔ̃b\,indicatif,présent,deuxième_singulier
+tomber - indicatif - présent - troisième_singulier,tomber,tombe,\[il/ɛl/ɔ̃] tɔ̃b\,indicatif,présent,troisième_singulier
+tomber - indicatif - présent - première_pluriel,tomber,tombons,\nu tɔ̃.bɔ̃\,indicatif,présent,première_pluriel
+tomber - indicatif - présent - deuxième_pluriel,tomber,tombez,\vu tɔ̃.be\,indicatif,présent,deuxième_pluriel
+tomber - indicatif - présent - troisième_pluriel,tomber,tombent,\[il/ɛl] tɔ̃b\,indicatif,présent,troisième_pluriel
+tomber - indicatif - passé_composé - première_singulier,tomber,suis tombé,\ʒə sɥi tɔ̃.be\,indicatif,passé composé,première_singulier
+tomber - indicatif - passé_composé - deuxième_singulier,tomber,es tombé,\ty ɛ tɔ̃.be\,indicatif,passé composé,deuxième_singulier
+tomber - indicatif - passé_composé - troisième_singulier,tomber,est tombé,\[i.l/ɛ.l/ɔ̃.n]‿ɛ tɔ̃.be\,indicatif,passé composé,troisième_singulier
+tomber - indicatif - passé_composé - première_pluriel,tomber,sommes tombés,\nu sɔm tɔ̃.be\,indicatif,passé composé,première_pluriel
+tomber - indicatif - passé_composé - deuxième_pluriel,tomber,êtes tombés,\vu.z‿ɛt tɔ̃.be\,indicatif,passé composé,deuxième_pluriel
+tomber - indicatif - passé_composé - troisième_pluriel,tomber,sont tombés,\[i/ɛ]l sɔ̃ tɔ̃.be\,indicatif,passé composé,troisième_pluriel
+tomber - indicatif - imparfait - première_singulier,tomber,tombais,\ʒə tɔ̃.bɛ\,indicatif,imparfait,première_singulier
+tomber - indicatif - imparfait - deuxième_singulier,tomber,tombais,\ty tɔ̃.bɛ\,indicatif,imparfait,deuxième_singulier
+tomber - indicatif - imparfait - troisième_singulier,tomber,tombait,\[il/ɛl/ɔ̃] tɔ̃.bɛ\,indicatif,imparfait,troisième_singulier
+tomber - indicatif - imparfait - première_pluriel,tomber,tombions,\nu tɔ̃.bjɔ̃\,indicatif,imparfait,première_pluriel
+tomber - indicatif - imparfait - deuxième_pluriel,tomber,tombiez,\vu tɔ̃.bje\,indicatif,imparfait,deuxième_pluriel
+tomber - indicatif - imparfait - troisième_pluriel,tomber,tombaient,\[il/ɛl] tɔ̃.bɛ\,indicatif,imparfait,troisième_pluriel
+tomber - indicatif - passé_simple - première_singulier,tomber,tombai,\ʒə tɔ̃.be\,indicatif,passé simple,première_singulier
+tomber - indicatif - passé_simple - deuxième_singulier,tomber,tombas,\ty tɔ̃.ba\,indicatif,passé simple,deuxième_singulier
+tomber - indicatif - passé_simple - troisième_singulier,tomber,tomba,\[il/ɛl/ɔ̃] tɔ̃.ba\,indicatif,passé simple,troisième_singulier
+tomber - indicatif - passé_simple - première_pluriel,tomber,tombâmes,\nu tɔ̃.bam\,indicatif,passé simple,première_pluriel
+tomber - indicatif - passé_simple - deuxième_pluriel,tomber,tombâtes,\vu tɔ̃.bat\,indicatif,passé simple,deuxième_pluriel
+tomber - indicatif - passé_simple - troisième_pluriel,tomber,tombèrent,\[il/ɛl] tɔ̃.bɛʁ\,indicatif,passé simple,troisième_pluriel
+tomber - indicatif - futur_simple - première_singulier,tomber,tomberai,\ʒə tɔ̃.b(ə.)ʁe\,indicatif,futur simple,première_singulier
+tomber - indicatif - futur_simple - deuxième_singulier,tomber,tomberas,\ty tɔ̃.b(ə.)ʁa\,indicatif,futur simple,deuxième_singulier
+tomber - indicatif - futur_simple - troisième_singulier,tomber,tombera,\[il/ɛl/ɔ̃] tɔ̃.b(ə.)ʁa\,indicatif,futur simple,troisième_singulier
+tomber - indicatif - futur_simple - première_pluriel,tomber,tomberons,\nu tɔ̃.b(ə.)ʁɔ̃\,indicatif,futur simple,première_pluriel
+tomber - indicatif - futur_simple - deuxième_pluriel,tomber,tomberez,\vu tɔ̃.b(ə.)ʁe\,indicatif,futur simple,deuxième_pluriel
+tomber - indicatif - futur_simple - troisième_pluriel,tomber,tomberont,\[il/ɛl] tɔ̃.b(ə.)ʁɔ̃\,indicatif,futur simple,troisième_pluriel
+tomber - subjonctif - présent - première_singulier,tomber,tombe,\kə ʒə tɔ̃b\,subjonctif,présent,première_singulier
+tomber - subjonctif - présent - deuxième_singulier,tomber,tombes,\kə ty tɔ̃b\,subjonctif,présent,deuxième_singulier
+tomber - subjonctif - présent - troisième_singulier,tomber,tombe,\k‿[il/ɛl/ɔ̃] tɔ̃b\,subjonctif,présent,troisième_singulier
+tomber - subjonctif - présent - première_pluriel,tomber,tombions,\kə nu tɔ̃.bjɔ̃\,subjonctif,présent,première_pluriel
+tomber - subjonctif - présent - deuxième_pluriel,tomber,tombiez,\kə vu tɔ̃.bje\,subjonctif,présent,deuxième_pluriel
+tomber - subjonctif - présent - troisième_pluriel,tomber,tombent,\k‿[il/ɛl] tɔ̃b\,subjonctif,présent,troisième_pluriel
+tomber - subjonctif - imparfait - première_singulier,tomber,tombasse,\kə ʒə tɔ̃.bas\,subjonctif,imparfait,première_singulier
+tomber - subjonctif - imparfait - deuxième_singulier,tomber,tombasses,\kə ty tɔ̃.bas\,subjonctif,imparfait,deuxième_singulier
+tomber - subjonctif - imparfait - troisième_singulier,tomber,tombât,\k‿[il/ɛl/ɔ̃] tɔ̃.ba\,subjonctif,imparfait,troisième_singulier
+tomber - subjonctif - imparfait - première_pluriel,tomber,tombassions,\kə nu tɔ̃.ba.sjɔ̃\,subjonctif,imparfait,première_pluriel
+tomber - subjonctif - imparfait - deuxième_pluriel,tomber,tombassiez,\kə vu tɔ̃.ba.sje\,subjonctif,imparfait,deuxième_pluriel
+tomber - subjonctif - imparfait - troisième_pluriel,tomber,tombassent,\k‿[il/ɛl] tɔ̃.bas\,subjonctif,imparfait,troisième_pluriel
+tomber - conditionnel - présent - première_singulier,tomber,tomberais,\ʒə tɔ̃.b(ə.)ʁɛ\,conditionnel,présent,première_singulier
+tomber - conditionnel - présent - deuxième_singulier,tomber,tomberais,\ty tɔ̃.b(ə.)ʁɛ\,conditionnel,présent,deuxième_singulier
+tomber - conditionnel - présent - troisième_singulier,tomber,tomberait,\[il/ɛl/ɔ̃] tɔ̃.b(ə.)ʁɛ\,conditionnel,présent,troisième_singulier
+tomber - conditionnel - présent - première_pluriel,tomber,tomberions,\nu tɔ̃.bə.ʁjɔ̃\,conditionnel,présent,première_pluriel
+tomber - conditionnel - présent - deuxième_pluriel,tomber,tomberiez,\vu tɔ̃.bə.ʁje\,conditionnel,présent,deuxième_pluriel
+tomber - conditionnel - présent - troisième_pluriel,tomber,tomberaient,\[il/ɛl] tɔ̃.b(ə.)ʁɛ\,conditionnel,présent,troisième_pluriel
+naître - indicatif - présent - première_singulier,naître,nais,\ʒə nɛ\,indicatif,présent,première_singulier
+naître - indicatif - présent - deuxième_singulier,naître,nais,\ty nɛ\,indicatif,présent,deuxième_singulier
+naître - indicatif - présent - troisième_singulier,naître,naît,\[il/ɛl/ɔ̃] nɛ\,indicatif,présent,troisième_singulier
+naître - indicatif - présent - première_pluriel,naître,naissons,\nu nɛ.sɔ̃\,indicatif,présent,première_pluriel
+naître - indicatif - présent - deuxième_pluriel,naître,naissez,\vu nɛ.se\,indicatif,présent,deuxième_pluriel
+naître - indicatif - présent - troisième_pluriel,naître,naissent,\[il/ɛl] nɛs\,indicatif,présent,troisième_pluriel
+naître - indicatif - passé_composé - première_singulier,naître,suis né,\ʒə sɥi ne\,indicatif,passé composé,première_singulier
+naître - indicatif - passé_composé - deuxième_singulier,naître,es né,\ty ɛ ne\,indicatif,passé composé,deuxième_singulier
+naître - indicatif - passé_composé - troisième_singulier,naître,est né,\[i.l/ɛ.l/ɔ̃.n]‿ɛ ne\,indicatif,passé composé,troisième_singulier
+naître - indicatif - passé_composé - première_pluriel,naître,sommes nés,\nu sɔm ne\,indicatif,passé composé,première_pluriel
+naître - indicatif - passé_composé - deuxième_pluriel,naître,êtes nés,\vu.z‿ɛt ne\,indicatif,passé composé,deuxième_pluriel
+naître - indicatif - passé_composé - troisième_pluriel,naître,sont nés,\[i/ɛ]l sɔ̃ ne\,indicatif,passé composé,troisième_pluriel
+naître - indicatif - imparfait - première_singulier,naître,naissais,\ʒə nɛ.sɛ\,indicatif,imparfait,première_singulier
+naître - indicatif - imparfait - deuxième_singulier,naître,naissais,\ty nɛ.sɛ\,indicatif,imparfait,deuxième_singulier
+naître - indicatif - imparfait - troisième_singulier,naître,naissait,\[il/ɛl/ɔ̃] nɛ.sɛ\,indicatif,imparfait,troisième_singulier
+naître - indicatif - imparfait - première_pluriel,naître,naissions,\nu nɛ.sjɔ̃\,indicatif,imparfait,première_pluriel
+naître - indicatif - imparfait - deuxième_pluriel,naître,naissiez,\vu nɛ.sje\,indicatif,imparfait,deuxième_pluriel
+naître - indicatif - imparfait - troisième_pluriel,naître,naissaient,\[il/ɛl] nɛ.sɛ\,indicatif,imparfait,troisième_pluriel
+naître - indicatif - passé_simple - première_singulier,naître,naquis,\ʒə na.ki\,indicatif,passé simple,première_singulier
+naître - indicatif - passé_simple - deuxième_singulier,naître,naquis,\ty na.ki\,indicatif,passé simple,deuxième_singulier
+naître - indicatif - passé_simple - troisième_singulier,naître,naquit,\[il/ɛl/ɔ̃] na.ki\,indicatif,passé simple,troisième_singulier
+naître - indicatif - passé_simple - première_pluriel,naître,naquîmes,\nu na.kim\,indicatif,passé simple,première_pluriel
+naître - indicatif - passé_simple - deuxième_pluriel,naître,naquîtes,\vu na.kit\,indicatif,passé simple,deuxième_pluriel
+naître - indicatif - passé_simple - troisième_pluriel,naître,naquirent,\[il/ɛl] na.kiʁ\,indicatif,passé simple,troisième_pluriel
+naître - indicatif - futur_simple - première_singulier,naître,naîtrai,\ʒə nɛ.tʁe\,indicatif,futur simple,première_singulier
+naître - indicatif - futur_simple - deuxième_singulier,naître,naîtras,\ty nɛ.tʁa\,indicatif,futur simple,deuxième_singulier
+naître - indicatif - futur_simple - troisième_singulier,naître,naîtra,\[il/ɛl/ɔ̃] nɛ.tʁa\,indicatif,futur simple,troisième_singulier
+naître - indicatif - futur_simple - première_pluriel,naître,naîtrons,\nu nɛ.tʁɔ̃\,indicatif,futur simple,première_pluriel
+naître - indicatif - futur_simple - deuxième_pluriel,naître,naîtrez,\vu nɛ.tʁe\,indicatif,futur simple,deuxième_pluriel
+naître - indicatif - futur_simple - troisième_pluriel,naître,naîtront,\[il/ɛl] nɛ.tʁɔ̃\,indicatif,futur simple,troisième_pluriel
+naître - subjonctif - présent - première_singulier,naître,naisse,\kə ʒə nɛs\,subjonctif,présent,première_singulier
+naître - subjonctif - présent - deuxième_singulier,naître,naisses,\kə ty nɛs\,subjonctif,présent,deuxième_singulier
+naître - subjonctif - présent - troisième_singulier,naître,naisse,\k‿[il/ɛl/ɔ̃] nɛs\,subjonctif,présent,troisième_singulier
+naître - subjonctif - présent - première_pluriel,naître,naissions,\kə nu nɛ.sjɔ̃\,subjonctif,présent,première_pluriel
+naître - subjonctif - présent - deuxième_pluriel,naître,naissiez,\kə vu nɛ.sje\,subjonctif,présent,deuxième_pluriel
+naître - subjonctif - présent - troisième_pluriel,naître,naissent,\k‿[il/ɛl] nɛs\,subjonctif,présent,troisième_pluriel
+naître - subjonctif - imparfait - première_singulier,naître,naquisse,\kə ʒə na.kis\,subjonctif,imparfait,première_singulier
+naître - subjonctif - imparfait - deuxième_singulier,naître,naquisses,\kə ty na.kis\,subjonctif,imparfait,deuxième_singulier
+naître - subjonctif - imparfait - troisième_singulier,naître,naquît,\k‿[il/ɛl/ɔ̃] na.ki\,subjonctif,imparfait,troisième_singulier
+naître - subjonctif - imparfait - première_pluriel,naître,naquissions,\kə nu na.ki.sjɔ̃\,subjonctif,imparfait,première_pluriel
+naître - subjonctif - imparfait - deuxième_pluriel,naître,naquissiez,\kə vu na.ki.sje\,subjonctif,imparfait,deuxième_pluriel
+naître - subjonctif - imparfait - troisième_pluriel,naître,naquissent,\k‿[il/ɛl] na.kis\,subjonctif,imparfait,troisième_pluriel
+naître - conditionnel - présent - première_singulier,naître,naîtrais,\ʒə nɛ.tʁɛ\,conditionnel,présent,première_singulier
+naître - conditionnel - présent - deuxième_singulier,naître,naîtrais,\ty nɛ.tʁɛ\,conditionnel,présent,deuxième_singulier
+naître - conditionnel - présent - troisième_singulier,naître,naîtrait,\[il/ɛl/ɔ̃] nɛ.tʁɛ\,conditionnel,présent,troisième_singulier
+naître - conditionnel - présent - première_pluriel,naître,naîtrions,\nu nɛ.tʁi.jɔ̃\,conditionnel,présent,première_pluriel
+naître - conditionnel - présent - deuxième_pluriel,naître,naîtriez,\vu nɛ.tʁi.je\,conditionnel,présent,deuxième_pluriel
+naître - conditionnel - présent - troisième_pluriel,naître,naîtraient,\[il/ɛl] nɛ.tʁɛ\,conditionnel,présent,troisième_pluriel
+passer - indicatif - présent - première_singulier,passer,passe,\ʒə pas\,indicatif,présent,première_singulier
+passer - indicatif - présent - deuxième_singulier,passer,passes,\ty pas\,indicatif,présent,deuxième_singulier
+passer - indicatif - présent - troisième_singulier,passer,passe,\[il/ɛl/ɔ̃] pas\,indicatif,présent,troisième_singulier
+passer - indicatif - présent - première_pluriel,passer,passons,\nu pa.sɔ̃\,indicatif,présent,première_pluriel
+passer - indicatif - présent - deuxième_pluriel,passer,passez,\vu pa.se\,indicatif,présent,deuxième_pluriel
+passer - indicatif - présent - troisième_pluriel,passer,passent,\[il/ɛl] pas\,indicatif,présent,troisième_pluriel
+passer - indicatif - passé_composé - première_singulier,passer,ai passé,\ʒ‿e pa.se\,indicatif,passé composé,première_singulier
+passer - indicatif - passé_composé - deuxième_singulier,passer,as passé,\ty a pa.se\,indicatif,passé composé,deuxième_singulier
+passer - indicatif - passé_composé - troisième_singulier,passer,a passé,\[i.l/ɛ.l/ɔ̃.n]‿a pa.se\,indicatif,passé composé,troisième_singulier
+passer - indicatif - passé_composé - première_pluriel,passer,avons passé,\nu.z‿a.vɔ̃ pa.se\,indicatif,passé composé,première_pluriel
+passer - indicatif - passé_composé - deuxième_pluriel,passer,avez passé,\vu.z‿a.ve pa.se\,indicatif,passé composé,deuxième_pluriel
+passer - indicatif - passé_composé - troisième_pluriel,passer,ont passé,\[i/ɛ]l.z‿ɔ̃ pa.se\,indicatif,passé composé,troisième_pluriel
+passer - indicatif - imparfait - première_singulier,passer,passais,\ʒə pa.sɛ\,indicatif,imparfait,première_singulier
+passer - indicatif - imparfait - deuxième_singulier,passer,passais,\ty pa.sɛ\,indicatif,imparfait,deuxième_singulier
+passer - indicatif - imparfait - troisième_singulier,passer,passait,\[il/ɛl/ɔ̃] pa.sɛ\,indicatif,imparfait,troisième_singulier
+passer - indicatif - imparfait - première_pluriel,passer,passions,\nu pa.sjɔ̃\,indicatif,imparfait,première_pluriel
+passer - indicatif - imparfait - deuxième_pluriel,passer,passiez,\vu pa.sje\,indicatif,imparfait,deuxième_pluriel
+passer - indicatif - imparfait - troisième_pluriel,passer,passaient,\[il/ɛl] pa.sɛ\,indicatif,imparfait,troisième_pluriel
+passer - indicatif - passé_simple - première_singulier,passer,passai,\ʒə pa.se\,indicatif,passé simple,première_singulier
+passer - indicatif - passé_simple - deuxième_singulier,passer,passas,\ty pa.sa\,indicatif,passé simple,deuxième_singulier
+passer - indicatif - passé_simple - troisième_singulier,passer,passa,\[il/ɛl/ɔ̃] pa.sa\,indicatif,passé simple,troisième_singulier
+passer - indicatif - passé_simple - première_pluriel,passer,passâmes,\nu pa.sam\,indicatif,passé simple,première_pluriel
+passer - indicatif - passé_simple - deuxième_pluriel,passer,passâtes,\vu pa.sat\,indicatif,passé simple,deuxième_pluriel
+passer - indicatif - passé_simple - troisième_pluriel,passer,passèrent,\[il/ɛl] pa.sɛʁ\,indicatif,passé simple,troisième_pluriel
+passer - indicatif - futur_simple - première_singulier,passer,passerai,\ʒə pa.s(ə.)ʁe\,indicatif,futur simple,première_singulier
+passer - indicatif - futur_simple - deuxième_singulier,passer,passeras,\ty pa.s(ə.)ʁa\,indicatif,futur simple,deuxième_singulier
+passer - indicatif - futur_simple - troisième_singulier,passer,passera,\[il/ɛl/ɔ̃] pa.s(ə.)ʁa\,indicatif,futur simple,troisième_singulier
+passer - indicatif - futur_simple - première_pluriel,passer,passerons,\nu pa.s(ə.)ʁɔ̃\,indicatif,futur simple,première_pluriel
+passer - indicatif - futur_simple - deuxième_pluriel,passer,passerez,\vu pa.s(ə.)ʁe\,indicatif,futur simple,deuxième_pluriel
+passer - indicatif - futur_simple - troisième_pluriel,passer,passeront,\[il/ɛl] pa.s(ə.)ʁɔ̃\,indicatif,futur simple,troisième_pluriel
+passer - subjonctif - présent - première_singulier,passer,passe,\kə ʒə pas\,subjonctif,présent,première_singulier
+passer - subjonctif - présent - deuxième_singulier,passer,passes,\kə ty pas\,subjonctif,présent,deuxième_singulier
+passer - subjonctif - présent - troisième_singulier,passer,passe,\k‿[il/ɛl/ɔ̃] pas\,subjonctif,présent,troisième_singulier
+passer - subjonctif - présent - première_pluriel,passer,passions,\kə nu pa.sjɔ̃\,subjonctif,présent,première_pluriel
+passer - subjonctif - présent - deuxième_pluriel,passer,passiez,\kə vu pa.sje\,subjonctif,présent,deuxième_pluriel
+passer - subjonctif - présent - troisième_pluriel,passer,passent,\k‿[il/ɛl] pas\,subjonctif,présent,troisième_pluriel
+passer - subjonctif - imparfait - première_singulier,passer,passasse,\kə ʒə pa.sas\,subjonctif,imparfait,première_singulier
+passer - subjonctif - imparfait - deuxième_singulier,passer,passasses,\kə ty pa.sas\,subjonctif,imparfait,deuxième_singulier
+passer - subjonctif - imparfait - troisième_singulier,passer,passât,\k‿[il/ɛl/ɔ̃] pa.sa\,subjonctif,imparfait,troisième_singulier
+passer - subjonctif - imparfait - première_pluriel,passer,passassions,\kə nu pa.sa.sjɔ̃\,subjonctif,imparfait,première_pluriel
+passer - subjonctif - imparfait - deuxième_pluriel,passer,passassiez,\kə vu pa.sa.sje\,subjonctif,imparfait,deuxième_pluriel
+passer - subjonctif - imparfait - troisième_pluriel,passer,passassent,\k‿[il/ɛl] pa.sas\,subjonctif,imparfait,troisième_pluriel
+passer - conditionnel - présent - première_singulier,passer,passerais,\ʒə pa.s(ə.)ʁɛ\,conditionnel,présent,première_singulier
+passer - conditionnel - présent - deuxième_singulier,passer,passerais,\ty pa.s(ə.)ʁɛ\,conditionnel,présent,deuxième_singulier
+passer - conditionnel - présent - troisième_singulier,passer,passerait,\[il/ɛl/ɔ̃] pa.s(ə.)ʁɛ\,conditionnel,présent,troisième_singulier
+passer - conditionnel - présent - première_pluriel,passer,passerions,\nu pa.sə.ʁjɔ̃\,conditionnel,présent,première_pluriel
+passer - conditionnel - présent - deuxième_pluriel,passer,passeriez,\vu pa.sə.ʁje\,conditionnel,présent,deuxième_pluriel
+passer - conditionnel - présent - troisième_pluriel,passer,passeraient,\[il/ɛl] pa.s(ə.)ʁɛ\,conditionnel,présent,troisième_pluriel
