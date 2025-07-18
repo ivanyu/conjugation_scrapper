@@ -2140,3 +2140,51 @@ passer - conditionnel - présent - troisième_singulier,passer,passerait,\[il/ɛ
 passer - conditionnel - présent - première_pluriel,passer,passerions,\nu pa.sə.ʁjɔ̃\,conditionnel,présent,première_pluriel
 passer - conditionnel - présent - deuxième_pluriel,passer,passeriez,\vu pa.sə.ʁje\,conditionnel,présent,deuxième_pluriel
 passer - conditionnel - présent - troisième_pluriel,passer,passeraient,\[il/ɛl] pa.s(ə.)ʁɛ\,conditionnel,présent,troisième_pluriel
+choisir - indicatif - présent - première_singulier,choisir,choisis,\ʒə ʃwa.zi\,indicatif,présent,première_singulier
+choisir - indicatif - présent - deuxième_singulier,choisir,choisis,\ty ʃwa.zi\,indicatif,présent,deuxième_singulier
+choisir - indicatif - présent - troisième_singulier,choisir,choisit,\[il/ɛl/ɔ̃] ʃwa.zi\,indicatif,présent,troisième_singulier
+choisir - indicatif - présent - première_pluriel,choisir,choisissons,\nu ʃwa.zi.sɔ̃\,indicatif,présent,première_pluriel
+choisir - indicatif - présent - deuxième_pluriel,choisir,choisissez,\vu ʃwa.zi.se\,indicatif,présent,deuxième_pluriel
+choisir - indicatif - présent - troisième_pluriel,choisir,choisissent,\[il/ɛl] ʃwa.zis\,indicatif,présent,troisième_pluriel
+choisir - indicatif - passé_composé - première_singulier,choisir,ai choisi,\ʒ‿e ʃwa.zi\,indicatif,passé composé,première_singulier
+choisir - indicatif - passé_composé - deuxième_singulier,choisir,as choisi,\ty a ʃwa.zi\,indicatif,passé composé,deuxième_singulier
+choisir - indicatif - passé_composé - troisième_singulier,choisir,a choisi,\[i.l/ɛ.l/ɔ̃.n]‿a ʃwa.zi\,indicatif,passé composé,troisième_singulier
+choisir - indicatif - passé_composé - première_pluriel,choisir,avons choisi,\nu.z‿a.vɔ̃ ʃwa.zi\,indicatif,passé composé,première_pluriel
+choisir - indicatif - passé_composé - deuxième_pluriel,choisir,avez choisi,\vu.z‿a.ve ʃwa.zi\,indicatif,passé composé,deuxième_pluriel
+choisir - indicatif - passé_composé - troisième_pluriel,choisir,ont choisi,\[i/ɛ]l.z‿ɔ̃ ʃwa.zi\,indicatif,passé composé,troisième_pluriel
+choisir - indicatif - imparfait - première_singulier,choisir,choisissais,\ʒə ʃwa.zi.sɛ\,indicatif,imparfait,première_singulier
+choisir - indicatif - imparfait - deuxième_singulier,choisir,choisissais,\ty ʃwa.zi.sɛ\,indicatif,imparfait,deuxième_singulier
+choisir - indicatif - imparfait - troisième_singulier,choisir,choisissait,\[il/ɛl/ɔ̃] ʃwa.zi.sɛ\,indicatif,imparfait,troisième_singulier
+choisir - indicatif - imparfait - première_pluriel,choisir,choisissions,\nu ʃwa.zi.sjɔ̃\,indicatif,imparfait,première_pluriel
+choisir - indicatif - imparfait - deuxième_pluriel,choisir,choisissiez,\vu ʃwa.zi.sje\,indicatif,imparfait,deuxième_pluriel
+choisir - indicatif - imparfait - troisième_pluriel,choisir,choisissaient,\[il/ɛl] ʃwa.zi.sɛ\,indicatif,imparfait,troisième_pluriel
+choisir - indicatif - passé_simple - première_singulier,choisir,choisis,\ʒə ʃwa.zi\,indicatif,passé simple,première_singulier
+choisir - indicatif - passé_simple - deuxième_singulier,choisir,choisis,\ty ʃwa.zi\,indicatif,passé simple,deuxième_singulier
+choisir - indicatif - passé_simple - troisième_singulier,choisir,choisit,\[il/ɛl/ɔ̃] ʃwa.zi\,indicatif,passé simple,troisième_singulier
+choisir - indicatif - passé_simple - première_pluriel,choisir,choisîmes,\nu ʃwa.zim\,indicatif,passé simple,première_pluriel
+choisir - indicatif - passé_simple - deuxième_pluriel,choisir,choisîtes,\vu ʃwa.zit\,indicatif,passé simple,deuxième_pluriel
+choisir - indicatif - passé_simple - troisième_pluriel,choisir,choisirent,\[il/ɛl] ʃwa.ziʁ\,indicatif,passé simple,troisième_pluriel
+choisir - indicatif - futur_simple - première_singulier,choisir,choisirai,\ʒə ʃwa.zi.ʁe\,indicatif,futur simple,première_singulier
+choisir - indicatif - futur_simple - deuxième_singulier,choisir,choisiras,\ty ʃwa.zi.ʁa\,indicatif,futur simple,deuxième_singulier
+choisir - indicatif - futur_simple - troisième_singulier,choisir,choisira,\[il/ɛl/ɔ̃] ʃwa.zi.ʁa\,indicatif,futur simple,troisième_singulier
+choisir - indicatif - futur_simple - première_pluriel,choisir,choisirons,\nu ʃwa.zi.ʁɔ̃\,indicatif,futur simple,première_pluriel
+choisir - indicatif - futur_simple - deuxième_pluriel,choisir,choisirez,\vu ʃwa.zi.ʁe\,indicatif,futur simple,deuxième_pluriel
+choisir - indicatif - futur_simple - troisième_pluriel,choisir,choisiront,\[il/ɛl] ʃwa.zi.ʁɔ̃\,indicatif,futur simple,troisième_pluriel
+choisir - subjonctif - présent - première_singulier,choisir,choisisse,\kə ʒə ʃwa.zis\,subjonctif,présent,première_singulier
+choisir - subjonctif - présent - deuxième_singulier,choisir,choisisses,\kə ty ʃwa.zis\,subjonctif,présent,deuxième_singulier
+choisir - subjonctif - présent - troisième_singulier,choisir,choisisse,\k‿[il/ɛl/ɔ̃] ʃwa.zis\,subjonctif,présent,troisième_singulier
+choisir - subjonctif - présent - première_pluriel,choisir,choisissions,\kə nu ʃwa.zi.sjɔ̃\,subjonctif,présent,première_pluriel
+choisir - subjonctif - présent - deuxième_pluriel,choisir,choisissiez,\kə vu ʃwa.zi.sje\,subjonctif,présent,deuxième_pluriel
+choisir - subjonctif - présent - troisième_pluriel,choisir,choisissent,\k‿[il/ɛl] ʃwa.zis\,subjonctif,présent,troisième_pluriel
+choisir - subjonctif - imparfait - première_singulier,choisir,choisisse,\kə ʒə ʃwa.zis\,subjonctif,imparfait,première_singulier
+choisir - subjonctif - imparfait - deuxième_singulier,choisir,choisisses,\kə ty ʃwa.zis\,subjonctif,imparfait,deuxième_singulier
+choisir - subjonctif - imparfait - troisième_singulier,choisir,choisît,\k‿[il/ɛl/ɔ̃] ʃwa.zi\,subjonctif,imparfait,troisième_singulier
+choisir - subjonctif - imparfait - première_pluriel,choisir,choisissions,\kə nu ʃwa.zi.sjɔ̃\,subjonctif,imparfait,première_pluriel
+choisir - subjonctif - imparfait - deuxième_pluriel,choisir,choisissiez,\kə vu ʃwa.zi.sje\,subjonctif,imparfait,deuxième_pluriel
+choisir - subjonctif - imparfait - troisième_pluriel,choisir,choisissent,\k‿[il/ɛl] ʃwa.zis\,subjonctif,imparfait,troisième_pluriel
+choisir - conditionnel - présent - première_singulier,choisir,choisirais,\ʒə ʃwa.zi.ʁɛ\,conditionnel,présent,première_singulier
+choisir - conditionnel - présent - deuxième_singulier,choisir,choisirais,\ty ʃwa.zi.ʁɛ\,conditionnel,présent,deuxième_singulier
+choisir - conditionnel - présent - troisième_singulier,choisir,choisirait,\[il/ɛl/ɔ̃] ʃwa.zi.ʁɛ\,conditionnel,présent,troisième_singulier
+choisir - conditionnel - présent - première_pluriel,choisir,choisirions,\nu ʃwa.zi.ʁjɔ̃\,conditionnel,présent,première_pluriel
+choisir - conditionnel - présent - deuxième_pluriel,choisir,choisiriez,\vu ʃwa.zi.ʁje\,conditionnel,présent,deuxième_pluriel
+choisir - conditionnel - présent - troisième_pluriel,choisir,choisiraient,\[il/ɛl] ʃwa.zi.ʁɛ\,conditionnel,présent,troisième_pluriel

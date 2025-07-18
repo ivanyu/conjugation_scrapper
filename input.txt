@@ -45,3 +45,4 @@ descendre
 tomber
 naître
 passer
+choisir
