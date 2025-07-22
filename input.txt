@@ -46,3 +46,4 @@ tomber
 naître
 passer
 choisir
+lever
