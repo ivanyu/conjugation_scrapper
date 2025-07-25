@@ -2236,3 +2236,387 @@ lever - conditionnel - présent - troisième_singulier,lever,lèverait,\[il/ɛl/
 lever - conditionnel - présent - première_pluriel,lever,lèverions,\nu lɛ.və.ʁjɔ̃\,conditionnel,présent,première_pluriel
 lever - conditionnel - présent - deuxième_pluriel,lever,lèveriez,\vu lɛ.və.ʁje\,conditionnel,présent,deuxième_pluriel
 lever - conditionnel - présent - troisième_pluriel,lever,lèveraient,\[il/ɛl] lɛ.v(ə.)ʁɛ\,conditionnel,présent,troisième_pluriel
+forcer - indicatif - présent - première_singulier,forcer,force,\ʒə fɔʁs\,indicatif,présent,première_singulier
+forcer - indicatif - présent - deuxième_singulier,forcer,forces,\ty fɔʁs\,indicatif,présent,deuxième_singulier
+forcer - indicatif - présent - troisième_singulier,forcer,force,\[il/ɛl/ɔ̃] fɔʁs\,indicatif,présent,troisième_singulier
+forcer - indicatif - présent - première_pluriel,forcer,forçons,\nu fɔʁ.sɔ̃\,indicatif,présent,première_pluriel
+forcer - indicatif - présent - deuxième_pluriel,forcer,forcez,\vu fɔʁ.se\,indicatif,présent,deuxième_pluriel
+forcer - indicatif - présent - troisième_pluriel,forcer,forcent,\[il/ɛl] fɔʁs\,indicatif,présent,troisième_pluriel
+forcer - indicatif - passé_composé - première_singulier,forcer,ai forcé,\ʒ‿e fɔʁ.se\,indicatif,passé composé,première_singulier
+forcer - indicatif - passé_composé - deuxième_singulier,forcer,as forcé,\ty a fɔʁ.se\,indicatif,passé composé,deuxième_singulier
+forcer - indicatif - passé_composé - troisième_singulier,forcer,a forcé,\[i.l/ɛ.l/ɔ̃.n]‿a fɔʁ.se\,indicatif,passé composé,troisième_singulier
+forcer - indicatif - passé_composé - première_pluriel,forcer,avons forcé,\nu.z‿a.vɔ̃ fɔʁ.se\,indicatif,passé composé,première_pluriel
+forcer - indicatif - passé_composé - deuxième_pluriel,forcer,avez forcé,\vu.z‿a.ve fɔʁ.se\,indicatif,passé composé,deuxième_pluriel
+forcer - indicatif - passé_composé - troisième_pluriel,forcer,ont forcé,\[i/ɛ]l.z‿ɔ̃ fɔʁ.se\,indicatif,passé composé,troisième_pluriel
+forcer - indicatif - imparfait - première_singulier,forcer,forçais,\ʒə fɔʁ.sɛ\,indicatif,imparfait,première_singulier
+forcer - indicatif - imparfait - deuxième_singulier,forcer,forçais,\ty fɔʁ.sɛ\,indicatif,imparfait,deuxième_singulier
+forcer - indicatif - imparfait - troisième_singulier,forcer,forçait,\[il/ɛl/ɔ̃] fɔʁ.sɛ\,indicatif,imparfait,troisième_singulier
+forcer - indicatif - imparfait - première_pluriel,forcer,forcions,\nu fɔʁ.sjɔ̃\,indicatif,imparfait,première_pluriel
+forcer - indicatif - imparfait - deuxième_pluriel,forcer,forciez,\vu fɔʁ.sje\,indicatif,imparfait,deuxième_pluriel
+forcer - indicatif - imparfait - troisième_pluriel,forcer,forçaient,\[il/ɛl] fɔʁ.sɛ\,indicatif,imparfait,troisième_pluriel
+forcer - indicatif - passé_simple - première_singulier,forcer,forçai,\ʒə fɔʁ.se\,indicatif,passé simple,première_singulier
+forcer - indicatif - passé_simple - deuxième_singulier,forcer,forças,\ty fɔʁ.sa\,indicatif,passé simple,deuxième_singulier
+forcer - indicatif - passé_simple - troisième_singulier,forcer,força,\[il/ɛl/ɔ̃] fɔʁ.sa\,indicatif,passé simple,troisième_singulier
+forcer - indicatif - passé_simple - première_pluriel,forcer,forçâmes,\nu fɔʁ.sam\,indicatif,passé simple,première_pluriel
+forcer - indicatif - passé_simple - deuxième_pluriel,forcer,forçâtes,\vu fɔʁ.sat\,indicatif,passé simple,deuxième_pluriel
+forcer - indicatif - passé_simple - troisième_pluriel,forcer,forcèrent,\[il/ɛl] fɔʁ.sɛʁ\,indicatif,passé simple,troisième_pluriel
+forcer - indicatif - futur_simple - première_singulier,forcer,forcerai,\ʒə fɔʁ.s(ə.)ʁe\,indicatif,futur simple,première_singulier
+forcer - indicatif - futur_simple - deuxième_singulier,forcer,forceras,\ty fɔʁ.s(ə.)ʁa\,indicatif,futur simple,deuxième_singulier
+forcer - indicatif - futur_simple - troisième_singulier,forcer,forcera,\[il/ɛl/ɔ̃] fɔʁ.s(ə.)ʁa\,indicatif,futur simple,troisième_singulier
+forcer - indicatif - futur_simple - première_pluriel,forcer,forcerons,\nu fɔʁ.s(ə.)ʁɔ̃\,indicatif,futur simple,première_pluriel
+forcer - indicatif - futur_simple - deuxième_pluriel,forcer,forcerez,\vu fɔʁ.s(ə.)ʁe\,indicatif,futur simple,deuxième_pluriel
+forcer - indicatif - futur_simple - troisième_pluriel,forcer,forceront,\[il/ɛl] fɔʁ.s(ə.)ʁɔ̃\,indicatif,futur simple,troisième_pluriel
+forcer - subjonctif - présent - première_singulier,forcer,force,\kə ʒə fɔʁs\,subjonctif,présent,première_singulier
+forcer - subjonctif - présent - deuxième_singulier,forcer,forces,\kə ty fɔʁs\,subjonctif,présent,deuxième_singulier
+forcer - subjonctif - présent - troisième_singulier,forcer,force,\k‿[il/ɛl/ɔ̃] fɔʁs\,subjonctif,présent,troisième_singulier
+forcer - subjonctif - présent - première_pluriel,forcer,forcions,\kə nu fɔʁ.sjɔ̃\,subjonctif,présent,première_pluriel
+forcer - subjonctif - présent - deuxième_pluriel,forcer,forciez,\kə vu fɔʁ.sje\,subjonctif,présent,deuxième_pluriel
+forcer - subjonctif - présent - troisième_pluriel,forcer,forcent,\k‿[il/ɛl] fɔʁs\,subjonctif,présent,troisième_pluriel
+forcer - subjonctif - imparfait - première_singulier,forcer,forçasse,\kə ʒə fɔʁ.sas\,subjonctif,imparfait,première_singulier
+forcer - subjonctif - imparfait - deuxième_singulier,forcer,forçasses,\kə ty fɔʁ.sas\,subjonctif,imparfait,deuxième_singulier
+forcer - subjonctif - imparfait - troisième_singulier,forcer,forçât,\k‿[il/ɛl/ɔ̃] fɔʁ.sa\,subjonctif,imparfait,troisième_singulier
+forcer - subjonctif - imparfait - première_pluriel,forcer,forçassions,\kə nu fɔʁ.sa.sjɔ̃\,subjonctif,imparfait,première_pluriel
+forcer - subjonctif - imparfait - deuxième_pluriel,forcer,forçassiez,\kə vu fɔʁ.sa.sje\,subjonctif,imparfait,deuxième_pluriel
+forcer - subjonctif - imparfait - troisième_pluriel,forcer,forçassent,\k‿[il/ɛl] fɔʁ.sas\,subjonctif,imparfait,troisième_pluriel
+forcer - conditionnel - présent - première_singulier,forcer,forcerais,\ʒə fɔʁ.s(ə.)ʁɛ\,conditionnel,présent,première_singulier
+forcer - conditionnel - présent - deuxième_singulier,forcer,forcerais,\ty fɔʁ.s(ə.)ʁɛ\,conditionnel,présent,deuxième_singulier
+forcer - conditionnel - présent - troisième_singulier,forcer,forcerait,\[il/ɛl/ɔ̃] fɔʁ.s(ə.)ʁɛ\,conditionnel,présent,troisième_singulier
+forcer - conditionnel - présent - première_pluriel,forcer,forcerions,\nu fɔʁ.sə.ʁjɔ̃\,conditionnel,présent,première_pluriel
+forcer - conditionnel - présent - deuxième_pluriel,forcer,forceriez,\vu fɔʁ.sə.ʁje\,conditionnel,présent,deuxième_pluriel
+forcer - conditionnel - présent - troisième_pluriel,forcer,forceraient,\[il/ɛl] fɔʁ.s(ə.)ʁɛ\,conditionnel,présent,troisième_pluriel
+acheter - indicatif - présent - première_singulier,acheter,achète,\ʒ‿a.ʃɛt\,indicatif,présent,première_singulier
+acheter - indicatif - présent - deuxième_singulier,acheter,achètes,\ty a.ʃɛt\,indicatif,présent,deuxième_singulier
+acheter - indicatif - présent - troisième_singulier,acheter,achète,\[i.l/ɛ.l/ɔ̃.n]‿a.ʃɛt\,indicatif,présent,troisième_singulier
+acheter - indicatif - présent - première_pluriel,acheter,achetons,\nu.z‿aʃ.tɔ̃\,indicatif,présent,première_pluriel
+acheter - indicatif - présent - deuxième_pluriel,acheter,achetez,\vu.z‿aʃ.te\,indicatif,présent,deuxième_pluriel
+acheter - indicatif - présent - troisième_pluriel,acheter,achètent,\[il/ɛl].z‿a.ʃɛt\,indicatif,présent,troisième_pluriel
+acheter - indicatif - passé_composé - première_singulier,acheter,ai acheté,\ʒ‿e aʃ.te\,indicatif,passé composé,première_singulier
+acheter - indicatif - passé_composé - deuxième_singulier,acheter,as acheté,\ty a.z‿aʃ.te\,indicatif,passé composé,deuxième_singulier
+acheter - indicatif - passé_composé - troisième_singulier,acheter,a acheté,\[i.l/ɛ.l/ɔ̃.n]‿a.aʃ.te\,indicatif,passé composé,troisième_singulier
+acheter - indicatif - passé_composé - première_pluriel,acheter,avons acheté,\nu.z‿a.vɔ̃.z‿aʃ.te\,indicatif,passé composé,première_pluriel
+acheter - indicatif - passé_composé - deuxième_pluriel,acheter,avez acheté,\vu.z‿a.ve.z‿aʃ.te\,indicatif,passé composé,deuxième_pluriel
+acheter - indicatif - passé_composé - troisième_pluriel,acheter,ont acheté,\[i/ɛ]l.z‿ɔ̃.t‿aʃ.te\,indicatif,passé composé,troisième_pluriel
+acheter - indicatif - imparfait - première_singulier,acheter,achetais,\ʒ‿aʃ.tɛ\,indicatif,imparfait,première_singulier
+acheter - indicatif - imparfait - deuxième_singulier,acheter,achetais,\ty aʃ.tɛ\,indicatif,imparfait,deuxième_singulier
+acheter - indicatif - imparfait - troisième_singulier,acheter,achetait,\[i.l/ɛ.l/ɔ̃.n]‿aʃ.tɛ\,indicatif,imparfait,troisième_singulier
+acheter - indicatif - imparfait - première_pluriel,acheter,achetions,\nu.z‿a.ʃə.tjɔ̃\,indicatif,imparfait,première_pluriel
+acheter - indicatif - imparfait - deuxième_pluriel,acheter,achetiez,\vu.z‿a.ʃə.tje\,indicatif,imparfait,deuxième_pluriel
+acheter - indicatif - imparfait - troisième_pluriel,acheter,achetaient,\[il/ɛl].z‿aʃ.tɛ\,indicatif,imparfait,troisième_pluriel
+acheter - indicatif - passé_simple - première_singulier,acheter,achetai,\ʒ‿aʃ.te\,indicatif,passé simple,première_singulier
+acheter - indicatif - passé_simple - deuxième_singulier,acheter,achetas,\ty aʃ.ta\,indicatif,passé simple,deuxième_singulier
+acheter - indicatif - passé_simple - troisième_singulier,acheter,acheta,\[i.l/ɛ.l/ɔ̃.n]‿aʃ.ta\,indicatif,passé simple,troisième_singulier
+acheter - indicatif - passé_simple - première_pluriel,acheter,achetâmes,\nu.z‿aʃ.tam\,indicatif,passé simple,première_pluriel
+acheter - indicatif - passé_simple - deuxième_pluriel,acheter,achetâtes,\vu.z‿aʃ.tat\,indicatif,passé simple,deuxième_pluriel
+acheter - indicatif - passé_simple - troisième_pluriel,acheter,achetèrent,\[il/ɛl].z‿aʃ.tɛʁ\,indicatif,passé simple,troisième_pluriel
+acheter - indicatif - futur_simple - première_singulier,acheter,achèterai,\ʒ‿a.ʃɛ.t(ə.)ʁe\,indicatif,futur simple,première_singulier
+acheter - indicatif - futur_simple - deuxième_singulier,acheter,achèteras,\ty a.ʃɛ.t(ə.)ʁa\,indicatif,futur simple,deuxième_singulier
+acheter - indicatif - futur_simple - troisième_singulier,acheter,achètera,\[i.l/ɛ.l/ɔ̃.n]‿a.ʃɛ.t(ə.)ʁa\,indicatif,futur simple,troisième_singulier
+acheter - indicatif - futur_simple - première_pluriel,acheter,achèterons,\nu.z‿a.ʃɛ.t(ə.)ʁɔ̃\,indicatif,futur simple,première_pluriel
+acheter - indicatif - futur_simple - deuxième_pluriel,acheter,achèterez,\vu.z‿a.ʃɛ.t(ə.)ʁe\,indicatif,futur simple,deuxième_pluriel
+acheter - indicatif - futur_simple - troisième_pluriel,acheter,achèteront,\[il/ɛl].z‿a.ʃɛ.t(ə.)ʁɔ̃\,indicatif,futur simple,troisième_pluriel
+acheter - subjonctif - présent - première_singulier,acheter,achète,\kə ʒ‿a.ʃɛt\,subjonctif,présent,première_singulier
+acheter - subjonctif - présent - deuxième_singulier,acheter,achètes,\kə ty a.ʃɛt\,subjonctif,présent,deuxième_singulier
+acheter - subjonctif - présent - troisième_singulier,acheter,achète,\k‿[i.l/ɛ.l/ɔ̃.n]‿a.ʃɛt\,subjonctif,présent,troisième_singulier
+acheter - subjonctif - présent - première_pluriel,acheter,achetions,\kə nu.z‿a.ʃə.tjɔ̃\,subjonctif,présent,première_pluriel
+acheter - subjonctif - présent - deuxième_pluriel,acheter,achetiez,\kə vu.z‿a.ʃə.tje\,subjonctif,présent,deuxième_pluriel
+acheter - subjonctif - présent - troisième_pluriel,acheter,achètent,\k‿[il/ɛl].z‿a.ʃɛt\,subjonctif,présent,troisième_pluriel
+acheter - subjonctif - imparfait - première_singulier,acheter,achetasse,\kə ʒ‿aʃ.tas\,subjonctif,imparfait,première_singulier
+acheter - subjonctif - imparfait - deuxième_singulier,acheter,achetasses,\kə ty aʃ.tas\,subjonctif,imparfait,deuxième_singulier
+acheter - subjonctif - imparfait - troisième_singulier,acheter,achetât,\k‿[i.l/ɛ.l/ɔ̃.n]‿aʃ.ta\,subjonctif,imparfait,troisième_singulier
+acheter - subjonctif - imparfait - première_pluriel,acheter,achetassions,\kə nu.z‿aʃ.ta.sjɔ̃\,subjonctif,imparfait,première_pluriel
+acheter - subjonctif - imparfait - deuxième_pluriel,acheter,achetassiez,\kə vu.z‿aʃ.ta.sje\,subjonctif,imparfait,deuxième_pluriel
+acheter - subjonctif - imparfait - troisième_pluriel,acheter,achetassent,\k‿[il/ɛl].z‿aʃ.tas\,subjonctif,imparfait,troisième_pluriel
+acheter - conditionnel - présent - première_singulier,acheter,achèterais,\ʒ‿a.ʃɛ.t(ə.)ʁɛ\,conditionnel,présent,première_singulier
+acheter - conditionnel - présent - deuxième_singulier,acheter,achèterais,\ty a.ʃɛ.t(ə.)ʁɛ\,conditionnel,présent,deuxième_singulier
+acheter - conditionnel - présent - troisième_singulier,acheter,achèterait,\[i.l/ɛ.l/ɔ̃.n]‿a.ʃɛ.t(ə.)ʁɛ\,conditionnel,présent,troisième_singulier
+acheter - conditionnel - présent - première_pluriel,acheter,achèterions,\nu.z‿a.ʃɛ.tə.ʁjɔ̃\,conditionnel,présent,première_pluriel
+acheter - conditionnel - présent - deuxième_pluriel,acheter,achèteriez,\vu.z‿a.ʃɛ.tə.ʁje\,conditionnel,présent,deuxième_pluriel
+acheter - conditionnel - présent - troisième_pluriel,acheter,achèteraient,\[il/ɛl].z‿a.ʃɛ.t(ə.)ʁɛ\,conditionnel,présent,troisième_pluriel
+préférer - indicatif - présent - première_singulier,préférer,préfère,\ʒə pʁe.fɛʁ\,indicatif,présent,première_singulier
+préférer - indicatif - présent - deuxième_singulier,préférer,préfères,\ty pʁe.fɛʁ\,indicatif,présent,deuxième_singulier
+préférer - indicatif - présent - troisième_singulier,préférer,préfère,\[il/ɛl/ɔ̃] pʁe.fɛʁ\,indicatif,présent,troisième_singulier
+préférer - indicatif - présent - première_pluriel,préférer,préférons,\nu pʁe.fe.ʁɔ̃\,indicatif,présent,première_pluriel
+préférer - indicatif - présent - deuxième_pluriel,préférer,préférez,\vu pʁe.fe.ʁe\,indicatif,présent,deuxième_pluriel
+préférer - indicatif - présent - troisième_pluriel,préférer,préfèrent,\[il/ɛl] pʁe.fɛʁ\,indicatif,présent,troisième_pluriel
+préférer - indicatif - passé_composé - première_singulier,préférer,ai préféré,\ʒ‿e pʁe.fe.ʁe\,indicatif,passé composé,première_singulier
+préférer - indicatif - passé_composé - deuxième_singulier,préférer,as préféré,\ty a pʁe.fe.ʁe\,indicatif,passé composé,deuxième_singulier
+préférer - indicatif - passé_composé - troisième_singulier,préférer,a préféré,\[i.l/ɛ.l/ɔ̃.n]‿a pʁe.fe.ʁe\,indicatif,passé composé,troisième_singulier
+préférer - indicatif - passé_composé - première_pluriel,préférer,avons préféré,\nu.z‿a.vɔ̃ pʁe.fe.ʁe\,indicatif,passé composé,première_pluriel
+préférer - indicatif - passé_composé - deuxième_pluriel,préférer,avez préféré,\vu.z‿a.ve pʁe.fe.ʁe\,indicatif,passé composé,deuxième_pluriel
+préférer - indicatif - passé_composé - troisième_pluriel,préférer,ont préféré,\[i/ɛ]l.z‿ɔ̃ pʁe.fe.ʁe\,indicatif,passé composé,troisième_pluriel
+préférer - indicatif - imparfait - première_singulier,préférer,préférais,\ʒə pʁe.fe.ʁɛ\,indicatif,imparfait,première_singulier
+préférer - indicatif - imparfait - deuxième_singulier,préférer,préférais,\ty pʁe.fe.ʁɛ\,indicatif,imparfait,deuxième_singulier
+préférer - indicatif - imparfait - troisième_singulier,préférer,préférait,\[il/ɛl/ɔ̃] pʁe.fe.ʁɛ\,indicatif,imparfait,troisième_singulier
+préférer - indicatif - imparfait - première_pluriel,préférer,préférions,\nu pʁe.fe.ʁjɔ̃\,indicatif,imparfait,première_pluriel
+préférer - indicatif - imparfait - deuxième_pluriel,préférer,préfériez,\vu pʁe.fe.ʁje\,indicatif,imparfait,deuxième_pluriel
+préférer - indicatif - imparfait - troisième_pluriel,préférer,préféraient,\[il/ɛl] pʁe.fe.ʁɛ\,indicatif,imparfait,troisième_pluriel
+préférer - indicatif - passé_simple - première_singulier,préférer,préférai,\ʒə pʁe.fe.ʁe\,indicatif,passé simple,première_singulier
+préférer - indicatif - passé_simple - deuxième_singulier,préférer,préféras,\ty pʁe.fe.ʁa\,indicatif,passé simple,deuxième_singulier
+préférer - indicatif - passé_simple - troisième_singulier,préférer,préféra,\[il/ɛl/ɔ̃] pʁe.fe.ʁa\,indicatif,passé simple,troisième_singulier
+préférer - indicatif - passé_simple - première_pluriel,préférer,préférâmes,\nu pʁe.fe.ʁam\,indicatif,passé simple,première_pluriel
+préférer - indicatif - passé_simple - deuxième_pluriel,préférer,préférâtes,\vu pʁe.fe.ʁat\,indicatif,passé simple,deuxième_pluriel
+préférer - indicatif - passé_simple - troisième_pluriel,préférer,préférèrent,\[il/ɛl] pʁe.fe.ʁɛʁ\,indicatif,passé simple,troisième_pluriel
+préférer - indicatif - futur_simple - première_singulier,préférer,préférerai ou préfèrerai,\ʒə pʁe.fɛ.ʁə.ʁe\,indicatif,futur simple,première_singulier
+préférer - indicatif - futur_simple - deuxième_singulier,préférer,préféreras ou préfèreras,\ty pʁe.fɛ.ʁə.ʁa\,indicatif,futur simple,deuxième_singulier
+préférer - indicatif - futur_simple - troisième_singulier,préférer,préférera ou préfèrera,\[il/ɛl/ɔ̃] pʁe.fɛ.ʁə.ʁa\,indicatif,futur simple,troisième_singulier
+préférer - indicatif - futur_simple - première_pluriel,préférer,préférerons ou préfèrerons,\nu pʁe.fɛ.ʁə.ʁɔ̃\,indicatif,futur simple,première_pluriel
+préférer - indicatif - futur_simple - deuxième_pluriel,préférer,préférerez ou préfèrerez,\vu pʁe.fɛ.ʁə.ʁe\,indicatif,futur simple,deuxième_pluriel
+préférer - indicatif - futur_simple - troisième_pluriel,préférer,préféreront ou préfèreront,\[il/ɛl] pʁe.fɛ.ʁə.ʁɔ̃\,indicatif,futur simple,troisième_pluriel
+préférer - subjonctif - présent - première_singulier,préférer,préfère,\kə ʒə pʁe.fɛʁ\,subjonctif,présent,première_singulier
+préférer - subjonctif - présent - deuxième_singulier,préférer,préfères,\kə ty pʁe.fɛʁ\,subjonctif,présent,deuxième_singulier
+préférer - subjonctif - présent - troisième_singulier,préférer,préfère,\k‿[il/ɛl/ɔ̃] pʁe.fɛʁ\,subjonctif,présent,troisième_singulier
+préférer - subjonctif - présent - première_pluriel,préférer,préférions,\kə nu pʁe.fe.ʁjɔ̃\,subjonctif,présent,première_pluriel
+préférer - subjonctif - présent - deuxième_pluriel,préférer,préfériez,\kə vu pʁe.fe.ʁje\,subjonctif,présent,deuxième_pluriel
+préférer - subjonctif - présent - troisième_pluriel,préférer,préfèrent,\k‿[il/ɛl] pʁe.fɛʁ\,subjonctif,présent,troisième_pluriel
+préférer - subjonctif - imparfait - première_singulier,préférer,préférasse,\kə ʒə pʁe.fe.ʁas\,subjonctif,imparfait,première_singulier
+préférer - subjonctif - imparfait - deuxième_singulier,préférer,préférasses,\kə ty pʁe.fe.ʁas\,subjonctif,imparfait,deuxième_singulier
+préférer - subjonctif - imparfait - troisième_singulier,préférer,préférât,\k‿[il/ɛl/ɔ̃] pʁe.fe.ʁa\,subjonctif,imparfait,troisième_singulier
+préférer - subjonctif - imparfait - première_pluriel,préférer,préférassions,\kə nu pʁe.fe.ʁa.sjɔ̃\,subjonctif,imparfait,première_pluriel
+préférer - subjonctif - imparfait - deuxième_pluriel,préférer,préférassiez,\kə vu pʁe.fe.ʁa.sje\,subjonctif,imparfait,deuxième_pluriel
+préférer - subjonctif - imparfait - troisième_pluriel,préférer,préférassent,\k‿[il/ɛl] pʁe.fe.ʁas\,subjonctif,imparfait,troisième_pluriel
+préférer - conditionnel - présent - première_singulier,préférer,préférerais ou préfèrerais,\ʒə pʁe.fɛ.ʁə.ʁɛ\,conditionnel,présent,première_singulier
+préférer - conditionnel - présent - deuxième_singulier,préférer,préférerais ou préfèrerais,\ty pʁe.fɛ.ʁə.ʁɛ\,conditionnel,présent,deuxième_singulier
+préférer - conditionnel - présent - troisième_singulier,préférer,préférerait ou préfèrerait,\[il/ɛl/ɔ̃] pʁe.fɛ.ʁə.ʁɛ\,conditionnel,présent,troisième_singulier
+préférer - conditionnel - présent - première_pluriel,préférer,préférerions ou préfèrerions,\nu pʁe.fɛ.ʁə.ʁjɔ̃\,conditionnel,présent,première_pluriel
+préférer - conditionnel - présent - deuxième_pluriel,préférer,préféreriez ou préfèreriez,\vu pʁe.fɛ.ʁə.ʁje\,conditionnel,présent,deuxième_pluriel
+préférer - conditionnel - présent - troisième_pluriel,préférer,préféreraient ou préfèreraient,\[il/ɛl] pʁe.fɛ.ʁə.ʁɛ\,conditionnel,présent,troisième_pluriel
+répéter - indicatif - présent - première_singulier,répéter,répète,\ʒə ʁe.pɛt\,indicatif,présent,première_singulier
+répéter - indicatif - présent - deuxième_singulier,répéter,répètes,\ty ʁe.pɛt\,indicatif,présent,deuxième_singulier
+répéter - indicatif - présent - troisième_singulier,répéter,répète,\[il/ɛl/ɔ̃] ʁe.pɛt\,indicatif,présent,troisième_singulier
+répéter - indicatif - présent - première_pluriel,répéter,répétons,\nu ʁe.pe.tɔ̃\,indicatif,présent,première_pluriel
+répéter - indicatif - présent - deuxième_pluriel,répéter,répétez,\vu ʁe.pe.te\,indicatif,présent,deuxième_pluriel
+répéter - indicatif - présent - troisième_pluriel,répéter,répètent,\[il/ɛl] ʁe.pɛt\,indicatif,présent,troisième_pluriel
+répéter - indicatif - passé_composé - première_singulier,répéter,ai répété,\ʒ‿e ʁe.pe.te\,indicatif,passé composé,première_singulier
+répéter - indicatif - passé_composé - deuxième_singulier,répéter,as répété,\ty a ʁe.pe.te\,indicatif,passé composé,deuxième_singulier
+répéter - indicatif - passé_composé - troisième_singulier,répéter,a répété,\[i.l/ɛ.l/ɔ̃.n]‿a ʁe.pe.te\,indicatif,passé composé,troisième_singulier
+répéter - indicatif - passé_composé - première_pluriel,répéter,avons répété,\nu.z‿a.vɔ̃ ʁe.pe.te\,indicatif,passé composé,première_pluriel
+répéter - indicatif - passé_composé - deuxième_pluriel,répéter,avez répété,\vu.z‿a.ve ʁe.pe.te\,indicatif,passé composé,deuxième_pluriel
+répéter - indicatif - passé_composé - troisième_pluriel,répéter,ont répété,\[i/ɛ]l.z‿ɔ̃ ʁe.pe.te\,indicatif,passé composé,troisième_pluriel
+répéter - indicatif - imparfait - première_singulier,répéter,répétais,\ʒə ʁe.pe.tɛ\,indicatif,imparfait,première_singulier
+répéter - indicatif - imparfait - deuxième_singulier,répéter,répétais,\ty ʁe.pe.tɛ\,indicatif,imparfait,deuxième_singulier
+répéter - indicatif - imparfait - troisième_singulier,répéter,répétait,\[il/ɛl/ɔ̃] ʁe.pe.tɛ\,indicatif,imparfait,troisième_singulier
+répéter - indicatif - imparfait - première_pluriel,répéter,répétions,\nu ʁe.pe.tjɔ̃\,indicatif,imparfait,première_pluriel
+répéter - indicatif - imparfait - deuxième_pluriel,répéter,répétiez,\vu ʁe.pe.tje\,indicatif,imparfait,deuxième_pluriel
+répéter - indicatif - imparfait - troisième_pluriel,répéter,répétaient,\[il/ɛl] ʁe.pe.tɛ\,indicatif,imparfait,troisième_pluriel
+répéter - indicatif - passé_simple - première_singulier,répéter,répétai,\ʒə ʁe.pe.te\,indicatif,passé simple,première_singulier
+répéter - indicatif - passé_simple - deuxième_singulier,répéter,répétas,\ty ʁe.pe.ta\,indicatif,passé simple,deuxième_singulier
+répéter - indicatif - passé_simple - troisième_singulier,répéter,répéta,\[il/ɛl/ɔ̃] ʁe.pe.ta\,indicatif,passé simple,troisième_singulier
+répéter - indicatif - passé_simple - première_pluriel,répéter,répétâmes,\nu ʁe.pe.tam\,indicatif,passé simple,première_pluriel
+répéter - indicatif - passé_simple - deuxième_pluriel,répéter,répétâtes,\vu ʁe.pe.tat\,indicatif,passé simple,deuxième_pluriel
+répéter - indicatif - passé_simple - troisième_pluriel,répéter,répétèrent,\[il/ɛl] ʁe.pe.tɛʁ\,indicatif,passé simple,troisième_pluriel
+répéter - indicatif - futur_simple - première_singulier,répéter,répéterai ou répèterai,\ʒə ʁe.pɛ.t(ə.)ʁe\,indicatif,futur simple,première_singulier
+répéter - indicatif - futur_simple - deuxième_singulier,répéter,répéteras ou répèteras,\ty ʁe.pɛ.t(ə.)ʁa\,indicatif,futur simple,deuxième_singulier
+répéter - indicatif - futur_simple - troisième_singulier,répéter,répétera ou répètera,\[il/ɛl/ɔ̃] ʁe.pɛ.t(ə.)ʁa\,indicatif,futur simple,troisième_singulier
+répéter - indicatif - futur_simple - première_pluriel,répéter,répéterons ou répèterons,\nu ʁe.pɛ.t(ə.)ʁɔ̃\,indicatif,futur simple,première_pluriel
+répéter - indicatif - futur_simple - deuxième_pluriel,répéter,répéterez ou répèterez,\vu ʁe.pɛ.t(ə.)ʁe\,indicatif,futur simple,deuxième_pluriel
+répéter - indicatif - futur_simple - troisième_pluriel,répéter,répéteront ou répèteront,\[il/ɛl] ʁe.pɛ.t(ə.)ʁɔ̃\,indicatif,futur simple,troisième_pluriel
+répéter - subjonctif - présent - première_singulier,répéter,répète,\kə ʒə ʁe.pɛt\,subjonctif,présent,première_singulier
+répéter - subjonctif - présent - deuxième_singulier,répéter,répètes,\kə ty ʁe.pɛt\,subjonctif,présent,deuxième_singulier
+répéter - subjonctif - présent - troisième_singulier,répéter,répète,\k‿[il/ɛl/ɔ̃] ʁe.pɛt\,subjonctif,présent,troisième_singulier
+répéter - subjonctif - présent - première_pluriel,répéter,répétions,\kə nu ʁe.pe.tjɔ̃\,subjonctif,présent,première_pluriel
+répéter - subjonctif - présent - deuxième_pluriel,répéter,répétiez,\kə vu ʁe.pe.tje\,subjonctif,présent,deuxième_pluriel
+répéter - subjonctif - présent - troisième_pluriel,répéter,répètent,\k‿[il/ɛl] ʁe.pɛt\,subjonctif,présent,troisième_pluriel
+répéter - subjonctif - imparfait - première_singulier,répéter,répétasse,\kə ʒə ʁe.pe.tas\,subjonctif,imparfait,première_singulier
+répéter - subjonctif - imparfait - deuxième_singulier,répéter,répétasses,\kə ty ʁe.pe.tas\,subjonctif,imparfait,deuxième_singulier
+répéter - subjonctif - imparfait - troisième_singulier,répéter,répétât,\k‿[il/ɛl/ɔ̃] ʁe.pe.ta\,subjonctif,imparfait,troisième_singulier
+répéter - subjonctif - imparfait - première_pluriel,répéter,répétassions,\kə nu ʁe.pe.ta.sjɔ̃\,subjonctif,imparfait,première_pluriel
+répéter - subjonctif - imparfait - deuxième_pluriel,répéter,répétassiez,\kə vu ʁe.pe.ta.sje\,subjonctif,imparfait,deuxième_pluriel
+répéter - subjonctif - imparfait - troisième_pluriel,répéter,répétassent,\k‿[il/ɛl] ʁe.pe.tas\,subjonctif,imparfait,troisième_pluriel
+répéter - conditionnel - présent - première_singulier,répéter,répéterais ou répèterais,\ʒə ʁe.pɛ.t(ə.)ʁɛ\,conditionnel,présent,première_singulier
+répéter - conditionnel - présent - deuxième_singulier,répéter,répéterais ou répèterais,\ty ʁe.pɛ.t(ə.)ʁɛ\,conditionnel,présent,deuxième_singulier
+répéter - conditionnel - présent - troisième_singulier,répéter,répéterait ou répèterait,\[il/ɛl/ɔ̃] ʁe.pɛ.t(ə.)ʁɛ\,conditionnel,présent,troisième_singulier
+répéter - conditionnel - présent - première_pluriel,répéter,répéterions ou répèterions,\nu ʁe.pɛ.tə.ʁjɔ̃\,conditionnel,présent,première_pluriel
+répéter - conditionnel - présent - deuxième_pluriel,répéter,répéteriez ou répèteriez,\vu ʁe.pɛ.tə.ʁje\,conditionnel,présent,deuxième_pluriel
+répéter - conditionnel - présent - troisième_pluriel,répéter,répéteraient ou répèteraient,\[il/ɛl] ʁe.pɛ.t(ə.)ʁɛ\,conditionnel,présent,troisième_pluriel
+nettoyer - indicatif - présent - première_singulier,nettoyer,nettoie,\ʒə nɛ.twa\,indicatif,présent,première_singulier
+nettoyer - indicatif - présent - deuxième_singulier,nettoyer,nettoies,\ty nɛ.twa\,indicatif,présent,deuxième_singulier
+nettoyer - indicatif - présent - troisième_singulier,nettoyer,nettoie,\[il/ɛl/ɔ̃] nɛ.twa\,indicatif,présent,troisième_singulier
+nettoyer - indicatif - présent - première_pluriel,nettoyer,nettoyons,\nu nɛ.twa.jɔ̃\,indicatif,présent,première_pluriel
+nettoyer - indicatif - présent - deuxième_pluriel,nettoyer,nettoyez,\vu nɛ.twa.je\,indicatif,présent,deuxième_pluriel
+nettoyer - indicatif - présent - troisième_pluriel,nettoyer,nettoient,\[il/ɛl] nɛ.twa\,indicatif,présent,troisième_pluriel
+nettoyer - indicatif - passé_composé - première_singulier,nettoyer,ai nettoyé,\ʒ‿e nɛ.twa.je\,indicatif,passé composé,première_singulier
+nettoyer - indicatif - passé_composé - deuxième_singulier,nettoyer,as nettoyé,\ty a nɛ.twa.je\,indicatif,passé composé,deuxième_singulier
+nettoyer - indicatif - passé_composé - troisième_singulier,nettoyer,a nettoyé,\[i.l/ɛ.l/ɔ̃.n]‿a nɛ.twa.je\,indicatif,passé composé,troisième_singulier
+nettoyer - indicatif - passé_composé - première_pluriel,nettoyer,avons nettoyé,\nu.z‿a.vɔ̃ nɛ.twa.je\,indicatif,passé composé,première_pluriel
+nettoyer - indicatif - passé_composé - deuxième_pluriel,nettoyer,avez nettoyé,\vu.z‿a.ve nɛ.twa.je\,indicatif,passé composé,deuxième_pluriel
+nettoyer - indicatif - passé_composé - troisième_pluriel,nettoyer,ont nettoyé,\[i/ɛ]l.z‿ɔ̃ nɛ.twa.je\,indicatif,passé composé,troisième_pluriel
+nettoyer - indicatif - imparfait - première_singulier,nettoyer,nettoyais,\ʒə nɛ.twa.jɛ\,indicatif,imparfait,première_singulier
+nettoyer - indicatif - imparfait - deuxième_singulier,nettoyer,nettoyais,\ty nɛ.twa.jɛ\,indicatif,imparfait,deuxième_singulier
+nettoyer - indicatif - imparfait - troisième_singulier,nettoyer,nettoyait,\[il/ɛl/ɔ̃] nɛ.twa.jɛ\,indicatif,imparfait,troisième_singulier
+nettoyer - indicatif - imparfait - première_pluriel,nettoyer,nettoyions,\nu nɛ.twaj.jɔ̃\,indicatif,imparfait,première_pluriel
+nettoyer - indicatif - imparfait - deuxième_pluriel,nettoyer,nettoyiez,\vu nɛ.twaj.je\,indicatif,imparfait,deuxième_pluriel
+nettoyer - indicatif - imparfait - troisième_pluriel,nettoyer,nettoyaient,\[il/ɛl] nɛ.twa.jɛ\,indicatif,imparfait,troisième_pluriel
+nettoyer - indicatif - passé_simple - première_singulier,nettoyer,nettoyai,\ʒə nɛ.twa.je\,indicatif,passé simple,première_singulier
+nettoyer - indicatif - passé_simple - deuxième_singulier,nettoyer,nettoyas,\ty nɛ.twa.ja\,indicatif,passé simple,deuxième_singulier
+nettoyer - indicatif - passé_simple - troisième_singulier,nettoyer,nettoya,\[il/ɛl/ɔ̃] nɛ.twa.ja\,indicatif,passé simple,troisième_singulier
+nettoyer - indicatif - passé_simple - première_pluriel,nettoyer,nettoyâmes,\nu nɛ.twa.jam\,indicatif,passé simple,première_pluriel
+nettoyer - indicatif - passé_simple - deuxième_pluriel,nettoyer,nettoyâtes,\vu nɛ.twa.jat\,indicatif,passé simple,deuxième_pluriel
+nettoyer - indicatif - passé_simple - troisième_pluriel,nettoyer,nettoyèrent,\[il/ɛl] nɛ.twa.jɛʁ\,indicatif,passé simple,troisième_pluriel
+nettoyer - indicatif - futur_simple - première_singulier,nettoyer,nettoierai,\ʒə nɛ.twa.ʁe\,indicatif,futur simple,première_singulier
+nettoyer - indicatif - futur_simple - deuxième_singulier,nettoyer,nettoieras,\ty nɛ.twa.ʁa\,indicatif,futur simple,deuxième_singulier
+nettoyer - indicatif - futur_simple - troisième_singulier,nettoyer,nettoiera,\[il/ɛl/ɔ̃] nɛ.twa.ʁa\,indicatif,futur simple,troisième_singulier
+nettoyer - indicatif - futur_simple - première_pluriel,nettoyer,nettoierons,\nu nɛ.twa.ʁɔ̃\,indicatif,futur simple,première_pluriel
+nettoyer - indicatif - futur_simple - deuxième_pluriel,nettoyer,nettoierez,\vu nɛ.twa.ʁe\,indicatif,futur simple,deuxième_pluriel
+nettoyer - indicatif - futur_simple - troisième_pluriel,nettoyer,nettoieront,\[il/ɛl] nɛ.twa.ʁɔ̃\,indicatif,futur simple,troisième_pluriel
+nettoyer - subjonctif - présent - première_singulier,nettoyer,nettoie,\kə ʒə nɛ.twa\,subjonctif,présent,première_singulier
+nettoyer - subjonctif - présent - deuxième_singulier,nettoyer,nettoies,\kə ty nɛ.twa\,subjonctif,présent,deuxième_singulier
+nettoyer - subjonctif - présent - troisième_singulier,nettoyer,nettoie,\k‿[il/ɛl/ɔ̃] nɛ.twa\,subjonctif,présent,troisième_singulier
+nettoyer - subjonctif - présent - première_pluriel,nettoyer,nettoyions,\kə nu nɛ.twaj.jɔ̃\,subjonctif,présent,première_pluriel
+nettoyer - subjonctif - présent - deuxième_pluriel,nettoyer,nettoyiez,\kə vu nɛ.twaj.je\,subjonctif,présent,deuxième_pluriel
+nettoyer - subjonctif - présent - troisième_pluriel,nettoyer,nettoient,\k‿[il/ɛl] nɛ.twa\,subjonctif,présent,troisième_pluriel
+nettoyer - subjonctif - imparfait - première_singulier,nettoyer,nettoyasse,\kə ʒə nɛ.twa.jas\,subjonctif,imparfait,première_singulier
+nettoyer - subjonctif - imparfait - deuxième_singulier,nettoyer,nettoyasses,\kə ty nɛ.twa.jas\,subjonctif,imparfait,deuxième_singulier
+nettoyer - subjonctif - imparfait - troisième_singulier,nettoyer,nettoyât,\k‿[il/ɛl/ɔ̃] nɛ.twa.ja\,subjonctif,imparfait,troisième_singulier
+nettoyer - subjonctif - imparfait - première_pluriel,nettoyer,nettoyassions,\kə nu nɛ.twa.ja.sjɔ̃\,subjonctif,imparfait,première_pluriel
+nettoyer - subjonctif - imparfait - deuxième_pluriel,nettoyer,nettoyassiez,\kə vu nɛ.twa.ja.sje\,subjonctif,imparfait,deuxième_pluriel
+nettoyer - subjonctif - imparfait - troisième_pluriel,nettoyer,nettoyassent,\k‿[il/ɛl] nɛ.twa.jas\,subjonctif,imparfait,troisième_pluriel
+nettoyer - conditionnel - présent - première_singulier,nettoyer,nettoierais,\ʒə nɛ.twa.ʁɛ\,conditionnel,présent,première_singulier
+nettoyer - conditionnel - présent - deuxième_singulier,nettoyer,nettoierais,\ty nɛ.twa.ʁɛ\,conditionnel,présent,deuxième_singulier
+nettoyer - conditionnel - présent - troisième_singulier,nettoyer,nettoierait,\[il/ɛl/ɔ̃] nɛ.twa.ʁɛ\,conditionnel,présent,troisième_singulier
+nettoyer - conditionnel - présent - première_pluriel,nettoyer,nettoierions,\nu nɛ.twa.ʁjɔ̃\,conditionnel,présent,première_pluriel
+nettoyer - conditionnel - présent - deuxième_pluriel,nettoyer,nettoieriez,\vu nɛ.twa.ʁje\,conditionnel,présent,deuxième_pluriel
+nettoyer - conditionnel - présent - troisième_pluriel,nettoyer,nettoieraient,\[il/ɛl] nɛ.twa.ʁɛ\,conditionnel,présent,troisième_pluriel
+commencer - indicatif - présent - première_singulier,commencer,commence,\ʒə kɔ.mɑ̃s\,indicatif,présent,première_singulier
+commencer - indicatif - présent - deuxième_singulier,commencer,commences,\ty kɔ.mɑ̃s\,indicatif,présent,deuxième_singulier
+commencer - indicatif - présent - troisième_singulier,commencer,commence,\[il/ɛl/ɔ̃] kɔ.mɑ̃s\,indicatif,présent,troisième_singulier
+commencer - indicatif - présent - première_pluriel,commencer,commençons,\nu kɔ.mɑ̃.sɔ̃\,indicatif,présent,première_pluriel
+commencer - indicatif - présent - deuxième_pluriel,commencer,commencez,\vu kɔ.mɑ̃.se\,indicatif,présent,deuxième_pluriel
+commencer - indicatif - présent - troisième_pluriel,commencer,commencent,\[il/ɛl] kɔ.mɑ̃s\,indicatif,présent,troisième_pluriel
+commencer - indicatif - passé_composé - première_singulier,commencer,ai commencé,\ʒ‿e kɔ.mɑ̃.se\,indicatif,passé composé,première_singulier
+commencer - indicatif - passé_composé - deuxième_singulier,commencer,as commencé,\ty a kɔ.mɑ̃.se\,indicatif,passé composé,deuxième_singulier
+commencer - indicatif - passé_composé - troisième_singulier,commencer,a commencé,\[i.l/ɛ.l/ɔ̃.n]‿a kɔ.mɑ̃.se\,indicatif,passé composé,troisième_singulier
+commencer - indicatif - passé_composé - première_pluriel,commencer,avons commencé,\nu.z‿a.vɔ̃ kɔ.mɑ̃.se\,indicatif,passé composé,première_pluriel
+commencer - indicatif - passé_composé - deuxième_pluriel,commencer,avez commencé,\vu.z‿a.ve kɔ.mɑ̃.se\,indicatif,passé composé,deuxième_pluriel
+commencer - indicatif - passé_composé - troisième_pluriel,commencer,ont commencé,\[i/ɛ]l.z‿ɔ̃ kɔ.mɑ̃.se\,indicatif,passé composé,troisième_pluriel
+commencer - indicatif - imparfait - première_singulier,commencer,commençais,\ʒə kɔ.mɑ̃.sɛ\,indicatif,imparfait,première_singulier
+commencer - indicatif - imparfait - deuxième_singulier,commencer,commençais,\ty kɔ.mɑ̃.sɛ\,indicatif,imparfait,deuxième_singulier
+commencer - indicatif - imparfait - troisième_singulier,commencer,commençait,\[il/ɛl/ɔ̃] kɔ.mɑ̃.sɛ\,indicatif,imparfait,troisième_singulier
+commencer - indicatif - imparfait - première_pluriel,commencer,commencions,\nu kɔ.mɑ̃.sjɔ̃\,indicatif,imparfait,première_pluriel
+commencer - indicatif - imparfait - deuxième_pluriel,commencer,commenciez,\vu kɔ.mɑ̃.sje\,indicatif,imparfait,deuxième_pluriel
+commencer - indicatif - imparfait - troisième_pluriel,commencer,commençaient,\[il/ɛl] kɔ.mɑ̃.sɛ\,indicatif,imparfait,troisième_pluriel
+commencer - indicatif - passé_simple - première_singulier,commencer,commençai,\ʒə kɔ.mɑ̃.se\,indicatif,passé simple,première_singulier
+commencer - indicatif - passé_simple - deuxième_singulier,commencer,commenças,\ty kɔ.mɑ̃.sa\,indicatif,passé simple,deuxième_singulier
+commencer - indicatif - passé_simple - troisième_singulier,commencer,commença,\[il/ɛl/ɔ̃] kɔ.mɑ̃.sa\,indicatif,passé simple,troisième_singulier
+commencer - indicatif - passé_simple - première_pluriel,commencer,commençâmes,\nu kɔ.mɑ̃.sam\,indicatif,passé simple,première_pluriel
+commencer - indicatif - passé_simple - deuxième_pluriel,commencer,commençâtes,\vu kɔ.mɑ̃.sat\,indicatif,passé simple,deuxième_pluriel
+commencer - indicatif - passé_simple - troisième_pluriel,commencer,commencèrent,\[il/ɛl] kɔ.mɑ̃.sɛʁ\,indicatif,passé simple,troisième_pluriel
+commencer - indicatif - futur_simple - première_singulier,commencer,commencerai,\ʒə kɔ.mɑ̃.s(ə.)ʁe\,indicatif,futur simple,première_singulier
+commencer - indicatif - futur_simple - deuxième_singulier,commencer,commenceras,\ty kɔ.mɑ̃.s(ə.)ʁa\,indicatif,futur simple,deuxième_singulier
+commencer - indicatif - futur_simple - troisième_singulier,commencer,commencera,\[il/ɛl/ɔ̃] kɔ.mɑ̃.s(ə.)ʁa\,indicatif,futur simple,troisième_singulier
+commencer - indicatif - futur_simple - première_pluriel,commencer,commencerons,\nu kɔ.mɑ̃.s(ə.)ʁɔ̃\,indicatif,futur simple,première_pluriel
+commencer - indicatif - futur_simple - deuxième_pluriel,commencer,commencerez,\vu kɔ.mɑ̃.s(ə.)ʁe\,indicatif,futur simple,deuxième_pluriel
+commencer - indicatif - futur_simple - troisième_pluriel,commencer,commenceront,\[il/ɛl] kɔ.mɑ̃.s(ə.)ʁɔ̃\,indicatif,futur simple,troisième_pluriel
+commencer - subjonctif - présent - première_singulier,commencer,commence,\kə ʒə kɔ.mɑ̃s\,subjonctif,présent,première_singulier
+commencer - subjonctif - présent - deuxième_singulier,commencer,commences,\kə ty kɔ.mɑ̃s\,subjonctif,présent,deuxième_singulier
+commencer - subjonctif - présent - troisième_singulier,commencer,commence,\k‿[il/ɛl/ɔ̃] kɔ.mɑ̃s\,subjonctif,présent,troisième_singulier
+commencer - subjonctif - présent - première_pluriel,commencer,commencions,\kə nu kɔ.mɑ̃.sjɔ̃\,subjonctif,présent,première_pluriel
+commencer - subjonctif - présent - deuxième_pluriel,commencer,commenciez,\kə vu kɔ.mɑ̃.sje\,subjonctif,présent,deuxième_pluriel
+commencer - subjonctif - présent - troisième_pluriel,commencer,commencent,\k‿[il/ɛl] kɔ.mɑ̃s\,subjonctif,présent,troisième_pluriel
+commencer - subjonctif - imparfait - première_singulier,commencer,commençasse,\kə ʒə kɔ.mɑ̃.sas\,subjonctif,imparfait,première_singulier
+commencer - subjonctif - imparfait - deuxième_singulier,commencer,commençasses,\kə ty kɔ.mɑ̃.sas\,subjonctif,imparfait,deuxième_singulier
+commencer - subjonctif - imparfait - troisième_singulier,commencer,commençât,\k‿[il/ɛl/ɔ̃] kɔ.mɑ̃.sa\,subjonctif,imparfait,troisième_singulier
+commencer - subjonctif - imparfait - première_pluriel,commencer,commençassions,\kə nu kɔ.mɑ̃.sa.sjɔ̃\,subjonctif,imparfait,première_pluriel
+commencer - subjonctif - imparfait - deuxième_pluriel,commencer,commençassiez,\kə vu kɔ.mɑ̃.sa.sje\,subjonctif,imparfait,deuxième_pluriel
+commencer - subjonctif - imparfait - troisième_pluriel,commencer,commençassent,\k‿[il/ɛl] kɔ.mɑ̃.sas\,subjonctif,imparfait,troisième_pluriel
+commencer - conditionnel - présent - première_singulier,commencer,commencerais,\ʒə kɔ.mɑ̃.s(ə.)ʁɛ\,conditionnel,présent,première_singulier
+commencer - conditionnel - présent - deuxième_singulier,commencer,commencerais,\ty kɔ.mɑ̃.s(ə.)ʁɛ\,conditionnel,présent,deuxième_singulier
+commencer - conditionnel - présent - troisième_singulier,commencer,commencerait,\[il/ɛl/ɔ̃] kɔ.mɑ̃.s(ə.)ʁɛ\,conditionnel,présent,troisième_singulier
+commencer - conditionnel - présent - première_pluriel,commencer,commencerions,\nu kɔ.mɑ̃.sə.ʁjɔ̃\,conditionnel,présent,première_pluriel
+commencer - conditionnel - présent - deuxième_pluriel,commencer,commenceriez,\vu kɔ.mɑ̃.sə.ʁje\,conditionnel,présent,deuxième_pluriel
+commencer - conditionnel - présent - troisième_pluriel,commencer,commenceraient,\[il/ɛl] kɔ.mɑ̃.s(ə.)ʁɛ\,conditionnel,présent,troisième_pluriel
+appeler - indicatif - présent - première_singulier,appeler,appelle,\ʒ‿a.pɛl\,indicatif,présent,première_singulier
+appeler - indicatif - présent - deuxième_singulier,appeler,appelles,\ty a.pɛl\,indicatif,présent,deuxième_singulier
+appeler - indicatif - présent - troisième_singulier,appeler,appelle,\[i.l/ɛ.l/ɔ̃.n]‿a.pɛl\,indicatif,présent,troisième_singulier
+appeler - indicatif - présent - première_pluriel,appeler,appelons,\nu.z‿a.p(ə.)lɔ̃\,indicatif,présent,première_pluriel
+appeler - indicatif - présent - deuxième_pluriel,appeler,appelez,\vu.z‿a.p(ə.)le\,indicatif,présent,deuxième_pluriel
+appeler - indicatif - présent - troisième_pluriel,appeler,appellent,\[il/ɛl].z‿a.pɛl\,indicatif,présent,troisième_pluriel
+appeler - indicatif - passé_composé - première_singulier,appeler,ai appelé,\ʒ‿e a.p(ə.)le\,indicatif,passé composé,première_singulier
+appeler - indicatif - passé_composé - deuxième_singulier,appeler,as appelé,\ty a.z‿a.p(ə.)le\,indicatif,passé composé,deuxième_singulier
+appeler - indicatif - passé_composé - troisième_singulier,appeler,a appelé,\[i.l/ɛ.l/ɔ̃.n]‿a.a.p(ə.)le\,indicatif,passé composé,troisième_singulier
+appeler - indicatif - passé_composé - première_pluriel,appeler,avons appelé,\nu.z‿a.vɔ̃.z‿a.p(ə.)le\,indicatif,passé composé,première_pluriel
+appeler - indicatif - passé_composé - deuxième_pluriel,appeler,avez appelé,\vu.z‿a.ve.z‿a.p(ə.)le\,indicatif,passé composé,deuxième_pluriel
+appeler - indicatif - passé_composé - troisième_pluriel,appeler,ont appelé,\[i/ɛ]l.z‿ɔ̃.t‿a.p(ə.)le\,indicatif,passé composé,troisième_pluriel
+appeler - indicatif - imparfait - première_singulier,appeler,appelais,\ʒ‿a.p(ə.)lɛ\,indicatif,imparfait,première_singulier
+appeler - indicatif - imparfait - deuxième_singulier,appeler,appelais,\ty a.p(ə.)lɛ\,indicatif,imparfait,deuxième_singulier
+appeler - indicatif - imparfait - troisième_singulier,appeler,appelait,\[i.l/ɛ.l/ɔ̃.n]‿a.p(ə.)lɛ\,indicatif,imparfait,troisième_singulier
+appeler - indicatif - imparfait - première_pluriel,appeler,appelions,\nu.z‿a.pə.ljɔ̃\,indicatif,imparfait,première_pluriel
+appeler - indicatif - imparfait - deuxième_pluriel,appeler,appeliez,\vu.z‿a.pə.lje\,indicatif,imparfait,deuxième_pluriel
+appeler - indicatif - imparfait - troisième_pluriel,appeler,appelaient,\[il/ɛl].z‿a.p(ə.)lɛ\,indicatif,imparfait,troisième_pluriel
+appeler - indicatif - passé_simple - première_singulier,appeler,appelai,\ʒ‿a.p(ə.)le\,indicatif,passé simple,première_singulier
+appeler - indicatif - passé_simple - deuxième_singulier,appeler,appelas,\ty a.p(ə.)la\,indicatif,passé simple,deuxième_singulier
+appeler - indicatif - passé_simple - troisième_singulier,appeler,appela,\[i.l/ɛ.l/ɔ̃.n]‿a.p(ə.)la\,indicatif,passé simple,troisième_singulier
+appeler - indicatif - passé_simple - première_pluriel,appeler,appelâmes,\nu.z‿a.p(ə.)lam\,indicatif,passé simple,première_pluriel
+appeler - indicatif - passé_simple - deuxième_pluriel,appeler,appelâtes,\vu.z‿a.p(ə.)lat\,indicatif,passé simple,deuxième_pluriel
+appeler - indicatif - passé_simple - troisième_pluriel,appeler,appelèrent,\[il/ɛl].z‿a.p(ə.)lɛʁ\,indicatif,passé simple,troisième_pluriel
+appeler - indicatif - futur_simple - première_singulier,appeler,appellerai,\ʒ‿a.pɛ.l(ə.)ʁe\,indicatif,futur simple,première_singulier
+appeler - indicatif - futur_simple - deuxième_singulier,appeler,appelleras,\ty a.pɛ.l(ə.)ʁa\,indicatif,futur simple,deuxième_singulier
+appeler - indicatif - futur_simple - troisième_singulier,appeler,appellera,\[i.l/ɛ.l/ɔ̃.n]‿a.pɛ.l(ə.)ʁa\,indicatif,futur simple,troisième_singulier
+appeler - indicatif - futur_simple - première_pluriel,appeler,appellerons,\nu.z‿a.pɛ.l(ə.)ʁɔ̃\,indicatif,futur simple,première_pluriel
+appeler - indicatif - futur_simple - deuxième_pluriel,appeler,appellerez,\vu.z‿a.pɛ.l(ə.)ʁe\,indicatif,futur simple,deuxième_pluriel
+appeler - indicatif - futur_simple - troisième_pluriel,appeler,appelleront,\[il/ɛl].z‿a.pɛ.l(ə.)ʁɔ̃\,indicatif,futur simple,troisième_pluriel
+appeler - subjonctif - présent - première_singulier,appeler,appelle,\kə ʒ‿a.pɛl\,subjonctif,présent,première_singulier
+appeler - subjonctif - présent - deuxième_singulier,appeler,appelles,\kə ty a.pɛl\,subjonctif,présent,deuxième_singulier
+appeler - subjonctif - présent - troisième_singulier,appeler,appelle,\k‿[i.l/ɛ.l/ɔ̃.n]‿a.pɛl\,subjonctif,présent,troisième_singulier
+appeler - subjonctif - présent - première_pluriel,appeler,appelions,\kə nu.z‿a.pə.ljɔ̃\,subjonctif,présent,première_pluriel
+appeler - subjonctif - présent - deuxième_pluriel,appeler,appeliez,\kə vu.z‿a.pə.lje\,subjonctif,présent,deuxième_pluriel
+appeler - subjonctif - présent - troisième_pluriel,appeler,appellent,\k‿[il/ɛl].z‿a.pɛl\,subjonctif,présent,troisième_pluriel
+appeler - subjonctif - imparfait - première_singulier,appeler,appelasse,\kə ʒ‿a.p(ə.)las\,subjonctif,imparfait,première_singulier
+appeler - subjonctif - imparfait - deuxième_singulier,appeler,appelasses,\kə ty a.p(ə.)las\,subjonctif,imparfait,deuxième_singulier
+appeler - subjonctif - imparfait - troisième_singulier,appeler,appelât,\k‿[i.l/ɛ.l/ɔ̃.n]‿a.p(ə.)la\,subjonctif,imparfait,troisième_singulier
+appeler - subjonctif - imparfait - première_pluriel,appeler,appelassions,\kə nu.z‿a.p(ə.)la.sjɔ̃\,subjonctif,imparfait,première_pluriel
+appeler - subjonctif - imparfait - deuxième_pluriel,appeler,appelassiez,\kə vu.z‿a.p(ə.)la.sje\,subjonctif,imparfait,deuxième_pluriel
+appeler - subjonctif - imparfait - troisième_pluriel,appeler,appelassent,\k‿[il/ɛl].z‿a.p(ə.)las\,subjonctif,imparfait,troisième_pluriel
+appeler - conditionnel - présent - première_singulier,appeler,appellerais,\ʒ‿a.pɛ.l(ə.)ʁɛ\,conditionnel,présent,première_singulier
+appeler - conditionnel - présent - deuxième_singulier,appeler,appellerais,\ty a.pɛ.l(ə.)ʁɛ\,conditionnel,présent,deuxième_singulier
+appeler - conditionnel - présent - troisième_singulier,appeler,appellerait,\[i.l/ɛ.l/ɔ̃.n]‿a.pɛ.l(ə.)ʁɛ\,conditionnel,présent,troisième_singulier
+appeler - conditionnel - présent - première_pluriel,appeler,appellerions,\nu.z‿a.pɛ.lə.ʁjɔ̃\,conditionnel,présent,première_pluriel
+appeler - conditionnel - présent - deuxième_pluriel,appeler,appelleriez,\vu.z‿a.pɛ.lə.ʁje\,conditionnel,présent,deuxième_pluriel
+appeler - conditionnel - présent - troisième_pluriel,appeler,appelleraient,\[il/ɛl].z‿a.pɛ.l(ə.)ʁɛ\,conditionnel,présent,troisième_pluriel
+jeter - indicatif - présent - première_singulier,jeter,jette,\ʒə ʒɛt\,indicatif,présent,première_singulier
+jeter - indicatif - présent - deuxième_singulier,jeter,jettes,\ty ʒɛt\,indicatif,présent,deuxième_singulier
+jeter - indicatif - présent - troisième_singulier,jeter,jette,\[il/ɛl/ɔ̃] ʒɛt\,indicatif,présent,troisième_singulier
+jeter - indicatif - présent - première_pluriel,jeter,jetons,\nu ʒ(ə.)tɔ̃\,indicatif,présent,première_pluriel
+jeter - indicatif - présent - deuxième_pluriel,jeter,jetez,\vu ʒ(ə.)te\,indicatif,présent,deuxième_pluriel
+jeter - indicatif - présent - troisième_pluriel,jeter,jettent,\[il/ɛl] ʒɛt\,indicatif,présent,troisième_pluriel
+jeter - indicatif - passé_composé - première_singulier,jeter,ai jeté,\ʒ‿e ʒ(ə.)te\,indicatif,passé composé,première_singulier
+jeter - indicatif - passé_composé - deuxième_singulier,jeter,as jeté,\ty a ʒ(ə.)te\,indicatif,passé composé,deuxième_singulier
+jeter - indicatif - passé_composé - troisième_singulier,jeter,a jeté,\[i.l/ɛ.l/ɔ̃.n]‿a ʒ(ə.)te\,indicatif,passé composé,troisième_singulier
+jeter - indicatif - passé_composé - première_pluriel,jeter,avons jeté,\nu.z‿a.vɔ̃ ʒ(ə.)te\,indicatif,passé composé,première_pluriel
+jeter - indicatif - passé_composé - deuxième_pluriel,jeter,avez jeté,\vu.z‿a.ve ʒ(ə.)te\,indicatif,passé composé,deuxième_pluriel
+jeter - indicatif - passé_composé - troisième_pluriel,jeter,ont jeté,\[i/ɛ]l.z‿ɔ̃ ʒ(ə.)te\,indicatif,passé composé,troisième_pluriel
+jeter - indicatif - imparfait - première_singulier,jeter,jetais,\ʒə ʒ(ə.)tɛ\,indicatif,imparfait,première_singulier
+jeter - indicatif - imparfait - deuxième_singulier,jeter,jetais,\ty ʒ(ə.)tɛ\,indicatif,imparfait,deuxième_singulier
+jeter - indicatif - imparfait - troisième_singulier,jeter,jetait,\[il/ɛl/ɔ̃] ʒ(ə.)tɛ\,indicatif,imparfait,troisième_singulier
+jeter - indicatif - imparfait - première_pluriel,jeter,jetions,\nu ʒə.tjɔ̃\,indicatif,imparfait,première_pluriel
+jeter - indicatif - imparfait - deuxième_pluriel,jeter,jetiez,\vu ʒə.tje\,indicatif,imparfait,deuxième_pluriel
+jeter - indicatif - imparfait - troisième_pluriel,jeter,jetaient,\[il/ɛl] ʒ(ə.)tɛ\,indicatif,imparfait,troisième_pluriel
+jeter - indicatif - passé_simple - première_singulier,jeter,jetai,\ʒə ʒ(ə.)te\,indicatif,passé simple,première_singulier
+jeter - indicatif - passé_simple - deuxième_singulier,jeter,jetas,\ty ʒ(ə.)ta\,indicatif,passé simple,deuxième_singulier
+jeter - indicatif - passé_simple - troisième_singulier,jeter,jeta,\[il/ɛl/ɔ̃] ʒ(ə.)ta\,indicatif,passé simple,troisième_singulier
+jeter - indicatif - passé_simple - première_pluriel,jeter,jetâmes,\nu ʒ(ə.)tam\,indicatif,passé simple,première_pluriel
+jeter - indicatif - passé_simple - deuxième_pluriel,jeter,jetâtes,\vu ʒ(ə.)tat\,indicatif,passé simple,deuxième_pluriel
+jeter - indicatif - passé_simple - troisième_pluriel,jeter,jetèrent,\[il/ɛl] ʒ(ə.)tɛʁ\,indicatif,passé simple,troisième_pluriel
+jeter - indicatif - futur_simple - première_singulier,jeter,jetterai,\ʒə ʒɛ.t(ə.)ʁe\,indicatif,futur simple,première_singulier
+jeter - indicatif - futur_simple - deuxième_singulier,jeter,jetteras,\ty ʒɛ.t(ə.)ʁa\,indicatif,futur simple,deuxième_singulier
+jeter - indicatif - futur_simple - troisième_singulier,jeter,jettera,\[il/ɛl/ɔ̃] ʒɛ.t(ə.)ʁa\,indicatif,futur simple,troisième_singulier
+jeter - indicatif - futur_simple - première_pluriel,jeter,jetterons,\nu ʒɛ.t(ə.)ʁɔ̃\,indicatif,futur simple,première_pluriel
+jeter - indicatif - futur_simple - deuxième_pluriel,jeter,jetterez,\vu ʒɛ.t(ə.)ʁe\,indicatif,futur simple,deuxième_pluriel
+jeter - indicatif - futur_simple - troisième_pluriel,jeter,jetteront,\[il/ɛl] ʒɛ.t(ə.)ʁɔ̃\,indicatif,futur simple,troisième_pluriel
+jeter - subjonctif - présent - première_singulier,jeter,jette,\kə ʒə ʒɛt\,subjonctif,présent,première_singulier
+jeter - subjonctif - présent - deuxième_singulier,jeter,jettes,\kə ty ʒɛt\,subjonctif,présent,deuxième_singulier
+jeter - subjonctif - présent - troisième_singulier,jeter,jette,\k‿[il/ɛl/ɔ̃] ʒɛt\,subjonctif,présent,troisième_singulier
+jeter - subjonctif - présent - première_pluriel,jeter,jetions,\kə nu ʒə.tjɔ̃\,subjonctif,présent,première_pluriel
+jeter - subjonctif - présent - deuxième_pluriel,jeter,jetiez,\kə vu ʒə.tje\,subjonctif,présent,deuxième_pluriel
+jeter - subjonctif - présent - troisième_pluriel,jeter,jettent,\k‿[il/ɛl] ʒɛt\,subjonctif,présent,troisième_pluriel
+jeter - subjonctif - imparfait - première_singulier,jeter,jetasse,\kə ʒə ʒ(ə.)tas\,subjonctif,imparfait,première_singulier
+jeter - subjonctif - imparfait - deuxième_singulier,jeter,jetasses,\kə ty ʒ(ə.)tas\,subjonctif,imparfait,deuxième_singulier
+jeter - subjonctif - imparfait - troisième_singulier,jeter,jetât,\k‿[il/ɛl/ɔ̃] ʒ(ə.)ta\,subjonctif,imparfait,troisième_singulier
+jeter - subjonctif - imparfait - première_pluriel,jeter,jetassions,\kə nu ʒ(ə.)ta.sjɔ̃\,subjonctif,imparfait,première_pluriel
+jeter - subjonctif - imparfait - deuxième_pluriel,jeter,jetassiez,\kə vu ʒ(ə.)ta.sje\,subjonctif,imparfait,deuxième_pluriel
+jeter - subjonctif - imparfait - troisième_pluriel,jeter,jetassent,\k‿[il/ɛl] ʒ(ə.)tas\,subjonctif,imparfait,troisième_pluriel
+jeter - conditionnel - présent - première_singulier,jeter,jetterais,\ʒə ʒɛ.t(ə.)ʁɛ\,conditionnel,présent,première_singulier
+jeter - conditionnel - présent - deuxième_singulier,jeter,jetterais,\ty ʒɛ.t(ə.)ʁɛ\,conditionnel,présent,deuxième_singulier
+jeter - conditionnel - présent - troisième_singulier,jeter,jetterait,\[il/ɛl/ɔ̃] ʒɛ.t(ə.)ʁɛ\,conditionnel,présent,troisième_singulier
+jeter - conditionnel - présent - première_pluriel,jeter,jetterions,\nu ʒɛ.tə.ʁjɔ̃\,conditionnel,présent,première_pluriel
+jeter - conditionnel - présent - deuxième_pluriel,jeter,jetteriez,\vu ʒɛ.tə.ʁje\,conditionnel,présent,deuxième_pluriel
+jeter - conditionnel - présent - troisième_pluriel,jeter,jetteraient,\[il/ɛl] ʒɛ.t(ə.)ʁɛ\,conditionnel,présent,troisième_pluriel
