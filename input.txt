@@ -56,3 +56,4 @@ commencer
 appeler
 jeter
 mentir
+s’asseoir

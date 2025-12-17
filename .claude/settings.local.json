@@ -9,7 +9,8 @@
       "Bash(python:*)",
       "Bash(grep:*)",
       "Bash(./venv/bin/python3 conjugation_scraper.py:*)",
-      "WebFetch(domain:fr.m.wiktionary.org)"
+      "WebFetch(domain:fr.m.wiktionary.org)",
+      "Bash(./venv/bin/python3:*)"
     ],
     "deny": []
   }
