@@ -2620,3 +2620,51 @@ jeter - conditionnel - présent - troisième_singulier,jeter,jetterait,\[il/ɛl/
 jeter - conditionnel - présent - première_pluriel,jeter,jetterions,\nu ʒɛ.tə.ʁjɔ̃\,conditionnel,présent,première_pluriel
 jeter - conditionnel - présent - deuxième_pluriel,jeter,jetteriez,\vu ʒɛ.tə.ʁje\,conditionnel,présent,deuxième_pluriel
 jeter - conditionnel - présent - troisième_pluriel,jeter,jetteraient,\[il/ɛl] ʒɛ.t(ə.)ʁɛ\,conditionnel,présent,troisième_pluriel
+mentir - indicatif - présent - première_singulier,mentir,mens,\ʒə mɑ̃\,indicatif,présent,première_singulier
+mentir - indicatif - présent - deuxième_singulier,mentir,mens,\ty mɑ̃\,indicatif,présent,deuxième_singulier
+mentir - indicatif - présent - troisième_singulier,mentir,ment,\[il/ɛl/ɔ̃] mɑ̃\,indicatif,présent,troisième_singulier
+mentir - indicatif - présent - première_pluriel,mentir,mentons,\nu mɑ̃.tɔ̃\,indicatif,présent,première_pluriel
+mentir - indicatif - présent - deuxième_pluriel,mentir,mentez,\vu mɑ̃.te\,indicatif,présent,deuxième_pluriel
+mentir - indicatif - présent - troisième_pluriel,mentir,mentent,\[il/ɛl] mɑ̃t\,indicatif,présent,troisième_pluriel
+mentir - indicatif - passé_composé - première_singulier,mentir,ai menti,\ʒ‿e mɑ̃.ti\,indicatif,passé composé,première_singulier
+mentir - indicatif - passé_composé - deuxième_singulier,mentir,as menti,\ty a mɑ̃.ti\,indicatif,passé composé,deuxième_singulier
+mentir - indicatif - passé_composé - troisième_singulier,mentir,a menti,\[i.l/ɛ.l/ɔ̃.n]‿a mɑ̃.ti\,indicatif,passé composé,troisième_singulier
+mentir - indicatif - passé_composé - première_pluriel,mentir,avons menti,\nu.z‿a.vɔ̃ mɑ̃.ti\,indicatif,passé composé,première_pluriel
+mentir - indicatif - passé_composé - deuxième_pluriel,mentir,avez menti,\vu.z‿a.ve mɑ̃.ti\,indicatif,passé composé,deuxième_pluriel
+mentir - indicatif - passé_composé - troisième_pluriel,mentir,ont menti,\[i/ɛ]l.z‿ɔ̃ mɑ̃.ti\,indicatif,passé composé,troisième_pluriel
+mentir - indicatif - imparfait - première_singulier,mentir,mentais,\ʒə mɑ̃.tɛ\,indicatif,imparfait,première_singulier
+mentir - indicatif - imparfait - deuxième_singulier,mentir,mentais,\ty mɑ̃.tɛ\,indicatif,imparfait,deuxième_singulier
+mentir - indicatif - imparfait - troisième_singulier,mentir,mentait,\[il/ɛl/ɔ̃] mɑ̃.tɛ\,indicatif,imparfait,troisième_singulier
+mentir - indicatif - imparfait - première_pluriel,mentir,mentions,\nu mɑ̃.tjɔ̃\,indicatif,imparfait,première_pluriel
+mentir - indicatif - imparfait - deuxième_pluriel,mentir,mentiez,\vu mɑ̃.tje\,indicatif,imparfait,deuxième_pluriel
+mentir - indicatif - imparfait - troisième_pluriel,mentir,mentaient,\[il/ɛl] mɑ̃.tɛ\,indicatif,imparfait,troisième_pluriel
+mentir - indicatif - passé_simple - première_singulier,mentir,mentis,\ʒə mɑ̃.ti\,indicatif,passé simple,première_singulier
+mentir - indicatif - passé_simple - deuxième_singulier,mentir,mentis,\ty mɑ̃.ti\,indicatif,passé simple,deuxième_singulier
+mentir - indicatif - passé_simple - troisième_singulier,mentir,mentit,\[il/ɛl/ɔ̃] mɑ̃.ti\,indicatif,passé simple,troisième_singulier
+mentir - indicatif - passé_simple - première_pluriel,mentir,mentîmes,\nu mɑ̃.tim\,indicatif,passé simple,première_pluriel
+mentir - indicatif - passé_simple - deuxième_pluriel,mentir,mentîtes,\vu mɑ̃.tit\,indicatif,passé simple,deuxième_pluriel
+mentir - indicatif - passé_simple - troisième_pluriel,mentir,mentirent,\[il/ɛl] mɑ̃.tiʁ\,indicatif,passé simple,troisième_pluriel
+mentir - indicatif - futur_simple - première_singulier,mentir,mentirai,\ʒə mɑ̃.ti.ʁe\,indicatif,futur simple,première_singulier
+mentir - indicatif - futur_simple - deuxième_singulier,mentir,mentiras,\ty mɑ̃.ti.ʁa\,indicatif,futur simple,deuxième_singulier
+mentir - indicatif - futur_simple - troisième_singulier,mentir,mentira,\[il/ɛl/ɔ̃] mɑ̃.ti.ʁa\,indicatif,futur simple,troisième_singulier
+mentir - indicatif - futur_simple - première_pluriel,mentir,mentirons,\nu mɑ̃.ti.ʁɔ̃\,indicatif,futur simple,première_pluriel
+mentir - indicatif - futur_simple - deuxième_pluriel,mentir,mentirez,\vu mɑ̃.ti.ʁe\,indicatif,futur simple,deuxième_pluriel
+mentir - indicatif - futur_simple - troisième_pluriel,mentir,mentiront,\[il/ɛl] mɑ̃.ti.ʁɔ̃\,indicatif,futur simple,troisième_pluriel
+mentir - subjonctif - présent - première_singulier,mentir,mente,\kə ʒə mɑ̃t\,subjonctif,présent,première_singulier
+mentir - subjonctif - présent - deuxième_singulier,mentir,mentes,\kə ty mɑ̃t\,subjonctif,présent,deuxième_singulier
+mentir - subjonctif - présent - troisième_singulier,mentir,mente,\k‿[il/ɛl/ɔ̃] mɑ̃t\,subjonctif,présent,troisième_singulier
+mentir - subjonctif - présent - première_pluriel,mentir,mentions,\kə nu mɑ̃.tjɔ̃\,subjonctif,présent,première_pluriel
+mentir - subjonctif - présent - deuxième_pluriel,mentir,mentiez,\kə vu mɑ̃.tje\,subjonctif,présent,deuxième_pluriel
+mentir - subjonctif - présent - troisième_pluriel,mentir,mentent,\k‿[il/ɛl] mɑ̃t\,subjonctif,présent,troisième_pluriel
+mentir - subjonctif - imparfait - première_singulier,mentir,mentisse,\kə ʒə mɑ̃.tis\,subjonctif,imparfait,première_singulier
+mentir - subjonctif - imparfait - deuxième_singulier,mentir,mentisses,\kə ty mɑ̃.tis\,subjonctif,imparfait,deuxième_singulier
+mentir - subjonctif - imparfait - troisième_singulier,mentir,mentît,\k‿[il/ɛl/ɔ̃] mɑ̃.ti\,subjonctif,imparfait,troisième_singulier
+mentir - subjonctif - imparfait - première_pluriel,mentir,mentissions,\kə nu mɑ̃.ti.sjɔ̃\,subjonctif,imparfait,première_pluriel
+mentir - subjonctif - imparfait - deuxième_pluriel,mentir,mentissiez,\kə vu mɑ̃.ti.sje\,subjonctif,imparfait,deuxième_pluriel
+mentir - subjonctif - imparfait - troisième_pluriel,mentir,mentissent,\k‿[il/ɛl] mɑ̃.tis\,subjonctif,imparfait,troisième_pluriel
+mentir - conditionnel - présent - première_singulier,mentir,mentirais,\ʒə mɑ̃.ti.ʁɛ\,conditionnel,présent,première_singulier
+mentir - conditionnel - présent - deuxième_singulier,mentir,mentirais,\ty mɑ̃.ti.ʁɛ\,conditionnel,présent,deuxième_singulier
+mentir - conditionnel - présent - troisième_singulier,mentir,mentirait,\[il/ɛl/ɔ̃] mɑ̃.ti.ʁɛ\,conditionnel,présent,troisième_singulier
+mentir - conditionnel - présent - première_pluriel,mentir,mentirions,\nu mɑ̃.ti.ʁjɔ̃\,conditionnel,présent,première_pluriel
+mentir - conditionnel - présent - deuxième_pluriel,mentir,mentiriez,\vu mɑ̃.ti.ʁje\,conditionnel,présent,deuxième_pluriel
+mentir - conditionnel - présent - troisième_pluriel,mentir,mentiraient,\[il/ɛl] mɑ̃.ti.ʁɛ\,conditionnel,présent,troisième_pluriel
