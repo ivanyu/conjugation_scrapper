@@ -463,12 +463,12 @@ class FrenchConjugationScraper:
         """Write conjugations to CSV file."""
         with open(output_file, 'w', newline='', encoding='utf-8') as csvfile:
             writer = csv.writer(csvfile)
-            
+
             for conjugation in conjugations:
                 writer.writerow([
-                    conjugation['id'],
-                    conjugation['infinitive'],
-                    conjugation['conjugated_form'],
+                    conjugation['id'].replace('\u2019', "'"),
+                    conjugation['infinitive'].replace('\u2019', "'"),
+                    conjugation['conjugated_form'].replace('\u2019', "'"),
                     conjugation['transcription'],
                     conjugation['mood'],
                     conjugation['tense'],
